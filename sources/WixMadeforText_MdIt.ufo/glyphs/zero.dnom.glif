@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.dnom" format="2">
+	<advance width="406"/>
+	<outline>
+		<contour>
+			<point x="161" y="-9" type="curve" smooth="yes"/>
+			<point x="269" y="-9"/>
+			<point x="356" y="113"/>
+			<point x="356" y="266" type="curve" smooth="yes"/>
+			<point x="356" y="361"/>
+			<point x="309" y="417"/>
+			<point x="227" y="417" type="curve" smooth="yes"/>
+			<point x="119" y="417"/>
+			<point x="32" y="295"/>
+			<point x="32" y="142" type="curve" smooth="yes"/>
+			<point x="32" y="47"/>
+			<point x="79" y="-9"/>
+		</contour>
+		<contour>
+			<point x="167" y="58" type="curve" smooth="yes"/>
+			<point x="131" y="58"/>
+			<point x="113" y="86"/>
+			<point x="113" y="141" type="curve" smooth="yes"/>
+			<point x="113" y="257"/>
+			<point x="161" y="350"/>
+			<point x="222" y="350" type="curve" smooth="yes"/>
+			<point x="257" y="350"/>
+			<point x="275" y="322"/>
+			<point x="275" y="267" type="curve" smooth="yes"/>
+			<point x="275" y="151"/>
+			<point x="227" y="58"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-22 16:13:05 +0000</string>
+		</dict>
+	</lib>
+</glyph>

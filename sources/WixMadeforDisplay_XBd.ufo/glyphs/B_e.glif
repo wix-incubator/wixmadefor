@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Be" format="2">
+	<unicode hex="0411"/>
+	<advance width="688"/>
+	<outline>
+		<contour>
+			<point x="80" y="0" type="line"/>
+			<point x="396" y="0" type="line" smooth="yes"/>
+			<point x="558" y="0"/>
+			<point x="666" y="91"/>
+			<point x="666" y="226" type="curve" smooth="yes"/>
+			<point x="666" y="359"/>
+			<point x="559" y="445"/>
+			<point x="396" y="445" type="curve" smooth="yes"/>
+			<point x="161" y="445" type="line"/>
+			<point x="161" y="302" type="line"/>
+			<point x="397" y="302" type="line" smooth="yes"/>
+			<point x="456" y="302"/>
+			<point x="492" y="274"/>
+			<point x="492" y="226" type="curve" smooth="yes"/>
+			<point x="492" y="174"/>
+			<point x="456" y="143"/>
+			<point x="397" y="143" type="curve" smooth="yes"/>
+			<point x="240" y="143" type="line"/>
+			<point x="252" y="131" type="line"/>
+			<point x="252" y="715" type="line"/>
+			<point x="80" y="715" type="line"/>
+		</contour>
+		<contour>
+			<point x="158" y="570" type="line"/>
+			<point x="610" y="570" type="line"/>
+			<point x="610" y="715" type="line"/>
+			<point x="158" y="715" type="line"/>
+		</contour>
+	</outline>
+</glyph>

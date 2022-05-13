@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ghe" format="2">
+	<unicode hex="0413"/>
+	<advance width="548"/>
+	<outline>
+		<contour>
+			<point x="95" y="0" type="line"/>
+			<point x="172" y="0" type="line"/>
+			<point x="172" y="698" type="line"/>
+			<point x="130" y="646" type="line"/>
+			<point x="538" y="646" type="line"/>
+			<point x="538" y="715" type="line"/>
+			<point x="95" y="715" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top.UC" x="321" y="750"/>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.numr" format="2">
+	<advance width="396"/>
+	<outline>
+		<component base="eight.dnom" xOffset="63" yOffset="304"/>
+	</outline>
+	<guideline y="295"/>
+	<guideline y="352"/>
+	<guideline y="487"/>
+	<guideline y="544"/>
+	<guideline y="664"/>
+	<guideline y="721"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.125,1,0,0.35</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="2">
+	<unicode hex="00C5"/>
+	<advance width="763"/>
+	<outline>
+		<component base="A"/>
+		<component base="ringcomb.cap" xOffset="470"/>
+	</outline>
+	<guideline x="337" y="0" angle="102"/>
+</glyph>

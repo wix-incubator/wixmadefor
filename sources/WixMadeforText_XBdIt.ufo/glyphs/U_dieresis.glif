@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="2">
+	<unicode hex="00DC"/>
+	<advance width="728"/>
+	<outline>
+		<component base="U"/>
+		<component base="dieresiscomb.cap" xOffset="473"/>
+	</outline>
+	<guideline x="318" y="0" angle="102"/>
+</glyph>

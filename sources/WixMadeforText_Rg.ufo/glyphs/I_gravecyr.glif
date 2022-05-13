@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igravecyr" format="2">
+	<unicode hex="040D"/>
+	<advance width="752"/>
+	<outline>
+		<component base="Icyr"/>
+		<component base="gravecomb.cap" xOffset="381"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>En</string>
+		</dict>
+	</lib>
+</glyph>

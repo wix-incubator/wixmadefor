@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triangledown" format="2">
+	<unicode hex="25BC"/>
+	<advance width="752"/>
+	<outline>
+		<contour>
+			<point x="116" y="322" type="line"/>
+			<point x="392" y="66" type="line"/>
+			<point x="668" y="322" type="line"/>
+			<point x="668" y="424" type="line"/>
+			<point x="392" y="172" type="line"/>
+			<point x="116" y="424" type="line"/>
+		</contour>
+	</outline>
+</glyph>

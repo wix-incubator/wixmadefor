@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcommabelow" format="2">
+	<unicode hex="0122"/>
+	<advance width="754"/>
+	<outline>
+		<component base="G"/>
+		<component base="commabelowcomb.cap" xOffset="361"/>
+	</outline>
+	<guideline x="-15" y="0" angle="102"/>
+	<guideline x="664" y="0" angle="102"/>
+</glyph>

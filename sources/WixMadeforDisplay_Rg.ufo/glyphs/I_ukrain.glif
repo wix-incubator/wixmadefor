@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iukrain" format="2">
+	<unicode hex="0406"/>
+	<advance width="267"/>
+	<outline>
+		<component base="I" xOffset="10"/>
+	</outline>
+	<anchor name="top.UC" x="123" y="750"/>
+</glyph>

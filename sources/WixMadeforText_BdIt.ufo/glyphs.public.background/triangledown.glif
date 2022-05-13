@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triangledown" format="2">
+	<outline>
+		<contour>
+			<point x="100" y="322" type="line"/>
+			<point x="376" y="66" type="line"/>
+			<point x="652" y="322" type="line"/>
+			<point x="652" y="424" type="line"/>
+			<point x="376" y="172" type="line"/>
+			<point x="100" y="424" type="line"/>
+		</contour>
+	</outline>
+</glyph>

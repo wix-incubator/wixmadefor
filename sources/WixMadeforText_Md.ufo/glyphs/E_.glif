@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+	<unicode hex="0045"/>
+	<advance width="607"/>
+	<outline>
+		<contour>
+			<point x="559" y="0" type="line"/>
+			<point x="559" y="89" type="line"/>
+			<point x="202" y="89" type="line"/>
+			<point x="202" y="626" type="line"/>
+			<point x="559" y="626" type="line"/>
+			<point x="559" y="715" type="line"/>
+			<point x="99" y="715" type="line"/>
+			<point x="99" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="541" y="320" type="line"/>
+			<point x="541" y="409" type="line"/>
+			<point x="192" y="409" type="line"/>
+			<point x="192" y="320" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="ogonek.UC" x="449" y="-30"/>
+	<anchor name="top.UC" x="329" y="750"/>
+	<anchor name="bottom.UC" x="329" y="-50"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-22 16:09:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,5155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.40">
+
+  <TSI3>
+
+    <glyphProgram name=".notdef">
+/* Y direction */
+YAnchor(0,10)
+YDist(0,4,&gt;=)
+YAnchor(1)
+YDist(1,7,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="A">
+/* Y direction */
+YAnchor(1,8)
+YAnchor(4,8)
+YAnchor(6,2)
+YIPAnchor(6,3,4)
+YInterpolate(6,10,3)
+YDelta(10,1/2@11..13,1@14)
+YLink(3,9,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="AE">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,14,72,&gt;=)
+YAnchor(4,8)
+YAnchor(7,2)
+YIPAnchor(7,13,3,0)
+YDelta(13,1@11;14;21)
+YDelta(3,-1@12)
+YLink(13,11,72,&gt;=)
+YLink(3,16,72,&gt;=)
+YLink(7,9,72,&gt;=)
+YDist(9,18,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="B">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,26,72,&gt;=)
+YAnchor(1,2)
+YLink(1,18,72,&gt;=)
+YIPAnchor(1,34,0)
+YDelta(34,1@11;14,-1@31)
+YLink(34,19,72,&gt;=)
+YDoubleGrid(9)
+YIPAnchor(19,9,34)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Be">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,17,72,&gt;=)
+YAnchor(1,2)
+YLink(1,4,72,&gt;=)
+YIPAnchor(4,5,0)
+YDelta(5,1@23)
+YLink(5,16,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="C">
+/* Y direction */
+YAnchor(4,9)
+YShift(4,1)
+YLink(4,29,74,&gt;=)
+YShift(29,0)
+YAnchor(14,3)
+YShift(14,17)
+YLink(14,21,74,&gt;=)
+YShift(21,18)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Che">
+/* Y direction */
+YAnchor(5,2)
+YAnchor(12,2)
+YAnchor(15,8)
+YIPAnchor(5,0,15)
+YShift(0,16)
+YLink(0,8,74,&gt;=)
+YShift(8,11)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="D">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,11,72,&gt;=)
+YAnchor(1,2)
+YLink(1,21,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="De">
+/* Y direction */
+YAnchor(6,2)
+YLink(6,21,72,&gt;=)
+YAnchor(11,157)
+YAnchor(12,8)
+YAnchor(13,8)
+YLink(13,2,72,&gt;=)
+YDist(2,8,&lt;)
+YDist(2,18,&lt;)
+YAnchor(14,157)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="De.loclBGR">
+/* Y direction */
+YAnchor(3,2)
+YAnchor(8,157)
+YAnchor(10,8)
+YLink(10,2,72,&gt;=)
+YDist(2,5,&lt;)
+YDist(2,13,&lt;)
+YInterpolate(3,12,2)
+YDelta(12,1/2@17..18,3/4@19..22)
+YAnchor(11,157)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Dje">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(3,2)
+YLink(3,1,72,&gt;=)
+YDist(1,6,&lt;)
+YIPAnchor(3,9,0)
+YShift(9,7)
+YLink(9,22,74,&gt;=)
+YShift(22,24)
+YAnchor(16,8)
+YLink(16,17,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Dzhe">
+/* Y direction */
+YAnchor(2,2)
+YAnchor(5,2)
+YAnchor(10,157)
+YAnchor(11,8)
+YLink(11,3,72,&gt;=)
+YDist(11,8,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="E">
+/* Y direction */
+YAnchor(1,8)
+YLink(1,10,72,&gt;=)
+YAnchor(2,2)
+YLink(2,5,72,&gt;=)
+YIPAnchor(2,9,1)
+YDelta(9,1@11;14;21)
+YLink(9,7,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ecyr">
+/* Y direction */
+YAnchor(0,9)
+YShift(0,3)
+YLink(0,7,74,&gt;=)
+YShift(7,4)
+YAnchor(23,3)
+YShift(23,20)
+YDelta(20,1/2@9)
+YLink(23,16,74,&gt;=)
+YShift(16,19)
+YDelta(19,1/2@9)
+YIPAnchor(16,11,0)
+YLink(11,13,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ef">
+/* Y direction */
+YAnchor(0)
+YAnchor(8)
+YIPAnchor(8,7,1,0)
+YDist(7,10,&lt;)
+YLink(7,29,72,&gt;=)
+YDist(29,21,&lt;)
+YDist(1,16,&lt;)
+YLink(1,28,72,&gt;=)
+YDist(28,22,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ef.loclBGR">
+/* Y direction */
+YAnchor(0)
+YAnchor(8)
+YIPAnchor(8,7,1,0)
+YDist(7,10,&lt;)
+YLink(7,29,72,&gt;=)
+YDist(29,21,&lt;)
+YDist(1,16,&lt;)
+YLink(1,28,72,&gt;=)
+YDist(28,22,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="El">
+/* Y direction */
+YAnchor(6,2)
+YLink(6,11,72,&gt;=)
+YAnchor(9,8)
+YAnchor(15,8)
+YLink(15,1,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="El.loclBGR">
+/* Y direction */
+YAnchor(1,2)
+YAnchor(4,8)
+YAnchor(6,8)
+YUpToGrid(5)
+YIPAnchor(1,5,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Eng">
+/* Y direction */
+YAnchor(1,8)
+YAnchor(3,2)
+YInterpolate(3,20,4,19,1)
+YAnchor(5,2)
+YAnchor(10,15)
+YShift(10,13)
+YLink(10,17,74,&gt;=)
+YShift(17,14)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Eth">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,15,72,&gt;=)
+YAnchor(5,2)
+YLink(5,25,72,&gt;=)
+YIPAnchor(5,1,0)
+YDelta(1,1@11;14;21)
+YDist(1,29,&lt;)
+YLink(1,4,72,&gt;=)
+YDist(4,26,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Euro">
+/* Y direction */
+YAnchor(11,13)
+YDist(11,8,&lt;)
+YLink(11,4,103,&gt;=)
+YDist(4,7,&lt;)
+YAnchor(27,5)
+YDist(27,30,&lt;)
+YLink(27,34,103,&gt;=)
+YDist(34,31,&lt;)
+YIPAnchor(34,14,4)
+YDelta(14,1@8..9;14;22;26..27,-1@28;40..41)
+YDist(14,1,&lt;)
+YLink(14,17,102,&gt;=)
+YDist(17,44,&lt;)
+YDist(17,21,&gt;=)
+YDelta(21,-1@8..9)
+YDist(21,40,&lt;)
+YLink(21,24,102,&gt;=)
+YDelta(24,-1@8..9)
+YDist(24,37,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="F">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(2,2)
+YLink(2,5,72,&gt;=)
+YIPAnchor(2,9,0)
+YDelta(9,-1@15..16)
+YLink(9,7,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Fita">
+/* Y direction */
+YAnchor(0,9)
+YLink(0,27,74,&gt;=)
+YAnchor(10,3)
+YLink(10,20,74,&gt;=)
+YIPAnchor(20,32,0)
+YLink(32,24,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="G">
+/* Y direction */
+YAnchor(1,8)
+YAnchor(4,9)
+YShift(4,2)
+YLink(4,29,74,&gt;=)
+YAnchor(14,3)
+YShift(14,17)
+YLink(14,21,74,&gt;=)
+YShift(21,18)
+YIPAnchor(14,34,4)
+YDelta(34,-1@19;24;26)
+YLink(34,36,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Germandbls">
+/* Y direction */
+YAnchor(20,8)
+YAnchor(25,2)
+YLink(25,14,72,&gt;=)
+YShift(14,26)
+YAnchor(35,9)
+YShift(35,0)
+YLink(35,4,74,&gt;=)
+YShift(4,1)
+YIPAnchor(25,27,35)
+YShift(27,13)
+YLink(27,10,74,&gt;=)
+YShift(10,12)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ghe">
+/* Y direction */
+YAnchor(1,2)
+YLink(1,4,72,&gt;=)
+YAnchor(5,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Gheup">
+/* Y direction */
+YAnchor(1,2)
+YDist(1,3,&gt;=)
+YLink(1,6,72,&gt;=)
+YAnchor(7,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="H">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(3,2)
+YIPAnchor(3,11,0)
+YDelta(11,1@11;14,-1@40)
+YLink(11,5,72,&gt;=)
+YAnchor(6,2)
+YAnchor(9,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Hard">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,17,72,&gt;=)
+YAnchor(3,2)
+YLink(3,1,72,&gt;=)
+YIPAnchor(3,5,0)
+YDelta(5,1@8..9)
+YLink(5,16,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Hbar">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(7,2)
+YIPAnchor(7,2,19,0)
+YDelta(2,1@18)
+YDelta(19,-1@8..9,1@11;14)
+YDist(2,15,&lt;)
+YDist(2,23,&lt;)
+YLink(2,5,85,&gt;=)
+YDist(5,8,&lt;)
+YDist(5,12,&lt;)
+YLink(19,21,72,&gt;=)
+YAnchor(10,2)
+YAnchor(17,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="I">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(3,2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="IJ">
+/* Y direction */
+YAnchor(3,2)
+YAnchor(4,2)
+YAnchor(8,9)
+YLink(8,15,74,&gt;=)
+YIPAnchor(4,0,12,8)
+YDelta(0,-1@10;12..13;16)
+YDelta(12,-7/8@10)
+YShift(12,11)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Icyr">
+/* Y direction */
+YAnchor(1,2)
+YAnchor(4,2)
+YAnchor(7,8)
+YAnchor(9,8)
+YInterpolate(1,8,3,9)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ieukrain">
+/* Y direction */
+YAnchor(0,9)
+YShift(0,32)
+YLink(0,28,74,&gt;=)
+YShift(28,31)
+YAnchor(10,3)
+YShift(10,13)
+YLink(10,17,74,&gt;=)
+YShift(17,14)
+YIPAnchor(17,24,0)
+YLink(24,22,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Izhitsa">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(2,2)
+YDownToGrid(3)
+YIPAnchor(2,3,0)
+YDelta(3,-7/8@14)
+YAnchor(9,2)
+YLink(9,10,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="J">
+/* Y direction */
+YAnchor(4,9)
+YLink(4,10,74,&gt;=)
+YAnchor(14,2)
+YIPAnchor(14,8,4)
+YShift(8,7)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="K">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(3,2)
+YInterpolate(3,4,7,10,0)
+YAnchor(5,2)
+YAnchor(9,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="L">
+/* Y direction */
+YAnchor(1,8)
+YLink(1,4,72,&gt;=)
+YAnchor(3,2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Lje">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,2,72,&gt;=)
+YAnchor(6,2)
+YLink(6,20,72,&gt;=)
+YAnchor(18,8)
+YLink(18,28,72,&gt;=)
+YIPAnchor(20,8,18)
+YLink(8,26,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Lslash">
+/* Y direction */
+YAnchor(1,8)
+YLink(1,13,72,&gt;=)
+YAnchor(6,2)
+YIPAnchor(6,2,1)
+YShift(2,3)
+YShift(2,10)
+YShift(2,11)
+YLink(2,5,72,&gt;=)
+YShift(5,4)
+YShift(5,8)
+YShift(5,9)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="M">
+/* Y direction */
+YAnchor(3,8)
+YAnchor(6,2)
+YIPAnchor(6,1,3)
+YInterpolate(6,2,7,1)
+YShift(2,12)
+YAnchor(8,2)
+YAnchor(11,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="N">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(3,2)
+YInterpolate(3,9,4,0)
+YAnchor(6,2)
+YAnchor(8,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Nje">
+/* Y direction */
+YAnchor(1,2)
+YAnchor(5,2)
+YAnchor(17,8)
+YLink(17,23,72,&gt;=)
+YAnchor(20,8)
+YIPAnchor(1,18,20)
+YDelta(18,1@14)
+YDist(18,22,&lt;)
+YLink(18,4,72,&gt;=)
+YDist(4,7,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="O">
+/* Y direction */
+YAnchor(0,9)
+YLink(0,20,74,&gt;=)
+YAnchor(10,3)
+YLink(10,28,74,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="OE">
+/* Y direction */
+YAnchor(0,9)
+YShift(0,26)
+YLink(0,29,74,&gt;=)
+YAnchor(10,3)
+YShift(10,13)
+YLink(10,37,74,&gt;=)
+YAnchor(14,2)
+YLink(14,17,72,&gt;=)
+YAnchor(25,8)
+YLink(25,22,72,&gt;=)
+YIPAnchor(14,21,25)
+YDelta(21,1@11;14;21)
+YLink(21,19,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ohorn">
+/* Y direction */
+YAnchor(0,9)
+YLink(0,32,74,&gt;=)
+YAnchor(10,3)
+YShift(10,12)
+YShift(10,24)
+YLink(10,40,74,&gt;=)
+YAnchor(19)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Oslash">
+/* Y direction */
+YAnchor(10,3)
+YShift(10,13)
+YShift(10,16)
+YDist(10,14,&lt;)
+YShift(14,15)
+YLink(10,34,74,&gt;=)
+YShift(34,31)
+YShift(34,44)
+YAnchor(24,9)
+YShift(24,2)
+YShift(24,27)
+YDist(24,0,&lt;)
+YShift(0,1)
+YLink(24,38,74,&gt;=)
+YShift(38,30)
+YShift(38,45)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="P">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(2,2)
+YLink(2,14,72,&gt;=)
+YIPAnchor(2,12,0)
+YLink(12,16,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Pe">
+/* Y direction */
+YAnchor(1,2)
+YLink(1,6,72,&gt;=)
+YAnchor(4,8)
+YAnchor(7,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Q">
+/* Y direction */
+YAnchor(0,9)
+YShift(0,18)
+YShift(0,21)
+YDist(0,20,&gt;=)
+YShift(20,19)
+YLink(0,24,74,&gt;=)
+YShift(24,26)
+YShift(24,29)
+YDist(24,28,&gt;=)
+YShift(28,27)
+YAnchor(10,3)
+YLink(10,35,74,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="R">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(2,2)
+YLink(2,16,72,&gt;=)
+YIPAnchor(2,13,0)
+YShift(13,10)
+YLink(13,18,72,&gt;=)
+YAnchor(12,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="S">
+/* Y direction */
+YAnchor(17,3)
+YLink(17,24,74,&gt;=)
+YAnchor(37,9)
+YIPAnchor(17,21,1,37)
+YShift(21,20)
+YShift(1,0)
+YLink(37,4,74,&gt;=)
+YInterpolate(4,30,17)
+YInterpolate(24,10,37)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Sha">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,4,72,&gt;=)
+YDist(4,7,&lt;)
+YAnchor(2,2)
+YAnchor(5,2)
+YAnchor(9,2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Shcha">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,4,72,&gt;=)
+YDist(4,7,&lt;)
+YDist(7,11,&lt;)
+YAnchor(2,2)
+YAnchor(5,2)
+YAnchor(9,2)
+YAnchor(14,157)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Soft">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,15,72,&gt;=)
+YAnchor(1,2)
+YIPAnchor(1,3,0)
+YDelta(3,1@8..9)
+YLink(3,14,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="T">
+/* Y direction */
+YAnchor(1,8)
+YAnchor(4,2)
+YLink(4,2,72,&gt;=)
+YDist(2,7,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Tbar">
+/* Y direction */
+YAnchor(1,8)
+YAnchor(8,2)
+YIPAnchor(8,2,1)
+YDelta(2,1@14)
+YDist(2,15,&lt;)
+YLink(2,5,72,&gt;=)
+YDist(5,12,&lt;)
+YLink(8,6,72,&gt;=)
+YDist(6,11,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Thorn">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(3,2)
+YIPAnchor(3,4,14,0)
+YDelta(4,1@11)
+YLink(4,15,72,&gt;=)
+YLink(14,18,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Tse">
+/* Y direction */
+YAnchor(2,2)
+YAnchor(5,2)
+YAnchor(10,157)
+YAnchor(11,8)
+YLink(11,7,72,&gt;=)
+YDist(7,4,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Tshe">
+/* Y direction */
+YAnchor(3,2)
+YLink(3,1,72,&gt;=)
+YDist(1,6,&lt;)
+YAnchor(14,8)
+YAnchor(20,8)
+YIPAnchor(3,9,20)
+YShift(9,7)
+YLink(9,17,74,&gt;=)
+YShift(17,19)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="U">
+/* Y direction */
+YAnchor(4,9)
+YLink(4,13,74,&gt;=)
+YAnchor(9,2)
+YAnchor(17,2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ucyr">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,1,72,&gt;=)
+YAnchor(7,2)
+YInterpolate(7,8,5,0)
+YAnchor(9,2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Uhorn">
+/* Y direction */
+YAnchor(0,9)
+YLink(0,9,74,&gt;=)
+YAnchor(5,2)
+YAnchor(13,2)
+YLink(13,22,72,&gt;=)
+YAnchor(18)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="V">
+/* Y direction */
+YAnchor(1,8)
+YAnchor(3,2)
+YDownToGrid(4)
+YIPAnchor(3,4,1)
+YDelta(4,-1@14)
+YAnchor(5,2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="W">
+/* Y direction */
+YAnchor(1,8)
+YAnchor(3,8)
+YAnchor(6,2)
+YDownToGrid(7)
+YIPAnchor(6,7,3)
+YDelta(7,1/8@9,-1@12..14;18;24..25)
+YInterpolate(6,2,7)
+YDelta(2,1@14)
+YShift(7,10)
+YAnchor(9,2)
+YAnchor(11,2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="X">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(4,2)
+YInterpolate(4,5,8,2,11,0)
+YAnchor(6,2)
+YAnchor(10,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Y">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(4,2)
+YInterpolate(4,5,2,8,0)
+YAnchor(6,2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ya">
+/* Y direction */
+YAnchor(9,2)
+YLink(9,17,72,&gt;=)
+YAnchor(11,8)
+YIPAnchor(9,12,11)
+YShift(12,1)
+YLink(12,16,72,&gt;=)
+YAnchor(14,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Yat">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,23,72,&gt;=)
+YAnchor(5,2)
+YIPAnchor(5,4,11,0)
+YDelta(11,-1@8..9)
+YDist(4,7,&lt;)
+YLink(4,1,72,&gt;=)
+YDist(1,10,&lt;)
+YLink(11,22,72,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Yu">
+/* Y direction */
+YAnchor(0,8)
+YAnchor(1,2)
+YIPAnchor(1,23,0)
+YDelta(23,1@11;14,-1@40)
+YLink(23,4,72,&gt;=)
+YAnchor(8,3)
+YLink(8,33,74,&gt;=)
+YAnchor(18,9)
+YLink(18,25,74,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Z">
+/* Y direction */
+YAnchor(0,8)
+YLink(0,8,72,&gt;=)
+YShift(8,2)
+YAnchor(5,2)
+YLink(5,3,72,&gt;=)
+YShift(3,7)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ze">
+/* Y direction */
+YAnchor(0,9)
+YShift(0,3)
+YLink(0,6,74,&gt;=)
+YShift(6,4)
+YAnchor(27,3)
+YShift(27,25)
+YDelta(25,3/8@8..9)
+YLink(27,21,74,&gt;=)
+YShift(21,24)
+YDelta(24,3/8@8..9)
+YIPAnchor(21,13,0)
+YDelta(13,-1@40..41;43;48)
+YLink(13,14,72,&gt;=)
+YDoubleGrid(34)
+YIPAnchor(14,34,13)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Zhe">
+/* Y direction */
+YAnchor(3,2)
+YAnchor(6,2)
+YAnchor(8,2)
+YAnchor(12,8)
+YAnchor(15,8)
+YInterpolate(6,4,7,1,10,13,16,15)
+YAnchor(17,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="a">
+/* Y direction */
+YAnchor(0,11)
+YShift(0,25)
+YLink(0,28,87,&gt;=)
+YAnchor(18,7)
+YShift(18,15)
+YDelta(15,1/4@10..12,1/2@15..17)
+YIPAnchor(18,8,0)
+YLink(8,32,86,&gt;=)
+YLink(18,11,87,&gt;=)
+YShift(11,14)
+YDelta(14,1/8@9,1/4@10..12,1/2@15..17)
+YAnchor(24,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="acutecomb">
+/* Y direction */
+YAnchor(2,147)
+YDist(2,3,&gt;=2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="acutecomb.asc">
+/* Y direction */
+YAnchor(2,147)
+YDist(2,3,&gt;=2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="acutecomb.cap">
+/* Y direction */
+YAnchor(2,149)
+YDist(2,3,&gt;=2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="acutecomb.narrow">
+/* Y direction */
+YAnchor(2,147)
+YDist(2,3,&gt;=2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ae">
+/* Y direction */
+YAnchor(0,11)
+YShift(0,42)
+YLink(0,52,87,&gt;=)
+YShift(52,55)
+YAnchor(18,7)
+YShift(18,15)
+YDelta(15,1/4@11..12,1/2@15..18)
+YLink(18,11,87,&gt;=)
+YShift(11,14)
+YDelta(14,1/4@11..12,1/2@15..18)
+YAnchor(24,7)
+YShift(24,21)
+YLink(24,45,87,&gt;=)
+YAnchor(39,11)
+YShift(39,36)
+YDelta(36,-1/4@10;24;26)
+YIPAnchor(24,30,39)
+YDelta(30,-1@25..26;29..30;40;43)
+YDist(30,57,&lt;)
+YLink(30,48,86,&gt;=)
+YDist(48,8,&lt;)
+YLink(39,33,87,&gt;=)
+YShift(33,35)
+YDelta(35,-1/4@9..10;24..25,-3/8@26)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ampersand">
+/* Y direction */
+YAnchor(5,11)
+YDist(5,1,&lt;)
+YShift(1,0)
+YLink(5,45,85,&gt;=)
+YAnchor(18,1)
+YIPAnchor(18,27,5)
+YInterpolate(27,26,29,48,2,5)
+YShift(27,28)
+YInterpolate(45,11,33,18)
+YLink(18,39,85,&gt;=)
+YInterpolate(39,25,49,5)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="arrowdown">
+/* Y direction */
+YAnchor(3,2)
+YAnchor(8)
+YDownToGrid(2)
+YIPAnchor(3,1,2,8)
+YDelta(2,-1/4@20,-1/2@21..22)
+YInterpolate(1,0,2)
+YDelta(0,1/2@21..22)
+YDist(1,6,&lt;)
+YShift(0,7)
+YShift(2,5)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="arrowleft">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(4,6)
+YIPAnchor(4,8,0)
+YDist(8,5,&gt;=)
+YDelta(5,-1@21..23)
+YInterpolate(5,2,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="arrowright">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(7,6)
+YIPAnchor(7,2,1)
+YDist(2,5,&gt;=)
+YDelta(5,-1@21..23)
+YInterpolate(5,8,2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="arrowup">
+/* Y direction */
+YAnchor(2,16)
+YAnchor(7,10)
+YUpToGrid(8)
+YIPAnchor(2,8,0,7)
+YDelta(8,1/2@20..21)
+YInterpolate(8,1,0)
+YDelta(1,-1/2@20..22)
+YShift(8,5)
+YShift(1,3)
+YDist(0,4,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="asciicircum">
+/* Y direction */
+YAnchor(0,4)
+YShift(0,4)
+YIPAnchor(0,5,7)
+YDist(5,3,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="asciitilde">
+/* Y direction */
+YAnchor(4)
+YDist(4,13,&lt;)
+YLink(4,23,74,&gt;=)
+YDist(4,10,&gt;=)
+YLink(10,17,74,&gt;=)
+YDist(17,0,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="asterisk">
+/* Y direction */
+YAnchor(32,1)
+YIPAnchor(32,5,64)
+YDist(5,59,&lt;)
+YInterpolate(32,21,43,38,26,16,48,51,13,0,56,8,59)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="at">
+/* Y direction */
+YAnchor(41,14)
+YShift(41,38)
+YDelta(38,-3/8@9..10)
+YLink(41,34,85,&gt;=)
+YShift(34,37)
+YDelta(37,-3/8@9,-1/2@10)
+YAnchor(51,1)
+YLink(51,24,85,&gt;=)
+YIPAnchor(24,8,0,34)
+YDelta(8,1@11)
+YDelta(0,1@11)
+YShift(8,11)
+YDist(8,13,&lt;)
+YLink(8,77,102,&gt;=)
+YDelta(77,-1/2@15..16)
+YShift(0,62)
+YLink(0,68,102,&gt;=)
+YDelta(68,1/2@15..16)
+YDist(0,59,&lt;)
+YLink(59,17,102,&gt;=)
+YDelta(17,1/2@15..16)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="b">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(2,0)
+YAnchor(7,7)
+YShift(7,4)
+YLink(7,29,87,&gt;=)
+YAnchor(15,11)
+YShift(15,18)
+YLink(15,23,87,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="backslash">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(3,16)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="bar">
+/* Y direction */
+YAnchor(0,18)
+YAnchor(3)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="be">
+/* Y direction */
+YAnchor(0,11)
+YLink(0,24,87,&gt;=)
+YAnchor(7,0)
+YLink(7,8,85,&gt;=)
+YIPAnchor(7,16,0)
+YShift(16,13)
+YLink(16,30,87,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="be.loclMKDSRB">
+/* Y direction */
+YAnchor(0,11)
+YLink(0,31,87,&gt;=)
+YAnchor(13,0)
+YInterpolate(13,22,7,31)
+YLink(13,14,85,&gt;=)
+YInterpolate(14,38,0)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="braceleft">
+/* Y direction */
+YAnchor(1,18)
+YLink(1,0,85,&gt;=)
+YAnchor(18,16)
+YLink(18,19,85,&gt;=)
+YIPAnchor(18,9,1)
+YDelta(9,1@13..14;22;24;30)
+YLink(9,10,85,&gt;=)
+YDoubleGrid(26)
+YIPAnchor(9,26,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="braceright">
+/* Y direction */
+YAnchor(0,18)
+YLink(0,1,85,&gt;=)
+YAnchor(16,16)
+YLink(16,15,85,&gt;=)
+YIPAnchor(16,25,0)
+YDelta(25,1@13..14;22;24;30)
+YLink(25,24,85,&gt;=)
+YDoubleGrid(8)
+YIPAnchor(24,8,25)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="bracketleft">
+/* Y direction */
+YAnchor(1,18)
+YLink(1,6,85,&gt;=)
+YAnchor(2,16)
+YLink(2,5,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="bracketright">
+/* Y direction */
+YAnchor(1,18)
+YLink(1,3,85,&gt;=)
+YAnchor(6,16)
+YLink(6,4,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="breveacutecomb">
+/* Y direction */
+YAnchor(4,147)
+YLink(4,11,134,&gt;=)
+YDist(11,8,&gt;=)
+YDist(8,0,&lt;)
+YDist(0,1,&gt;=2)
+YDist(0,14,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="breveacutecomb.cap">
+/* Y direction */
+YAnchor(4,150)
+YLink(4,11,134,&gt;=)
+YDist(11,8,&gt;=)
+YDist(8,0,&lt;)
+YDist(0,1,&gt;=2)
+YDist(0,14,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="brevecomb">
+/* Y direction */
+YAnchor(0,147)
+YLink(0,7,138,&gt;=)
+YDist(7,4,&gt;=)
+YDist(4,10,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="brevecomb.cap">
+/* Y direction */
+YAnchor(0,150)
+YLink(0,7,138,&gt;=)
+YDist(7,4,&gt;=)
+YDist(4,10,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="brevecomb.cyrl">
+/* Y direction */
+YAnchor(0,147)
+YLink(0,7,134,&gt;=)
+YDist(7,4,&gt;=)
+YDist(4,10,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="brevecomb.cyrl.cap">
+/* Y direction */
+YAnchor(0,147)
+YLink(0,7,134,&gt;=)
+YDist(7,4,&gt;=)
+YDist(4,10,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="brevegravecomb">
+/* Y direction */
+YAnchor(4,147)
+YLink(4,11,134,&gt;=)
+YDist(11,8,&gt;=)
+YDist(8,0,&lt;)
+YDist(0,1,&gt;=2)
+YDist(0,14,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="brevegravecomb.cap">
+/* Y direction */
+YAnchor(4,150)
+YLink(4,11,134,&gt;=)
+YDist(11,8,&gt;=)
+YDist(8,0,&lt;)
+YDist(0,1,&gt;=2)
+YDist(0,14,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="brevehookabovecomb">
+/* Y direction */
+YAnchor(15,147)
+YLink(15,22,134,&gt;=)
+YDist(22,19,&gt;=)
+YDist(19,25,&lt;)
+YIPAnchor(19,0,22)
+YLink(0,1,136,&gt;=)
+YDist(1,5,&gt;=)
+YShift(5,7)
+YLink(5,10,146,&gt;=)
+YShift(10,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="brevehookabovecomb.cap">
+/* Y direction */
+YAnchor(15,150)
+YLink(15,22,134,&gt;=)
+YDist(22,19,&gt;=)
+YDist(19,25,&lt;)
+YIPAnchor(19,0,22)
+YLink(0,1,136,&gt;=)
+YDist(1,5,&gt;=)
+YDelta(5,-1@8..12)
+YShift(5,7)
+YLink(5,10,146,&gt;=)
+YShift(10,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="brevetildecomb">
+/* Y direction */
+YAnchor(24,147)
+YLink(24,31,134,&gt;=)
+YDist(31,28,&gt;=)
+YDist(28,34,&lt;)
+YDist(34,16,&gt;=)
+YDist(16,0,&lt;)
+YLink(16,10,146,&gt;=)
+YDist(16,22,&lt;)
+YLink(22,4,146,&gt;=)
+YDist(4,12,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="brevetildecomb.cap">
+/* Y direction */
+YAnchor(23,150)
+YLink(23,30,134,&gt;=)
+YDist(30,27,&gt;=)
+YDist(27,33,&lt;)
+YDist(33,16,&gt;=)
+YDelta(16,-1@8..12)
+YDist(16,0,&lt;)
+YLink(16,10,134,&gt;=)
+YDist(16,21,&gt;=)
+YLink(21,4,134,&gt;=)
+YDist(4,12,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="bullet">
+/* Y direction */
+YAnchor(12)
+YDist(12,4,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="c">
+/* Y direction */
+YAnchor(4,11)
+YShift(4,1)
+YLink(4,27,87,&gt;=)
+YShift(27,0)
+YAnchor(12,7)
+YShift(12,15)
+YLink(12,19,87,&gt;=)
+YShift(19,16)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="caroncomb">
+/* Y direction */
+YAnchor(6,147)
+YLink(6,2,136,&gt;=)
+YDist(2,1,&gt;=)
+YDist(1,3,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="caroncomb.cap">
+/* Y direction */
+YAnchor(6,150)
+YLink(6,2,135,&gt;=)
+YDist(2,1,&gt;=)
+YDist(1,3,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="cedillacomb">
+/* Y direction */
+YDist(26,15)
+YDist(15,16,&gt;=)
+YDist(16,10,&gt;=)
+YDist(10,22,&gt;=)
+YShift(22,0)
+YLink(22,4,138,&gt;=)
+YShift(4,1)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="cedillacomb.cap">
+/* Y direction */
+YDist(24,14)
+YDist(14,15,&gt;=)
+YDist(15,9,&gt;=)
+YShift(9,12)
+YDist(9,21,&gt;=)
+YShift(21,0)
+YLink(21,3,138,&gt;=)
+YShift(3,1)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="cent">
+/* Y direction */
+YAnchor(13,7)
+YDist(13,10,&lt;)
+YDist(13,12,&gt;=)
+YShift(13,16)
+YLink(13,20,87,&gt;=)
+YShift(20,17)
+YDist(20,33,&lt;)
+YAnchor(28,11)
+YDist(28,0,&gt;=)
+YDist(28,2,&lt;)
+YShift(28,25)
+YLink(28,21,87,&gt;=)
+YShift(21,24)
+YDist(21,32,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="che">
+/* Y direction */
+YAnchor(4,6)
+YAnchor(12,6)
+YAnchor(15,10)
+YIPAnchor(4,0,15)
+YShift(0,16)
+YLink(0,9,87,&gt;=)
+YShift(9,11)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="che.loclBGR">
+/* Y direction */
+YAnchor(4,6)
+YAnchor(13,6)
+YAnchor(16,10)
+YIPAnchor(4,0,16)
+YLink(0,9,87,&gt;=)
+YShift(0,17)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflexacutecomb">
+/* Y direction */
+YAnchor(10,147)
+YDist(10,8,&lt;)
+YDist(10,9,&gt;=)
+YLink(9,6,136,&gt;=)
+YIPAnchor(6,0,8)
+YDist(0,1,&gt;=2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflexacutecomb.cap">
+/* Y direction */
+YAnchor(10,150)
+YDist(10,8,&lt;)
+YDist(10,9,&gt;=)
+YLink(9,6,136,&gt;=)
+YIPAnchor(6,0,8)
+YDist(0,1,&gt;=2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflexcomb">
+/* Y direction */
+YAnchor(3,147)
+YDist(3,1,&lt;)
+YDist(3,2,&gt;=)
+YLink(2,6,136,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflexcomb.cap">
+/* Y direction */
+YAnchor(3,150)
+YDist(3,1,&lt;)
+YDist(3,2,&gt;=)
+YLink(2,6,136,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflexcomb.narrow">
+/* Y direction */
+YAnchor(3,147)
+YDist(3,1,&lt;)
+YDist(3,2,&gt;=)
+YLink(2,6,138,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflexgravecomb">
+/* Y direction */
+YAnchor(10,147)
+YDist(10,8,&lt;)
+YDist(10,9,&gt;=)
+YLink(9,6,136,&gt;=)
+YIPAnchor(6,0,8)
+YDist(0,1,&gt;=2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflexgravecomb.cap">
+/* Y direction */
+YAnchor(7,150)
+YDist(7,5,&lt;)
+YDist(7,6,&gt;=)
+YLink(6,10,136,&gt;=)
+YIPAnchor(10,0,5)
+YDist(0,1,&gt;=2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflexhookabovecomb">
+/* Y direction */
+YAnchor(21,147)
+YDist(21,19,&lt;)
+YDist(21,20,&gt;=)
+YLink(20,17,136,&gt;=)
+YIPAnchor(17,1,19)
+YLink(1,0,136,&gt;=)
+YDist(1,5,&gt;=)
+YShift(5,7)
+YLink(5,10,146,&gt;=)
+YShift(10,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflexhookabovecomb.cap">
+/* Y direction */
+YAnchor(21,150)
+YDist(21,19,&lt;)
+YDist(21,20,&gt;=)
+YLink(20,17,136,&gt;=)
+YIPAnchor(17,1,19)
+YLink(1,0,136,&gt;=)
+YDist(1,5,&gt;=)
+YShift(5,7)
+YLink(5,10,146,&gt;=)
+YShift(10,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflextildecomb">
+/* Y direction */
+YAnchor(31,147)
+YDist(31,29,&lt;)
+YDist(31,30,&gt;=)
+YLink(30,27,136,&gt;=)
+YDist(27,16,&gt;=)
+YDelta(16,-1@8..10)
+YDist(16,0,&lt;)
+YLink(16,10,146,&gt;=)
+YDist(16,22,&gt;=)
+YLink(22,4,146,&gt;=)
+YDist(4,12,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflextildecomb.cap">
+/* Y direction */
+YAnchor(28,150)
+YDist(28,26,&lt;)
+YDist(28,27,&gt;=)
+YLink(27,24,136,&gt;=)
+YDist(24,15,&gt;=)
+YDelta(15,-1@8..12)
+YDist(15,0,&lt;)
+YLink(15,9,146,&gt;=)
+YDist(15,20,&gt;=)
+YLink(20,4,146,&gt;=)
+YDist(4,11,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="comma">
+/* Y direction */
+YAnchor(4,11)
+YDist(4,0,&gt;=)
+YLink(4,10,117,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="commaaboverightcomb">
+/* Y direction */
+YAnchor(10,1)
+YDist(10,0,&gt;=)
+YLink(10,4,125,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="commaaboverightcomb.short">
+/* Y direction */
+YAnchor(0)
+YDist(0,9,&gt;=)
+YDist(9,3,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="commabelowcomb">
+/* Y direction */
+YDist(17,10,&gt;=)
+YDist(10,0,&gt;=)
+YDist(10,4,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="commabelowcomb.cap">
+/* Y direction */
+YDist(17,10,&gt;=)
+YDist(10,0,&gt;=)
+YDist(10,4,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="commaturnedabovecomb">
+/* Y direction */
+YAnchor(10)
+YDist(10,1,&gt;=)
+YDist(10,4,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="copyright">
+/* Y direction */
+YAnchor(0)
+YLink(0,20,138,&gt;=)
+YAnchor(10)
+YLink(10,30,138,&gt;=)
+YIPAnchor(30,52,44,20)
+YShift(52,55)
+YLink(52,59,138,&gt;=)
+YShift(59,56)
+YShift(44,41)
+YLink(44,65,138,&gt;=)
+YShift(65,40)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="currency">
+/* Y direction */
+YAnchor(0)
+YShift(0,2)
+YShift(0,5)
+YShift(0,27)
+YShift(0,30)
+YDist(0,3,&gt;=)
+YShift(3,4)
+YDist(3,29,&lt;)
+YShift(29,28)
+YLink(0,32,102,&gt;=)
+YDist(32,16,&gt;=)
+YShift(16,11)
+YShift(16,14)
+YShift(16,18)
+YShift(16,21)
+YLink(16,38,102,&gt;=)
+YDist(16,13,&gt;=)
+YShift(13,12)
+YDist(13,19,&lt;)
+YShift(19,20)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="d">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(5,11)
+YShift(5,2)
+YLink(5,22,87,&gt;=)
+YAnchor(13,7)
+YShift(13,16)
+YLink(13,29,87,&gt;=)
+YAnchor(18,0)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dagger">
+/* Y direction */
+YAnchor(0,18)
+YAnchor(5,6)
+YDist(5,8,&lt;)
+YLink(5,2,85,&gt;=)
+YDist(2,11,&lt;)
+YAnchor(7)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="daggerdbl">
+/* Y direction */
+YAnchor(5,6)
+YDist(5,8,&lt;)
+YLink(5,2,85,&gt;=)
+YDist(2,11,&lt;)
+YAnchor(7)
+YAnchor(16,18)
+YIPAnchor(5,18,16)
+YDist(18,15,&lt;)
+YLink(18,1,85,&gt;=)
+YDist(1,12,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dcroat">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(5,11)
+YShift(5,2)
+YLink(5,30,87,&gt;=)
+YAnchor(13,6)
+YDelta(13,-1@8..11;13)
+YShift(13,16)
+YLink(13,37,87,&gt;=)
+YAnchor(21,0)
+YIPAnchor(21,17,13)
+YDelta(17,1@8..9)
+YDist(17,26,&lt;)
+YLink(17,20,102,&gt;=)
+YDelta(20,-1@17)
+YDist(20,23,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="de">
+/* Y direction */
+YAnchor(6,6)
+YLink(6,21,85,&gt;=)
+YAnchor(11,158)
+YAnchor(13,10)
+YLink(13,2,85,&gt;=)
+YDist(2,8,&lt;)
+YDist(2,18,&lt;)
+YAnchor(14,158)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="degree">
+/* Y direction */
+YAnchor(8,1)
+YLink(8,22,137,&gt;=)
+YDist(22,0,&gt;=)
+YDelta(0,1@28)
+YLink(0,16,137,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dieresiscomb">
+/* Y direction */
+YAnchor(12,120)
+YDist(12,0,&lt;)
+YLink(12,18,124,&gt;=)
+YDist(18,6,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dieresiscomb.cap">
+/* Y direction */
+YAnchor(12,149)
+YDelta(12,1@8)
+YDist(12,0,&lt;)
+YLink(12,18,124,&gt;=)
+YDist(18,6,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dieresiscomb.narrow">
+/* Y direction */
+YAnchor(12,120)
+YDist(12,0,&lt;)
+YLink(12,18,124,&gt;=)
+YDist(18,6,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="divide">
+/* Y direction */
+YAnchor(13)
+YLink(13,15,85,&gt;=)
+YDist(15,0,&gt;=)
+YLink(0,6,124,&gt;=)
+YDist(13,22,&gt;=)
+YLink(22,16,124,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dje">
+/* Y direction */
+YAnchor(0,15)
+YShift(0,1)
+YAnchor(10,10)
+YAnchor(15,0)
+YIPAnchor(15,11,24,10)
+YDelta(11,-1@8..9)
+YDelta(24,-1@8..10;15)
+YDist(11,20,&lt;)
+YLink(11,14,88,&gt;=)
+YDist(14,17,&lt;)
+YLink(24,5,87,&gt;=)
+YShift(24,21)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dollar">
+/* Y direction */
+YAnchor(15,4)
+YDist(15,12,&lt;)
+YDist(15,14,&gt;=)
+YShift(15,18)
+YLink(15,22,103,&gt;=)
+YShift(22,19)
+YDist(22,40,&lt;)
+YAnchor(33,12)
+YShift(33,0)
+YDist(33,30,&lt;)
+YDist(33,32,&gt;=)
+YLink(33,4,103,&gt;=)
+YShift(4,1)
+YDist(4,47,&lt;)
+YInterpolate(4,23,39,15)
+YInterpolate(22,5,46,33)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dong">
+/* Y direction */
+YAnchor(16,4)
+YDist(16,15,&gt;=)
+YDelta(15,1@30..32)
+YDist(15,18,&lt;)
+YLink(15,12,102,&gt;=)
+YDist(12,21,&lt;)
+YAnchor(40,12)
+YLink(40,42,102,&gt;=)
+YDist(42,23,&gt;=)
+YDist(23,0,&lt;)
+YShift(0,24)
+YLink(0,30,103,&gt;=)
+YShift(30,33)
+YIPAnchor(16,8,30)
+YLink(8,37,103,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dotaccentcomb">
+/* Y direction */
+YAnchor(0,120)
+YLink(0,6,124,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dotaccentcomb.cap">
+/* Y direction */
+YAnchor(0,149)
+YLink(0,6,124,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dotbelowcomb">
+/* Y direction */
+YDist(13,6,&gt;=)
+YLink(6,0,124,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dotbelowcomb.cap">
+/* Y direction */
+YDist(13,6,&gt;=)
+YLink(6,0,124,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dotlessi">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(3,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dotlessj">
+/* Y direction */
+YAnchor(0,14)
+YLink(0,1,85,&gt;=)
+YAnchor(7,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dzhe">
+/* Y direction */
+YAnchor(2,6)
+YAnchor(5,6)
+YAnchor(10,158)
+YAnchor(11,10)
+YLink(11,3,85,&gt;=)
+YDist(11,8,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="e">
+/* Y direction */
+YAnchor(4,11)
+YShift(4,1)
+YDelta(1,-1/4@9..10,-1/2@23,-3/4@24,-1/2@26)
+YLink(4,21,87,&gt;=)
+YDist(21,0,&lt;)
+YDelta(0,-5/8@8..10;23,-3/4@24,-5/8@26)
+YAnchor(12,7)
+YLink(12,23,87,&gt;=)
+YIPAnchor(12,18,4)
+YDelta(18,1@15..16)
+YLink(18,27,86,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ecyr">
+/* Y direction */
+YAnchor(0,11)
+YShift(0,2)
+YDelta(2,-1/4@25)
+YLink(0,5,87,&gt;=)
+YShift(5,3)
+YDelta(3,-1/4@25)
+YAnchor(21,7)
+YShift(21,18)
+YDelta(18,3/8@11,3/4@16..18,3/8@25..26,1/4@27)
+YLink(21,14,87,&gt;=)
+YShift(14,17)
+YDelta(17,3/8@11,3/4@16..18,3/8@25..27)
+YIPAnchor(14,9,0)
+YDelta(9,1@15..16;35..36)
+YLink(9,11,86,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ef">
+/* Y direction */
+YAnchor(0,15)
+YAnchor(1,11)
+YDist(1,20,&lt;)
+YLink(1,25,87,&gt;=)
+YDist(25,33,&lt;)
+YAnchor(9,7)
+YDist(9,12,&lt;)
+YLink(9,26,87,&gt;=)
+YDist(26,32,&lt;)
+YAnchor(10,0)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="eight">
+/* Y direction */
+YAnchor(0,13)
+YLink(0,40,103,&gt;=)
+YAnchor(14,5)
+YLink(14,34,103,&gt;=)
+YIPAnchor(14,46,0)
+YDelta(46,1@14,-1@24;36..37)
+YLink(46,28,103,&gt;=)
+YDoubleGrid(7)
+YIPAnchor(28,7,46)
+YShift(7,21)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="eight.dnom">
+/* Y direction */
+YAnchor(0,130)
+YLink(0,36,136,&gt;=)
+YAnchor(12,129)
+YLink(12,30,136,&gt;=)
+YIPAnchor(12,42,0)
+YDelta(42,1@19,-1@32..33;36..37;45)
+YLink(42,24,136,&gt;=)
+YDoubleGrid(6)
+YIPAnchor(24,6,42)
+YShift(6,18)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="el">
+/* Y direction */
+YAnchor(0,10)
+YLink(0,1,85,&gt;=)
+YAnchor(6,6)
+YLink(6,11,85,&gt;=)
+YAnchor(9,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="el.loclBGR">
+/* Y direction */
+YAnchor(1,6)
+YAnchor(4,10)
+YAnchor(6,10)
+YUpToGrid(5)
+YIPAnchor(1,5,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="em">
+/* Y direction */
+YAnchor(2,6)
+YAnchor(4,6)
+YAnchor(7,10)
+YAnchor(12,10)
+YIPAnchor(2,10,12)
+YInterpolate(2,11,3,10)
+YShift(11,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="emdash">
+/* Y direction */
+YAnchor(1)
+YLink(1,3,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="en">
+/* Y direction */
+YAnchor(2,6)
+YAnchor(5,6)
+YAnchor(8,10)
+YAnchor(11,10)
+YIPAnchor(2,10,11)
+YDelta(10,-1@35)
+YLink(10,4,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="endash">
+/* Y direction */
+YAnchor(1)
+YLink(1,3,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="eng">
+/* Y direction */
+YAnchor(0,14)
+YLink(0,1,85,&gt;=)
+YAnchor(14,10)
+YAnchor(16,6)
+YAnchor(22,7)
+YLink(22,9,87,&gt;=)
+YShift(22,18)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="equal">
+/* Y direction */
+YAnchor(6)
+YLink(6,4,85,&gt;=)
+YDist(6,0,&gt;=)
+YLink(0,2,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="eth">
+/* Y direction */
+YAnchor(8,11)
+YLink(8,31,87,&gt;=)
+YAnchor(27)
+YShift(27,26)
+YIPAnchor(27,16,8)
+YShift(16,19)
+YLink(16,37,87,&gt;=)
+YDist(16,22,&lt;)
+YShift(22,23)
+YDist(27,30,&lt;)
+YShift(30,0)
+YInterpolate(0,1,21,22)
+YInterpolate(30,29,24,23)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="exclam">
+/* Y direction */
+YAnchor(11,1)
+YAnchor(24,11)
+YLink(24,30,117,&gt;=)
+YDist(30,0,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="exclamdown">
+/* Y direction */
+YAnchor(3,7)
+YLink(3,23,148,&gt;=)
+YLink(3,9,117)
+YDist(9,13,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="exclamdown.case">
+/* Y direction */
+YAnchor(3,1)
+YLink(3,9,117,&gt;=)
+YDist(9,13,&gt;=)
+YAnchor(23,11)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="f">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(5,6)
+YDist(5,15,&lt;)
+YLink(5,2,85,&gt;=)
+YDist(2,18,&lt;)
+YAnchor(9,0)
+YLink(9,10,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="fita">
+/* Y direction */
+YAnchor(0,11)
+YLink(0,23,87,&gt;=)
+YAnchor(8,7)
+YLink(8,16,87,&gt;=)
+YIPAnchor(16,27,0)
+YLink(27,20,86,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="five">
+/* Y direction */
+YAnchor(15,4)
+YLink(15,17,101,&gt;=)
+YAnchor(29,13)
+YLink(29,3,103,&gt;=)
+YIPAnchor(15,21,29)
+YDelta(21,-1@15..16;19)
+YLink(21,9,103,&gt;=)
+YIPAnchor(9,13,0,3)
+YDelta(13,1@8..9)
+YShift(0,32)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="five.dnom">
+/* Y direction */
+YAnchor(16,126)
+YLink(16,18,134,&gt;=)
+YAnchor(28,130)
+YShift(28,0)
+YLink(28,4,136,&gt;=)
+YIPAnchor(16,21,28)
+YLink(21,10,136,&gt;=)
+YIPAnchor(10,14,1,4)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="four">
+/* Y direction */
+YAnchor(1,12)
+YAnchor(6,4)
+YIPAnchor(6,10,1)
+YInterpolate(6,11,10)
+YDist(10,2,&lt;)
+YLink(10,7,101,&gt;=)
+YShift(7,4)
+YDist(7,13,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="four.dnom">
+/* Y direction */
+YAnchor(1,127)
+YAnchor(6,126)
+YIPAnchor(6,10,1)
+YInterpolate(6,11,10)
+YDist(10,2,&lt;)
+YLink(10,7,134,&gt;=)
+YShift(7,4)
+YDist(7,13,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="fraction">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(3,4)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="g">
+/* Y direction */
+YAnchor(4,15)
+YShift(4,7)
+YLink(4,11,87,&gt;=)
+YShift(11,8)
+YAnchor(18,121)
+YShift(18,15)
+YLink(18,35,87,&gt;=)
+YAnchor(26,7)
+YShift(26,29)
+YLink(26,42,87,&gt;=)
+YAnchor(31,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="germandbls">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(6,1)
+YLink(6,42,87,&gt;=)
+YAnchor(19,11)
+YShift(19,22)
+YLink(19,26,87,&gt;=)
+YShift(26,23)
+YIPAnchor(6,34,19)
+YLink(34,35,85,&gt;=)
+YDoubleGrid(12)
+YIPAnchor(34,12,35)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ghe">
+/* Y direction */
+YAnchor(1,6)
+YLink(1,4,85,&gt;=)
+YAnchor(5,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ghe.loclBGR">
+/* Y direction */
+YAnchor(0,11)
+YShift(0,36)
+YDelta(36,-1/4@15,-1/2@16)
+YLink(0,32,85,&gt;=)
+YShift(32,35)
+YDelta(35,-1/4@15,-1/2@16)
+YAnchor(19,7)
+YShift(19,16)
+YDelta(16,3/8@15,1/2@16;24)
+YInterpolate(32,6,19)
+YDelta(6,-1/4@23,-1/8@24)
+YLink(19,13,85,&gt;=)
+YShift(13,15)
+YDelta(15,3/8@15,1/2@16;24)
+YInterpolate(13,26,0)
+YDelta(26,1/8@15,1/4@23,1/8@24)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="gheup">
+/* Y direction */
+YAnchor(1,6)
+YDist(1,3,&gt;=)
+YLink(1,6,85,&gt;=)
+YAnchor(7,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="gravecomb">
+/* Y direction */
+YAnchor(0,147)
+YDist(0,2,&gt;=2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="gravecomb.cap">
+/* Y direction */
+YAnchor(0,149)
+YDist(0,2,&gt;=2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="gravecomb.narrow">
+/* Y direction */
+YAnchor(0,147)
+YDist(0,2,&gt;=2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="greater">
+/* Y direction */
+YAnchor(2)
+YShift(2,5)
+YShift(2,6)
+YDist(2,0,&gt;=)
+YShift(0,1)
+YDist(2,4,&gt;=)
+YShift(4,3)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="guilsinglleft">
+/* Y direction */
+YAnchor(4)
+YDelta(4,1@8..9;12..13;16..17;21)
+YShift(4,1)
+YDist(4,3,&gt;=)
+YDist(4,5,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="guilsinglright">
+/* Y direction */
+YAnchor(4)
+YDelta(4,1@8..9;12..13;16..17;21)
+YDist(4,0,&gt;=)
+YShift(4,1)
+YDist(4,2,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="h">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(10,10)
+YAnchor(12,0)
+YAnchor(18,7)
+YLink(18,5,87,&gt;=)
+YShift(18,14)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hard">
+/* Y direction */
+YAnchor(0,10)
+YLink(0,15,85,&gt;=)
+YAnchor(3,6)
+YLink(3,1,85,&gt;=)
+YIPAnchor(3,14,0)
+YLink(14,5,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hard.loclBGR">
+/* Y direction */
+YAnchor(0,11)
+YLink(0,19,85,&gt;=)
+YAnchor(6,6)
+YLink(6,4,85,&gt;=)
+YIPAnchor(6,11,0)
+YDelta(11,-1@8..10)
+YShift(11,8)
+YLink(11,25,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hbar">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(10,10)
+YAnchor(16,0)
+YAnchor(25,6)
+YDelta(25,-1@8..11;13)
+YLink(25,5,87,&gt;=)
+YShift(25,22)
+YIPAnchor(16,12,25)
+YDelta(12,1@8..9)
+YDist(12,21,&lt;)
+YLink(12,15,102,&gt;=)
+YDelta(15,-1@17)
+YDist(15,18,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hookabovecomb">
+/* Y direction */
+YAnchor(0,147)
+YLink(0,1,146,&gt;=)
+YDist(1,6,&gt;=)
+YLink(6,11,146,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hookabovecomb.cap">
+/* Y direction */
+YAnchor(0,149)
+YLink(0,1,146,&gt;=)
+YDist(1,5,&gt;=)
+YLink(5,10,146,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="horncomb">
+/* Y direction */
+YAnchor(0)
+YLink(0,2,144,&gt;=)
+YDist(2,5,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="horncomb.cap">
+/* Y direction */
+YAnchor(0)
+YLink(0,2,144,&gt;=)
+YDist(2,6,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hryvnia">
+/* Y direction */
+YAnchor(20,3)
+YShift(20,17)
+YDelta(17,1/2@10,1/4@11,3/4@17,1/4@23,3/8@24..26,1/2@27)
+YLink(20,14,87,&gt;=)
+YShift(14,16)
+YDelta(16,1/2@10,1/4@11,3/4@17,1/4@23,3/8@24..26,1/2@27)
+YAnchor(47,9)
+YShift(47,45)
+YDelta(45,-1/4@10;23)
+YLink(47,42,87,&gt;=)
+YShift(42,44)
+YDelta(44,-1/4@10;23)
+YIPAnchor(20,53,47)
+YDelta(53,1@8..9;14;22,-1@26..28;31;39..41;43..44,1@52)
+YDist(53,36,&lt;)
+YLink(53,2,86,&gt;=)
+YDist(2,33,&lt;)
+YDist(2,5,&gt;=)
+YDelta(5,-1@8..9;25)
+YDist(5,28,&lt;)
+YLink(5,8,86,&gt;=)
+YDelta(8,-1@8..9)
+YDist(8,25,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hungarumlautcomb">
+/* Y direction */
+YAnchor(2,147)
+YDist(2,6,&lt;)
+YDist(2,3,&gt;=2)
+YDist(3,7,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hungarumlautcomb.cap">
+/* Y direction */
+YAnchor(2,149)
+YDist(2,5,&lt;)
+YDist(2,0,&gt;=2)
+YDist(0,4,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hyphen">
+/* Y direction */
+YAnchor(1)
+YLink(1,3,87,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="i">
+/* Y direction */
+YAnchor(0,121)
+YDelta(0,1@8)
+YLink(0,6,125,&gt;=)
+YAnchor(13,10)
+YAnchor(14,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="icyr">
+/* Y direction */
+YAnchor(2,6)
+YAnchor(4,6)
+YAnchor(7,10)
+YAnchor(9,10)
+YInterpolate(2,8,3,9)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ieukrain">
+/* Y direction */
+YAnchor(0,11)
+YShift(0,28)
+YDelta(28,-1/4@9..10)
+YLink(0,24,87,&gt;=)
+YShift(24,27)
+YDelta(27,-1/4@9..10)
+YAnchor(8,7)
+YShift(8,11)
+YDelta(11,1/4@9..12,1/2@15..17,3/4@18)
+YLink(8,15,87,&gt;=)
+YShift(15,12)
+YDelta(12,1/4@9..12,1/2@15..17,3/4@18)
+YIPAnchor(15,21,0)
+YDelta(21,1@15..16)
+YLink(21,19,86,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="izhitsa">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(2,6)
+YDownToGrid(3)
+YIPAnchor(2,3,0)
+YAnchor(8,6)
+YLink(8,9,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="j">
+/* Y direction */
+YAnchor(0,121)
+YDelta(0,1@8)
+YLink(0,6,125,&gt;=)
+YAnchor(12,14)
+YLink(12,13,85,&gt;=)
+YAnchor(18,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="k">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(2,0)
+YAnchor(5,6)
+YAnchor(9,10)
+YInterpolate(5,4,7,10,9)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ka">
+/* Y direction */
+YAnchor(1,6)
+YAnchor(4,6)
+YAnchor(8,10)
+YAnchor(10,10)
+YInterpolate(1,3,6,9,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="kgreenlandic">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(3,6)
+YInterpolate(3,4,7,10,0)
+YAnchor(5,6)
+YAnchor(9,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="l">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(3,0)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="less">
+/* Y direction */
+YAnchor(3)
+YShift(3,0)
+YShift(3,6)
+YDist(3,1,&gt;=)
+YShift(1,2)
+YDist(3,5,&gt;=)
+YShift(5,4)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="liraturkish">
+/* Y direction */
+YAnchor(0,12)
+YLink(0,20,101,&gt;=)
+YAnchor(9,4)
+YIPAnchor(9,5,25,1,0)
+YDelta(1,-1@9;11;15..16;24)
+YShift(5,6)
+YShift(5,13)
+YShift(5,14)
+YLink(5,8,101,&gt;=)
+YShift(8,7)
+YShift(8,11)
+YShift(8,12)
+YShift(25,24)
+YShift(1,2)
+YShift(1,17)
+YShift(1,18)
+YLink(1,4,101,&gt;=)
+YShift(4,3)
+YShift(4,15)
+YShift(4,16)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="lje">
+/* Y direction */
+YAnchor(6,6)
+YLink(6,18,85,&gt;=)
+YAnchor(16,10)
+YLink(16,25,85,&gt;=)
+YIPAnchor(6,8,16)
+YDelta(8,-1@15..16)
+YLink(8,24,85,&gt;=)
+YAnchor(22,10)
+YLink(22,1,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="logicalnot">
+/* Y direction */
+YAnchor(2)
+YDist(2,1,&gt;=)
+YLink(2,5,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="lslash">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(6,0)
+YIPAnchor(6,2,1)
+YShift(2,3)
+YShift(2,10)
+YShift(2,11)
+YLink(2,5,85,&gt;=)
+YShift(5,4)
+YShift(5,8)
+YShift(5,9)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="m">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(10,10)
+YAnchor(20,10)
+YAnchor(21,6)
+YAnchor(26,7)
+YLink(26,14,87,&gt;=)
+YShift(26,23)
+YAnchor(33,7)
+YLink(33,5,87,&gt;=)
+YShift(33,29)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="macroncomb">
+/* Y direction */
+YAnchor(1,152)
+YLink(1,3,102,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="macroncomb.cap">
+/* Y direction */
+YAnchor(1,153)
+YLink(1,3,102,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="macroncomb.narrow">
+/* Y direction */
+YAnchor(1,152)
+YLink(1,3,102,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="minus">
+/* Y direction */
+YAnchor(1)
+YLink(1,3,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="multiply">
+/* Y direction */
+YAnchor(7)
+YShift(7,6)
+YDist(7,9,&lt;)
+YShift(9,10)
+YIPAnchor(7,3,12)
+YShift(3,4)
+YDist(3,1,&lt;)
+YShift(1,0)
+YInterpolate(9,8,5,11,2,1)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="n">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(10,10)
+YAnchor(12,6)
+YAnchor(18,7)
+YLink(18,5,87,&gt;=)
+YShift(18,14)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="nine">
+/* Y direction */
+YAnchor(0,5)
+YLink(0,23,103,&gt;=)
+YAnchor(8,12)
+YIPAnchor(0,15,8)
+YShift(15,12)
+YLink(15,29,103,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="nine.dnom">
+/* Y direction */
+YAnchor(0,129)
+YLink(0,20,136,&gt;=)
+YAnchor(7,127)
+YIPAnchor(0,12,7)
+YShift(12,10)
+YLink(12,26,136,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="nje">
+/* Y direction */
+YAnchor(2,6)
+YAnchor(5,6)
+YAnchor(15,10)
+YLink(15,22,85,&gt;=)
+YIPAnchor(5,7,15)
+YLink(7,20,85,&gt;=)
+YNoRound(18)
+YAnchor(19,10)
+YIPAnchor(2,17,19)
+YDelta(17,-1@25..26;29..30;35..36;39;43..45)
+YLink(17,4,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="numbersign">
+/* Y direction */
+YAnchor(1,12)
+YAnchor(4,12)
+YAnchor(15,4)
+YIPAnchor(15,16,3,4)
+YDist(16,13,&lt;)
+YDist(16,20,&lt;)
+YLink(16,31,85,&gt;=)
+YDist(31,10,&lt;)
+YDist(31,23,&lt;)
+YDist(3,6,&lt;)
+YDist(3,27,&lt;)
+YLink(3,28,85,&gt;=)
+YDist(28,9,&lt;)
+YDist(28,24,&lt;)
+YAnchor(18,4)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="numero">
+/* Y direction */
+YAnchor(2,2)
+YAnchor(4,2)
+YAnchor(7,8)
+YAnchor(9,8)
+YInterpolate(2,8,3,9)
+YAnchor(18,2)
+YLink(18,32,88,&gt;=)
+YDist(32,10,&gt;=)
+YDelta(10,1@9)
+YLink(10,26,88,&gt;=)
+YDist(10,39,&gt;=)
+YLink(39,38,88,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="o">
+/* Y direction */
+YAnchor(0,11)
+YLink(0,16,87,&gt;=)
+YAnchor(8,7)
+YLink(8,22,87,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="oe">
+/* Y direction */
+YAnchor(0,11)
+YShift(0,32)
+YLink(0,42,87,&gt;=)
+YAnchor(8,7)
+YShift(8,11)
+YLink(8,48,87,&gt;=)
+YAnchor(14,7)
+YLink(14,35,87,&gt;=)
+YAnchor(29,11)
+YShift(29,26)
+YDelta(26,-1/4@24..25,-3/8@26)
+YIPAnchor(14,20,29)
+YDelta(20,1@15..16)
+YLink(20,39,86,&gt;=)
+YLink(29,23,87,&gt;=)
+YShift(23,25)
+YDelta(25,-1/8@8,-1/4@9..10,-1/8@23,-1/4@24..25,-3/8@26)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ogonekcomb">
+/* Y direction */
+YAnchor(4,156)
+YShift(4,1)
+YLink(4,17,138,&gt;=)
+YShift(17,0)
+YAnchor(11,10)
+YShift(11,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ogonekcomb.cap">
+/* Y direction */
+YAnchor(4,156)
+YShift(4,1)
+YLink(4,17,138,&gt;=)
+YShift(17,0)
+YAnchor(11,10)
+YShift(11,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ogonekcomb.round">
+/* Y direction */
+YAnchor(4,156)
+YShift(4,1)
+YLink(4,17,138,&gt;=)
+YShift(17,0)
+YDist(21,11)
+YDelta(11,1@9,1/2@17,3/4@18..21,1/2@22..23,3/4@24..25,1@26..27,5/4@28,1@29..37;39..51)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ogonekcomb.round.cap">
+/* Y direction */
+YAnchor(4,156)
+YDelta(4,-1@9)
+YShift(4,1)
+YLink(4,17,134,&gt;=)
+YShift(17,0)
+YDist(21,11)
+YDelta(11,1@9..21;41..48)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ohorn">
+/* Y direction */
+YAnchor(0,11)
+YLink(0,28,87,&gt;=)
+YAnchor(8,7)
+YShift(8,11)
+YLink(8,34,87,&gt;=)
+YShift(34,21)
+YAnchor(17,121)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="one">
+/* Y direction */
+YAnchor(1,4)
+YAnchor(2,12)
+YUpToGrid(4)
+YIPAnchor(1,4,5,2)
+YShift(5,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="one.dnom">
+/* Y direction */
+YAnchor(1,126)
+YDist(1,4,&gt;=)
+YDist(4,5,&gt;=)
+YShift(5,6)
+YAnchor(2,127)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ordfeminine">
+/* Y direction */
+YAnchor(17,2)
+YShift(17,14)
+YDelta(14,1/4@18..20,3/8@21,1/4@22)
+YLink(17,10,138,&gt;=)
+YDelta(10,-1@28..29)
+YShift(10,13)
+YDelta(13,3/8@18,1/4@19..20,3/8@21..22)
+YIPAnchor(17,0,37)
+YShift(0,23)
+YLink(0,26,138,&gt;=)
+YDelta(26,1@28..29)
+YDist(0,21,&lt;)
+YIPAnchor(17,7,21)
+YDelta(7,1@21..22)
+YLink(7,30,135,&gt;=)
+YDelta(30,-1@18;21)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ordmasculine">
+/* Y direction */
+YAnchor(8,2)
+YLink(8,22,137,&gt;=)
+YDelta(22,1@27)
+YIPAnchor(8,0,28)
+YLink(0,16,137,&gt;=)
+YDelta(16,-1@27)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="oslash">
+/* Y direction */
+YAnchor(9,7)
+YShift(9,12)
+YShift(9,15)
+YDist(9,13,&lt;)
+YShift(13,14)
+YLink(9,31,87,&gt;=)
+YShift(31,29)
+YShift(31,39)
+YAnchor(22,11)
+YShift(22,2)
+YShift(22,25)
+YDist(22,0,&lt;)
+YShift(0,1)
+YLink(22,34,87,&gt;=)
+YShift(34,28)
+YShift(34,40)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="p">
+/* Y direction */
+YAnchor(1,14)
+YAnchor(2,6)
+YAnchor(7,7)
+YShift(7,4)
+YLink(7,29,87,&gt;=)
+YAnchor(15,11)
+YShift(15,18)
+YLink(15,23,87,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="paragraph">
+/* Y direction */
+YAnchor(0,18)
+YAnchor(11,2)
+YLink(11,15,87,&gt;=)
+YIPAnchor(11,2,0)
+YAnchor(12,18)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="parenleft">
+/* Y direction */
+YAnchor(2,16)
+YAnchor(9,18)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="parenright">
+/* Y direction */
+YAnchor(2,18)
+YAnchor(9,16)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="pe">
+/* Y direction */
+YAnchor(1,6)
+YLink(1,6,85,&gt;=)
+YAnchor(4,10)
+YAnchor(7,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="period">
+/* Y direction */
+YAnchor(3,11)
+YLink(3,9,117,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="plus">
+/* Y direction */
+YAnchor(2)
+YDelta(2,1@11)
+YDist(2,1,&gt;=)
+YDelta(1,1@9;15..16)
+YDist(2,11,&lt;)
+YLink(2,5,85,&gt;=)
+YDist(5,6,&gt;=)
+YDelta(6,-1@9;15..16)
+YDist(5,8,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="q">
+/* Y direction */
+YAnchor(1,14)
+YAnchor(5,11)
+YShift(5,2)
+YLink(5,22,87,&gt;=)
+YAnchor(13,7)
+YShift(13,16)
+YLink(13,29,87,&gt;=)
+YAnchor(18,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="question">
+/* Y direction */
+YAnchor(18,1)
+YShift(18,15)
+YLink(18,11,87,&gt;=)
+YShift(11,14)
+YAnchor(31,11)
+YLink(31,37,117,&gt;=)
+YDist(37,0,&gt;=)
+YInterpolate(0,5,18)
+YInterpolate(11,25,0)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="questiondown">
+/* Y direction */
+YAnchor(3,7)
+YLink(3,9,117,&gt;=)
+YDist(9,12,&gt;=)
+YLink(3,30,148,&gt;=)
+YShift(30,27)
+YInterpolate(12,17,30)
+YLink(30,23,87,&gt;=)
+YShift(23,26)
+YInterpolate(23,37,12)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="questiondown.case">
+/* Y direction */
+YAnchor(3,1)
+YLink(3,9,117,&gt;=)
+YDist(9,12,&gt;=)
+YAnchor(30,11)
+YShift(30,27)
+YLink(30,23,87,&gt;=)
+YShift(23,26)
+YInterpolate(23,17,12)
+YInterpolate(12,37,30)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quoteleft">
+/* Y direction */
+YAnchor(1)
+YDist(1,10,&gt;=)
+YLink(10,4,124,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quoteright">
+/* Y direction */
+YAnchor(10)
+YDist(10,0,&gt;=)
+YLink(10,4,124,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quotesingle">
+/* Y direction */
+YAnchor(8,3)
+YIPAnchor(8,1,15)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="r">
+/* Y direction */
+YAnchor(6,10)
+YAnchor(8,6)
+YAnchor(14,7)
+YLink(14,2,74,&gt;=)
+YShift(14,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="registered">
+/* Y direction */
+YAnchor(8,2)
+YLink(8,24,135,&gt;=)
+YIPAnchor(8,0,55)
+YLink(0,16,135,&gt;=)
+YIPAnchor(24,34,45,33,16)
+YDelta(45,-1@46)
+YDist(34,47,&gt;=)
+YShift(45,41)
+YDist(45,48,&gt;=)
+YDist(33,43,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ringcomb">
+/* Y direction */
+YAnchor(4,154)
+YLink(4,25,146,&gt;=)
+YDist(25,12,&gt;=)
+YLink(12,19,146,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ringcomb.cap">
+/* Y direction */
+YAnchor(0,155)
+YLink(0,16,146,&gt;=)
+YDist(16,8,&gt;=)
+YLink(8,22,146,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ruble">
+/* Y direction */
+YAnchor(0,12)
+YAnchor(10,4)
+YLink(10,26,101,&gt;=)
+YIPAnchor(10,6,2,0)
+YDelta(6,1@8..9)
+YDelta(2,1@12..13,-1@15..16;24..25;32)
+YDist(6,20,&lt;)
+YLink(6,9,101,&gt;=)
+YDist(9,27,&lt;)
+YDist(2,24,&lt;)
+YLink(2,5,101,&gt;=)
+YDist(5,21,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="rupeeindian">
+/* Y direction */
+YAnchor(1,8)
+YAnchor(13,2)
+YIPAnchor(13,6,25,1)
+YDelta(6,1@8..9;14,-1@17,1@25..27;29..30;33..34)
+YDelta(25,1@8..9,-1@10;17)
+YDist(6,21,&lt;)
+YLink(6,9,102,&gt;=)
+YDist(9,18,&lt;)
+YShift(25,2)
+YLink(25,3,102,&gt;=)
+YLink(13,11,102,&gt;=)
+YDist(11,16,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="s">
+/* Y direction */
+YAnchor(17,7)
+YShift(17,20)
+YDelta(20,-1/4@14,1/4@23,3/8@24)
+YLink(17,24,87,&gt;=)
+YDist(24,21,&lt;)
+YDelta(21,5/8@8..9,3/4@10,1/4@11,1/2@15,5/8@16,1/2@23..24,3/8@25..26)
+YAnchor(37,11)
+YShift(37,0)
+YDelta(0,1/2@14,-1/4@23..24)
+YLink(37,4,87,&gt;=)
+YDist(4,1,&lt;)
+YDelta(1,-5/8@8..10,-1/4@15,-1/2@16;23,-1/4@24)
+YInterpolate(4,30,17)
+YDelta(30,-3/8@23,-1/4@24)
+YInterpolate(24,10,37)
+YDelta(10,1/8@23)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="section">
+/* Y direction */
+YAnchor(10)
+YShift(10,13)
+YLink(10,17,85,&gt;=)
+YShift(17,14)
+YDelta(14,-1/4@9)
+YAnchor(35,3)
+YShift(35,38)
+YInterpolate(17,3,62,48,35)
+YLink(35,42,85,&gt;=)
+YShift(42,39)
+YDelta(39,1/4@9)
+YInterpolate(42,29,55,23,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="seven">
+/* Y direction */
+YAnchor(2,12)
+YAnchor(6,4)
+YLink(6,4,101,&gt;=)
+YShift(4,1)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="seven.dnom">
+/* Y direction */
+YAnchor(2,127)
+YAnchor(6,126)
+YLink(6,4,134,&gt;=)
+YShift(4,1)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="sha">
+/* Y direction */
+YAnchor(0,10)
+YLink(0,4,85,&gt;=)
+YDist(4,7,&lt;)
+YAnchor(2,6)
+YAnchor(5,6)
+YAnchor(9,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="sha.loclBGR">
+/* Y direction */
+YAnchor(0,11)
+YLink(0,8,87,&gt;=)
+YShift(0,32)
+YAnchor(5,6)
+YAnchor(14,6)
+YAnchor(23,6)
+YAnchor(26,10)
+YAnchor(30,11)
+YLink(30,19,87,&gt;=)
+YShift(30,27)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="shcha">
+/* Y direction */
+YAnchor(2,6)
+YAnchor(6,6)
+YAnchor(9,6)
+YAnchor(14,158)
+YAnchor(15,10)
+YLink(15,11,85,&gt;=)
+YDist(11,4,&lt;)
+YDist(11,8,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="shcha.loclBGR">
+/* Y direction */
+YAnchor(0,11)
+YLink(0,8,87,&gt;=)
+YShift(0,39)
+YAnchor(5,6)
+YAnchor(14,6)
+YAnchor(23,6)
+YAnchor(31,158)
+YAnchor(32,10)
+YLink(32,28,85,&gt;=)
+YAnchor(37,11)
+YLink(37,19,87,&gt;=)
+YShift(37,34)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="six">
+/* Y direction */
+YAnchor(0,13)
+YLink(0,23,103,&gt;=)
+YAnchor(8,4)
+YIPAnchor(8,15,0)
+YShift(15,12)
+YLink(15,29,103,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="six.dnom">
+/* Y direction */
+YAnchor(0,130)
+YLink(0,20,136,&gt;=)
+YAnchor(6,126)
+YIPAnchor(6,12,0)
+YShift(12,10)
+YLink(12,26,136,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="slash">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(2,16)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="soft">
+/* Y direction */
+YAnchor(0,10)
+YLink(0,13,85,&gt;=)
+YAnchor(1,6)
+YIPAnchor(1,12,0)
+YLink(12,3,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="soft.loclBGR">
+/* Y direction */
+YAnchor(0,11)
+YLink(0,17,85,&gt;=)
+YAnchor(4,6)
+YIPAnchor(4,9,0)
+YDelta(9,-1@8..10)
+YShift(9,6)
+YLink(9,23,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="sterling">
+/* Y direction */
+YAnchor(5,12)
+YLink(5,7,101,&gt;=)
+YDist(7,2,&lt;)
+YAnchor(16,5)
+YShift(16,19)
+YIPAnchor(16,8,5)
+YDelta(8,1@9;11;14)
+YDist(8,1,&lt;)
+YLink(8,11,101,&gt;=)
+YDist(11,27,&lt;)
+YLink(16,22,103,&gt;=)
+YShift(22,20)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="t">
+/* Y direction */
+YAnchor(0,10)
+YLink(0,17,85,&gt;=)
+YAnchor(7,6)
+YDist(7,9,&gt;=)
+YDist(7,10,&lt;)
+YLink(7,4,85,&gt;=)
+YDist(4,13,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="tbar">
+/* Y direction */
+YAnchor(0,10)
+YLink(0,25,85,&gt;=)
+YAnchor(11,6)
+YDist(11,12,&gt;=)
+YDist(11,14,&lt;)
+YIPAnchor(11,7,0)
+YDist(7,18,&lt;)
+YLink(7,4,102,&gt;=)
+YDist(4,21,&lt;)
+YLink(11,8,85,&gt;=)
+YDist(8,17,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="te">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(3,6)
+YLink(3,1,85,&gt;=)
+YDist(1,6,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="thorn">
+/* Y direction */
+YAnchor(1,14)
+YAnchor(3,0)
+YAnchor(7,7)
+YShift(7,4)
+YLink(7,29,87,&gt;=)
+YAnchor(15,11)
+YShift(15,18)
+YLink(15,23,87,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="three">
+/* Y direction */
+YAnchor(26,5)
+YShift(26,23)
+YLink(26,19,103,&gt;=)
+YShift(19,22)
+YAnchor(40,13)
+YShift(40,0)
+YIPAnchor(26,11,40)
+YDelta(11,1@14,-1@24)
+YLink(11,12,101,&gt;=)
+YDoubleGrid(33)
+YIPAnchor(12,33,11)
+YLink(40,4,103,&gt;=)
+YShift(4,1)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="three.dnom">
+/* Y direction */
+YAnchor(25,129)
+YShift(25,22)
+YLink(25,18,136,&gt;=)
+YShift(18,21)
+YAnchor(38,130)
+YShift(38,0)
+YIPAnchor(25,10,38)
+YDelta(10,1@19,-1@32..33;45;48..50)
+YLink(10,11,134,&gt;=)
+YDoubleGrid(32)
+YIPAnchor(11,32,10)
+YLink(38,3,136,&gt;=)
+YShift(3,1)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="tildecomb">
+/* Y direction */
+YAnchor(4,147)
+YDist(4,11,&lt;)
+YLink(4,20,146,&gt;=)
+YDist(4,9,&gt;=)
+YLink(9,15,146,&gt;=)
+YDist(15,0,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="tildecomb.cap">
+/* Y direction */
+YAnchor(4,151)
+YDist(4,13,&lt;)
+YLink(4,23,146,&gt;=)
+YDist(4,10,&gt;=)
+YLink(10,17,146,&gt;=)
+YDist(17,0,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="tildecomb.narrow">
+/* Y direction */
+YAnchor(4,147)
+YDist(4,12,&lt;)
+YLink(4,22,146,&gt;=)
+YDist(4,10,&gt;=)
+YLink(10,16,146,&gt;=)
+YDist(16,0,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="trademark">
+/* Y direction */
+YAnchor(5,2)
+YLink(5,7,138,&gt;=)
+YDist(7,2,&lt;)
+YAnchor(14,2)
+YAnchor(16,2)
+YIPAnchor(5,0,21)
+YDist(0,19,&lt;)
+YDist(0,12,&lt;)
+YIPAnchor(14,9,12)
+YInterpolate(14,10,15,9)
+YShift(10,20)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="triangledown">
+/* Y direction */
+YAnchor(1)
+YShift(1,0)
+YDist(1,3,&lt;)
+YShift(3,4)
+YIPAnchor(1,5,6)
+YInterpolate(5,2,3)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="triangleleft">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(3,6)
+YInterpolate(3,2,1)
+YShift(2,5)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="triangleright">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(4,6)
+YInterpolate(4,2,0)
+YShift(2,5)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="triangleup">
+/* Y direction */
+YAnchor(2)
+YIPAnchor(2,0,6)
+YShift(0,1)
+YDist(0,4,&lt;)
+YShift(4,3)
+YInterpolate(2,5,4)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="tse">
+/* Y direction */
+YAnchor(2,6)
+YAnchor(5,6)
+YAnchor(10,158)
+YAnchor(11,10)
+YLink(11,7,85,&gt;=)
+YDist(7,4,&lt;)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="tse.loclBGR">
+/* Y direction */
+YAnchor(0,11)
+YLink(0,9,87,&gt;=)
+YShift(0,24)
+YAnchor(4,6)
+YAnchor(13,6)
+YAnchor(21,158)
+YAnchor(22,10)
+YLink(22,19,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="tshe">
+/* Y direction */
+YAnchor(5,0)
+YAnchor(19,10)
+YAnchor(28,10)
+YIPAnchor(5,1,14,28)
+YDelta(1,-1@8..9)
+YDelta(14,-1@8..10;15)
+YDist(1,10,&lt;)
+YLink(1,4,88,&gt;=)
+YDist(4,7,&lt;)
+YShift(14,11)
+YLink(14,23,87,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="two">
+/* Y direction */
+YAnchor(0,12)
+YLink(0,25,101,&gt;=)
+YShift(25,2)
+YAnchor(15,5)
+YShift(15,12)
+YInterpolate(25,3,15)
+YLink(15,9,103,&gt;=)
+YShift(9,11)
+YInterpolate(9,22,0)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="two.dnom">
+/* Y direction */
+YAnchor(0,127)
+YLink(0,24,134,&gt;=)
+YShift(24,2)
+YAnchor(15,129)
+YShift(15,13)
+YInterpolate(24,3,15)
+YLink(15,9,136,&gt;=)
+YShift(9,12)
+YInterpolate(9,21,0)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="u">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(5,11)
+YShift(5,2)
+YLink(5,14,87,&gt;=)
+YAnchor(10,6)
+YAnchor(18,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="uhorn">
+/* Y direction */
+YAnchor(0,121)
+YAnchor(5,10)
+YAnchor(10,11)
+YLink(10,19,87,&gt;=)
+YAnchor(15,6)
+YAnchor(23,6)
+YLink(23,4,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="underscore">
+/* Y direction */
+YDist(4,2,&gt;=)
+YLink(2,1,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="v">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(3,6)
+YDownToGrid(4)
+YIPAnchor(1,4,3)
+YAnchor(5,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ve">
+/* Y direction */
+YAnchor(0,10)
+YLink(0,27,137,&gt;=)
+YDelta(27,1@15;23..26)
+YAnchor(1,6)
+YLink(1,17,137,&gt;=)
+YDelta(17,-1@15;23..26)
+YIPAnchor(17,26,0)
+YDelta(26,1@15,-1@47)
+YLink(26,18,86,&gt;=)
+YDelta(18,1@16)
+YDoubleGrid(8)
+YIPAnchor(18,8,26)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ve.loclBGR">
+/* Y direction */
+YAnchor(0,11)
+YLink(0,33,87,&gt;=)
+YAnchor(8,1)
+YLink(8,22,87,&gt;=)
+YIPAnchor(22,40,0)
+YLink(40,26,85,&gt;=)
+YDoubleGrid(15)
+YIPAnchor(26,15,40)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="w">
+/* Y direction */
+YAnchor(1,10)
+YAnchor(3,10)
+YAnchor(6,6)
+YAnchor(9,6)
+YDownToGrid(7)
+YIPAnchor(9,7,3)
+YInterpolate(9,2,7)
+YShift(7,10)
+YAnchor(11,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="x">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(4,6)
+YInterpolate(4,5,8,2,11,0)
+YAnchor(6,6)
+YAnchor(10,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="y">
+/* Y direction */
+YAnchor(0,6)
+YAnchor(6,14)
+YLink(6,7,85,&gt;=)
+YAnchor(11,10)
+YAnchor(13,6)
+YInterpolate(13,14,11)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ya">
+/* Y direction */
+YAnchor(9,6)
+YLink(9,17,85,&gt;=)
+YAnchor(11,10)
+YIPAnchor(17,13,11)
+YShift(13,1)
+YLink(13,16,88,&gt;=)
+YAnchor(14,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="yat">
+/* Y direction */
+YAnchor(0,10)
+YLink(0,21,85,&gt;=)
+YAnchor(4,6)
+YDist(4,7,&lt;)
+YLink(4,1,159,&gt;=)
+YDist(1,10,&lt;)
+YIPAnchor(4,11,0)
+YLink(11,20,85,&gt;=)
+YAnchor(5,0)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="yen">
+/* Y direction */
+YAnchor(1,12)
+YAnchor(11,4)
+YIPAnchor(11,6,2,1)
+YDelta(6,1@9;15..16,-1@19)
+YDelta(2,-1@19;23;28..31;36..37)
+YInterpolate(11,12,6)
+YDist(6,18,&lt;)
+YLink(6,9,101,&gt;=)
+YDist(9,15,&lt;)
+YDist(2,22,&lt;)
+YLink(2,5,101,&gt;=)
+YDist(5,19,&lt;)
+YAnchor(13,4)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="yeru">
+/* Y direction */
+YAnchor(0,10)
+YLink(0,17,85,&gt;=)
+YAnchor(1,6)
+YIPAnchor(1,16,0)
+YLink(16,3,85,&gt;=)
+YAnchor(11,10)
+YAnchor(12,6)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="yu">
+/* Y direction */
+YAnchor(1,6)
+YAnchor(8,7)
+YLink(8,29,87,&gt;=)
+YAnchor(16,11)
+YLink(16,23,87,&gt;=)
+YAnchor(22,10)
+YIPAnchor(1,21,22)
+YDelta(21,-1@35)
+YLink(21,4,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="yu.loclBGR">
+/* Y direction */
+YAnchor(0,10)
+YAnchor(1,0)
+YAnchor(8,7)
+YLink(8,29,87,&gt;=)
+YAnchor(16,11)
+YLink(16,23,87,&gt;=)
+YIPAnchor(8,21,16)
+YLink(21,3,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="z">
+/* Y direction */
+YAnchor(0,10)
+YLink(0,8,85,&gt;=)
+YShift(8,2)
+YAnchor(5,6)
+YLink(5,3,85,&gt;=)
+YShift(3,7)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ze">
+/* Y direction */
+YAnchor(0,11)
+YShift(0,3)
+YLink(0,6,87,&gt;=)
+YShift(6,4)
+YAnchor(24,7)
+YShift(24,22)
+YDelta(22,1/4@10)
+YLink(24,19,87,&gt;=)
+YShift(19,21)
+YDelta(21,1/4@10)
+YIPAnchor(19,12,0)
+YDelta(12,1@15..16)
+YLink(12,13,86,&gt;=)
+YDoubleGrid(30)
+YIPAnchor(13,30,12)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ze.loclBGR">
+/* Y direction */
+YAnchor(0,15)
+YShift(0,2)
+YLink(0,5,87,&gt;=)
+YShift(5,3)
+YAnchor(25,7)
+YShift(25,23)
+YLink(25,20,87,&gt;=)
+YShift(20,22)
+YIPAnchor(20,12,0)
+YLink(12,13,85,&gt;=)
+YDoubleGrid(32)
+YIPAnchor(13,32,12)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="zero">
+/* Y direction */
+YAnchor(0,13)
+YLink(0,12,103,&gt;=)
+YAnchor(6,5)
+YLink(6,18,103,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="zero.dnom">
+/* Y direction */
+YAnchor(0,130)
+YLink(0,12,136,&gt;=)
+YAnchor(6,129)
+YLink(6,18,136,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="zero.percent">
+/* Y direction */
+YAnchor(0,130)
+YLink(0,16,137,&gt;=)
+YDist(16,8,&gt;=)
+YLink(8,22,137,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="zhe">
+/* Y direction */
+YAnchor(3,6)
+YAnchor(5,6)
+YAnchor(8,6)
+YAnchor(12,10)
+YAnchor(15,10)
+YInterpolate(5,4,7,10,1,13,16,15)
+YAnchor(17,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="zhe.loclBGR">
+/* Y direction */
+YAnchor(3,6)
+YAnchor(5,0)
+YAnchor(8,6)
+YAnchor(12,10)
+YAnchor(15,10)
+YInterpolate(3,4,7,10,1,13,16,15)
+YAnchor(17,10)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+  </TSI3>
+
+</ttFont>

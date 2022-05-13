@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="800" default="400">
+      <map input="400" output="77"/>
+      <map input="530" output="100"/>
+      <map input="700" output="132"/>
+      <map input="800" output="163"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="WixMadeforText_It.ufo" name="Wix Madefor Text Italic" familyname="Wix Madefor Text" stylename="Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="77"/>
+      </location>
+    </source>
+    <source filename="WixMadeforText_XBdIt.ufo" name="Wix Madefor Text ExtraBold Italic" familyname="Wix Madefor Text" stylename="ExtraBold Italic">
+      <location>
+        <dimension name="Weight" xvalue="163"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Wix Madefor Text VF Italic" familyname="Wix Madefor Text VF" stylename="Italic" filename="../build/instance_ufos/WixMadeforText_It.ufo">
+      <location>
+        <dimension name="Weight" xvalue="77"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Wix Madefor Text VF Medium Italic" familyname="Wix Madefor Text VF" stylename="Medium Italic" filename="../build/instance_ufos/WixMadeforText_MdIt.ufo">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Wix Madefor Text VF Bold Italic" familyname="Wix Madefor Text VF" stylename="Bold Italic" filename="../build/instance_ufos/WixMadeforText_BdIt.ufo">
+      <location>
+        <dimension name="Weight" xvalue="132"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Wix Madefor Text VF ExtraBold Italic" familyname="Wix Madefor Text VF" stylename="ExtraBold Italic" filename="../build/instance_ufos/WixMadeforText_XBdIt.ufo">
+      <location>
+        <dimension name="Weight" xvalue="163"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.daltonmaag.Stylespace</key>
+      <string>WixMadeforVF.stylespace</string>
+      <key>org.statmake.additionalLocations</key>
+      <dict>
+        <key>Italic</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

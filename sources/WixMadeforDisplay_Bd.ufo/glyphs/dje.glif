@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dje" format="2">
+	<unicode hex="0452"/>
+	<advance width="636"/>
+	<outline>
+		<contour>
+			<point x="372" y="-210" type="line"/>
+			<point x="512" y="-140"/>
+			<point x="590" y="2"/>
+			<point x="590" y="200" type="curve" smooth="yes"/>
+			<point x="590" y="390"/>
+			<point x="523" y="492"/>
+			<point x="393" y="492" type="curve" smooth="yes"/>
+			<point x="290" y="492"/>
+			<point x="222" y="428"/>
+			<point x="208" y="319" type="curve"/>
+			<point x="226" y="319" type="line"/>
+			<point x="226" y="720" type="line"/>
+			<point x="94" y="720" type="line"/>
+			<point x="94" y="0" type="line"/>
+			<point x="226" y="0" type="line"/>
+			<point x="226" y="217" type="line" smooth="yes"/>
+			<point x="226" y="318"/>
+			<point x="274" y="382"/>
+			<point x="352" y="382" type="curve" smooth="yes"/>
+			<point x="423" y="382"/>
+			<point x="458" y="317"/>
+			<point x="458" y="188" type="curve" smooth="yes"/>
+			<point x="458" y="39"/>
+			<point x="407" y="-57"/>
+			<point x="304" y="-105" type="curve"/>
+		</contour>
+		<contour>
+			<point x="13" y="552" type="line"/>
+			<point x="412" y="552" type="line"/>
+			<point x="412" y="646" type="line"/>
+			<point x="13" y="646" type="line"/>
+		</contour>
+	</outline>
+</glyph>

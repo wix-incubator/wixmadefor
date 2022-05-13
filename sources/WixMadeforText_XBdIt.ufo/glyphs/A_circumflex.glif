@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex" format="2">
+	<unicode hex="00C2"/>
+	<advance width="763"/>
+	<outline>
+		<component base="A"/>
+		<component base="circumflexcomb.cap" xOffset="470"/>
+	</outline>
+</glyph>

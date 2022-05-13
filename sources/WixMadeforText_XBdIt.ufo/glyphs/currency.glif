@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currency" format="2">
+	<unicode hex="00A4"/>
+	<advance width="560"/>
+	<outline>
+		<contour>
+			<point x="284" y="276" type="curve" smooth="yes"/>
+			<point x="241" y="276"/>
+			<point x="211" y="306"/>
+			<point x="211" y="351" type="curve" smooth="yes"/>
+			<point x="211" y="415"/>
+			<point x="266" y="474"/>
+			<point x="327" y="474" type="curve" smooth="yes"/>
+			<point x="370" y="474"/>
+			<point x="400" y="444"/>
+			<point x="400" y="399" type="curve" smooth="yes"/>
+			<point x="400" y="335"/>
+			<point x="345" y="276"/>
+		</contour>
+		<contour>
+			<point x="68" y="106" type="line"/>
+			<point x="162" y="183" type="line"/>
+			<point x="188" y="168"/>
+			<point x="224" y="159"/>
+			<point x="260" y="159" type="curve" smooth="yes"/>
+			<point x="300" y="159"/>
+			<point x="342" y="169"/>
+			<point x="376" y="188" type="curve"/>
+			<point x="437" y="113" type="line"/>
+			<point x="515" y="178" type="line"/>
+			<point x="458" y="249" type="line"/>
+			<point x="506" y="299"/>
+			<point x="532" y="359"/>
+			<point x="532" y="419" type="curve" smooth="yes"/>
+			<point x="532" y="445"/>
+			<point x="527" y="469"/>
+			<point x="516" y="494" type="curve"/>
+			<point x="604" y="566" type="line"/>
+			<point x="543" y="644" type="line"/>
+			<point x="449" y="567" type="line"/>
+			<point x="423" y="582"/>
+			<point x="387" y="591"/>
+			<point x="351" y="591" type="curve" smooth="yes"/>
+			<point x="311" y="591"/>
+			<point x="269" y="581"/>
+			<point x="235" y="562" type="curve"/>
+			<point x="174" y="637" type="line"/>
+			<point x="96" y="572" type="line"/>
+			<point x="153" y="501" type="line"/>
+			<point x="105" y="451"/>
+			<point x="79" y="391"/>
+			<point x="79" y="331" type="curve" smooth="yes"/>
+			<point x="79" y="305"/>
+			<point x="84" y="281"/>
+			<point x="95" y="256" type="curve"/>
+			<point x="7" y="184" type="line"/>
+		</contour>
+	</outline>
+	<guideline y="159"/>
+	<guideline y="591"/>
+</glyph>

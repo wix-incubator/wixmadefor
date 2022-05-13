@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.cap" format="2">
+	<outline>
+		<contour>
+			<point x="-145" y="826" type="line"/>
+			<point x="133" y="826" type="line"/>
+			<point x="146" y="890" type="line"/>
+			<point x="-132" y="890" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top.UC" x="0" y="750"/>
+</glyph>

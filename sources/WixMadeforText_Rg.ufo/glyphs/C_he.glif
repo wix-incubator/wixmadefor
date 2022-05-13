@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Che" format="2">
+	<unicode hex="0427"/>
+	<advance width="659"/>
+	<outline>
+		<contour>
+			<point x="473" y="0" type="line"/>
+			<point x="553" y="0" type="line"/>
+			<point x="553" y="715" type="line"/>
+			<point x="473" y="715" type="line"/>
+		</contour>
+		<contour>
+			<point x="298" y="267" type="curve" smooth="yes"/>
+			<point x="389" y="267"/>
+			<point x="463" y="294"/>
+			<point x="522" y="349" type="curve"/>
+			<point x="492" y="403" type="line"/>
+			<point x="444" y="363"/>
+			<point x="372" y="339"/>
+			<point x="303" y="339" type="curve" smooth="yes"/>
+			<point x="200" y="339"/>
+			<point x="141" y="397"/>
+			<point x="141" y="497" type="curve" smooth="yes"/>
+			<point x="141" y="715" type="line"/>
+			<point x="61" y="715" type="line"/>
+			<point x="61" y="489" type="line" smooth="yes"/>
+			<point x="61" y="346"/>
+			<point x="146" y="267"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>En</string>
+		</dict>
+	</lib>
+</glyph>

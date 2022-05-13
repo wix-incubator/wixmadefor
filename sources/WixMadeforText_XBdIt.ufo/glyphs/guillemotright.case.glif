@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright.case" format="2">
+	<advance width="618"/>
+	<outline>
+		<component base="guilsinglright" xOffset="22" yOffset="102"/>
+		<component base="guilsinglright" xOffset="275" yOffset="102"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.125,1,0,0.35</string>
+		</dict>
+	</lib>
+</glyph>

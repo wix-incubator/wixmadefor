@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yat" format="2">
+	<unicode hex="0462"/>
+	<advance width="734"/>
+	<outline>
+		<contour>
+			<point x="138" y="0" type="line"/>
+			<point x="443" y="0" type="line" smooth="yes"/>
+			<point x="597" y="0"/>
+			<point x="700" y="89"/>
+			<point x="700" y="219" type="curve" smooth="yes"/>
+			<point x="700" y="350"/>
+			<point x="598" y="434"/>
+			<point x="443" y="434" type="curve" smooth="yes"/>
+			<point x="203" y="434" type="line"/>
+			<point x="203" y="320" type="line"/>
+			<point x="444" y="320" type="line" smooth="yes"/>
+			<point x="518" y="320"/>
+			<point x="563" y="282"/>
+			<point x="563" y="219" type="curve" smooth="yes"/>
+			<point x="563" y="154"/>
+			<point x="518" y="115"/>
+			<point x="444" y="115" type="curve" smooth="yes"/>
+			<point x="261" y="115" type="line"/>
+			<point x="273" y="101" type="line"/>
+			<point x="273" y="715" type="line"/>
+			<point x="138" y="715" type="line"/>
+		</contour>
+		<contour>
+			<point x="19" y="523" type="line"/>
+			<point x="524" y="523" type="line"/>
+			<point x="524" y="638" type="line"/>
+			<point x="19" y="638" type="line"/>
+		</contour>
+	</outline>
+</glyph>

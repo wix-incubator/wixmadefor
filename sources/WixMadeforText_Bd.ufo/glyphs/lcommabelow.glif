@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommabelow" format="2">
+	<unicode hex="013C"/>
+	<advance width="274"/>
+	<outline>
+		<component base="l"/>
+		<component base="commabelowcomb" xOffset="137"/>
+	</outline>
+</glyph>

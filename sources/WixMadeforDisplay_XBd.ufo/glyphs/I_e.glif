@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ie" format="2">
+	<unicode hex="0415"/>
+	<advance width="647"/>
+	<outline>
+		<component base="E" xOffset="18"/>
+	</outline>
+	<anchor name="top.UC" x="323" y="750"/>
+</glyph>

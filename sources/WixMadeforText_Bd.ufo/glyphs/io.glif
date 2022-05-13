@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="io" format="2">
+	<unicode hex="0451"/>
+	<advance width="582"/>
+	<outline>
+		<component base="e"/>
+		<component base="dieresiscomb" xOffset="296"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>ie</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>ie</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>io</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>io</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshe" format="2">
+	<unicode hex="040B"/>
+	<advance width="765"/>
+	<outline>
+		<contour>
+			<point x="24" y="572" type="line"/>
+			<point x="578" y="572" type="line"/>
+			<point x="578" y="715" type="line"/>
+			<point x="24" y="715" type="line"/>
+		</contour>
+		<contour>
+			<point x="555" y="0" type="line"/>
+			<point x="721" y="0" type="line"/>
+			<point x="721" y="223" type="line" smooth="yes"/>
+			<point x="721" y="376"/>
+			<point x="634" y="460"/>
+			<point x="477" y="460" type="curve" smooth="yes"/>
+			<point x="407" y="460"/>
+			<point x="334" y="442"/>
+			<point x="276" y="411" type="curve"/>
+			<point x="298" y="288" type="line"/>
+			<point x="356" y="306"/>
+			<point x="402" y="314"/>
+			<point x="438" y="314" type="curve" smooth="yes"/>
+			<point x="519" y="314"/>
+			<point x="555" y="279"/>
+			<point x="555" y="201" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="160" y="0" type="line"/>
+			<point x="326" y="0" type="line"/>
+			<point x="326" y="655" type="line"/>
+			<point x="160" y="655" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="2">
+	<unicode hex="2122"/>
+	<advance width="834"/>
+	<outline>
+		<contour>
+			<point x="218" y="312" type="line"/>
+			<point x="218" y="654" type="line"/>
+			<point x="140" y="654" type="line"/>
+			<point x="140" y="312" type="line"/>
+		</contour>
+		<contour>
+			<point x="337" y="649" type="line"/>
+			<point x="337" y="715" type="line"/>
+			<point x="21" y="715" type="line"/>
+			<point x="21" y="649" type="line"/>
+		</contour>
+		<contour>
+			<point x="628" y="357" type="line"/>
+			<point x="777" y="683" type="line"/>
+			<point x="736" y="685" type="line"/>
+			<point x="736" y="312" type="line"/>
+			<point x="814" y="312" type="line"/>
+			<point x="814" y="715" type="line"/>
+			<point x="721" y="715" type="line"/>
+			<point x="585" y="410" type="line"/>
+			<point x="615" y="410" type="line"/>
+			<point x="478" y="715" type="line"/>
+			<point x="384" y="715" type="line"/>
+			<point x="384" y="312" type="line"/>
+			<point x="461" y="312" type="line"/>
+			<point x="461" y="685" type="line"/>
+			<point x="421" y="683" type="line"/>
+			<point x="570" y="357" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-22 16:09:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>

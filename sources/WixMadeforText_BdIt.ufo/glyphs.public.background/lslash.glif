@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="2">
+	<outline>
+		<contour>
+			<point x="233" y="0" type="line"/>
+			<point x="233" y="720" type="line"/>
+			<point x="101" y="720" type="line"/>
+			<point x="101" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="352" y="427" type="line"/>
+			<point x="307" y="509" type="line"/>
+			<point x="-2" y="314" type="line"/>
+			<point x="43" y="232" type="line"/>
+		</contour>
+	</outline>
+</glyph>

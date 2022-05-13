@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohungarumlaut" format="2">
+	<outline>
+		<contour>
+			<point x="414" y="-16" type="curve" smooth="yes"/>
+			<point x="615" y="-16"/>
+			<point x="764" y="144"/>
+			<point x="764" y="358" type="curve" smooth="yes"/>
+			<point x="764" y="571"/>
+			<point x="615" y="731"/>
+			<point x="414" y="731" type="curve" smooth="yes"/>
+			<point x="214" y="731"/>
+			<point x="65" y="571"/>
+			<point x="65" y="358" type="curve" smooth="yes"/>
+			<point x="65" y="144"/>
+			<point x="214" y="-16"/>
+		</contour>
+		<contour>
+			<point x="414" y="56" type="curve" smooth="yes"/>
+			<point x="258" y="56"/>
+			<point x="148" y="183"/>
+			<point x="148" y="358" type="curve" smooth="yes"/>
+			<point x="148" y="533"/>
+			<point x="258" y="659"/>
+			<point x="414" y="659" type="curve" smooth="yes"/>
+			<point x="571" y="659"/>
+			<point x="681" y="533"/>
+			<point x="681" y="358" type="curve" smooth="yes"/>
+			<point x="681" y="183"/>
+			<point x="571" y="56"/>
+		</contour>
+		<contour>
+			<point x="523" y="953" type="line"/>
+			<point x="426" y="953" type="line"/>
+			<point x="284" y="789" type="line"/>
+			<point x="361" y="789" type="line"/>
+		</contour>
+		<contour>
+			<point x="692" y="953" type="line"/>
+			<point x="595" y="953" type="line"/>
+			<point x="451" y="789" type="line"/>
+			<point x="527" y="789" type="line"/>
+		</contour>
+	</outline>
+</glyph>

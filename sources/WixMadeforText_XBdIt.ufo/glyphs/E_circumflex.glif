@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="2">
+	<unicode hex="00CA"/>
+	<advance width="603"/>
+	<outline>
+		<component base="E"/>
+		<component base="circumflexcomb.cap" xOffset="423"/>
+	</outline>
+	<guideline x="24" y="0" angle="102"/>
+	<guideline x="506" y="0" angle="102"/>
+</glyph>

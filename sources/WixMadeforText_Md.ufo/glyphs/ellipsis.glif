@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="2">
+	<unicode hex="2026"/>
+	<advance width="996"/>
+	<outline>
+		<component base="period" xOffset="37"/>
+		<component base="period" xOffset="371"/>
+		<component base="period" xOffset="704"/>
+	</outline>
+	<guideline x="164" y="0" angle="0"/>
+	<guideline x="331" y="0" angle="0"/>
+	<guideline x="498" y="0" angle="0"/>
+	<guideline x="664" y="0" angle="0"/>
+	<guideline x="831" y="0" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-22 16:09:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>

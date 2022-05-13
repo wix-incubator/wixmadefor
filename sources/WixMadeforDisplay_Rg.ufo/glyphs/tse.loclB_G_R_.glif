@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tse.loclBGR" format="2">
+	<advance width="607"/>
+	<outline>
+		<contour>
+			<point x="259" y="-16" type="curve" smooth="yes"/>
+			<point x="382" y="-16"/>
+			<point x="472" y="71"/>
+			<point x="463" y="192" type="curve"/>
+			<point x="448" y="213" type="line"/>
+			<point x="440" y="115"/>
+			<point x="362" y="49"/>
+			<point x="272" y="49" type="curve" smooth="yes"/>
+			<point x="187" y="49"/>
+			<point x="137" y="100"/>
+			<point x="137" y="198" type="curve" smooth="yes"/>
+			<point x="137" y="492" type="line"/>
+			<point x="63" y="492" type="line"/>
+			<point x="63" y="190" type="line" smooth="yes"/>
+			<point x="63" y="56"/>
+			<point x="140" y="-16"/>
+		</contour>
+		<contour>
+			<point x="507" y="-128" type="line"/>
+			<point x="577" y="-128" type="line"/>
+			<point x="577" y="63" type="line"/>
+			<point x="573" y="63" type="line"/>
+			<point x="530" y="63"/>
+			<point x="512" y="82"/>
+			<point x="512" y="124" type="curve" smooth="yes"/>
+			<point x="512" y="492" type="line"/>
+			<point x="438" y="492" type="line"/>
+			<point x="438" y="124" type="line"/>
+			<point x="439" y="104" type="line" smooth="yes"/>
+			<point x="442" y="39"/>
+			<point x="479" y="0"/>
+			<point x="541" y="0" type="curve"/>
+			<point x="507" y="34" type="line"/>
+		</contour>
+	</outline>
+</glyph>

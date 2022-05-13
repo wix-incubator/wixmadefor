@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itilde" format="2">
+	<unicode hex="0128"/>
+	<advance width="323"/>
+	<outline>
+		<component base="I"/>
+		<component base="tildecomb.cap" xOffset="270"/>
+	</outline>
+	<guideline x="191" y="0" angle="102"/>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ruble" format="2">
+	<unicode hex="20BD"/>
+	<advance width="632"/>
+	<outline>
+		<contour>
+			<point x="242" y="0" type="line"/>
+			<point x="242" y="633" type="line"/>
+			<point x="368" y="633" type="line" smooth="yes"/>
+			<point x="447" y="633"/>
+			<point x="497" y="586"/>
+			<point x="497" y="510" type="curve" smooth="yes"/>
+			<point x="497" y="433"/>
+			<point x="448" y="386"/>
+			<point x="368" y="386" type="curve" smooth="yes"/>
+			<point x="39" y="386" type="line"/>
+			<point x="39" y="304" type="line"/>
+			<point x="367" y="304" type="line" smooth="yes"/>
+			<point x="506" y="304"/>
+			<point x="599" y="386"/>
+			<point x="599" y="510" type="curve" smooth="yes"/>
+			<point x="599" y="633"/>
+			<point x="506" y="715"/>
+			<point x="367" y="715" type="curve" smooth="yes"/>
+			<point x="142" y="715" type="line"/>
+			<point x="142" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="452" y="206" type="line"/>
+			<point x="39" y="206" type="line"/>
+			<point x="39" y="124" type="line"/>
+			<point x="452" y="124" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-23 09:15:01 +0000</string>
+		</dict>
+	</lib>
+</glyph>

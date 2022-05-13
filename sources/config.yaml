@@ -1,7 +1,6 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
-axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+  - WixMadeforDisplayVF_Wght.designspace
+  - WixMadeforTextVF_Wght.designspace
+  - WixMadeforTextItalicVF_Wght.designspace
+logLevel:
+  DEBUG

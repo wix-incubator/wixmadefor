@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommabelow" format="2">
+	<unicode hex="0145"/>
+	<advance width="750"/>
+	<outline>
+		<component base="N"/>
+		<component base="commabelowcomb.cap" xOffset="305"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.125,1,0,0.35</string>
+		</dict>
+	</lib>
+</glyph>

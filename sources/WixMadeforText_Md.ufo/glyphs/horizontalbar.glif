@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horizontalbar" format="2">
+	<unicode hex="2015"/>
+	<advance width="1000"/>
+	<outline>
+		<component base="emdash"/>
+	</outline>
+	<guideline x="249" y="0" angle="0"/>
+	<guideline y="254"/>
+</glyph>

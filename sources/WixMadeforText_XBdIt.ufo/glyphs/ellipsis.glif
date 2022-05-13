@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="2">
+	<unicode hex="2026"/>
+	<advance width="1000"/>
+	<outline>
+		<component base="period" xOffset="36"/>
+		<component base="period" xOffset="368"/>
+		<component base="period" xOffset="700"/>
+	</outline>
+	<guideline y="-13"/>
+	<guideline y="183"/>
+	<guideline x="182" y="0" angle="102"/>
+	<guideline x="349" y="0" angle="102"/>
+	<guideline x="515" y="0" angle="102"/>
+	<guideline x="682" y="0" angle="102"/>
+	<guideline x="847" y="0" angle="102"/>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ijacute" format="2">
+	<advance width="523"/>
+	<outline>
+		<component base="dotlessj" xOffset="262"/>
+		<component base="dotlessi"/>
+		<component base="acutecomb" xOffset="194"/>
+		<component base="acutecomb" xOffset="456"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.125,1,0,0.35</string>
+		</dict>
+	</lib>
+</glyph>

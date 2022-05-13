@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ieukrain" format="2">
+	<unicode hex="0454"/>
+	<advance width="570"/>
+	<outline>
+		<contour>
+			<point x="315" y="-16" type="curve" smooth="yes"/>
+			<point x="407" y="-16"/>
+			<point x="485" y="20"/>
+			<point x="539" y="86" type="curve"/>
+			<point x="460" y="163" type="line"/>
+			<point x="428" y="116"/>
+			<point x="381" y="89"/>
+			<point x="319" y="89" type="curve" smooth="yes"/>
+			<point x="228" y="89"/>
+			<point x="173" y="150"/>
+			<point x="173" y="250" type="curve" smooth="yes"/>
+			<point x="173" y="352"/>
+			<point x="229" y="414"/>
+			<point x="319" y="414" type="curve" smooth="yes"/>
+			<point x="379" y="414"/>
+			<point x="426" y="387"/>
+			<point x="458" y="341" type="curve"/>
+			<point x="536" y="418" type="line"/>
+			<point x="483" y="483"/>
+			<point x="407" y="519"/>
+			<point x="314" y="519" type="curve" smooth="yes"/>
+			<point x="153" y="519"/>
+			<point x="40" y="410"/>
+			<point x="40" y="252" type="curve" smooth="yes"/>
+			<point x="40" y="90"/>
+			<point x="149" y="-16"/>
+		</contour>
+		<contour>
+			<point x="86" y="211" type="line"/>
+			<point x="418" y="211" type="line"/>
+			<point x="418" y="298" type="line"/>
+			<point x="86" y="298" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom.LC" x="317" y="-50"/>
+	<anchor name="top.LC" x="317" y="544"/>
+</glyph>

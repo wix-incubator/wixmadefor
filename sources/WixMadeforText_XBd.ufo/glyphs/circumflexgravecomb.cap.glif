@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexgravecomb.cap" format="2">
+	<outline>
+		<contour>
+			<point x="-210" y="799" type="line"/>
+			<point x="-62" y="799" type="line"/>
+			<point x="8" y="868" type="line"/>
+			<point x="-8" y="868" type="line"/>
+			<point x="63" y="799" type="line"/>
+			<point x="212" y="799" type="line"/>
+			<point x="93" y="936" type="line"/>
+			<point x="-91" y="936" type="line"/>
+		</contour>
+		<contour>
+			<point x="212" y="882" type="line"/>
+			<point x="317" y="882" type="line"/>
+			<point x="219" y="1030" type="line"/>
+			<point x="66" y="1030" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top.UC" x="0" y="750"/>
+</glyph>

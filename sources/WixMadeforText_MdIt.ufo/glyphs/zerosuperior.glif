@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerosuperior" format="2">
+	<unicode hex="2070"/>
+	<advance width="406"/>
+	<outline>
+		<component base="zero.dnom" xOffset="86" yOffset="404"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-29 10:22:57 +0000</string>
+		</dict>
+	</lib>
+</glyph>

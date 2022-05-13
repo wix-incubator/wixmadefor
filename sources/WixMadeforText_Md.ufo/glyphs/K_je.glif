@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kje" format="2">
+	<unicode hex="040C"/>
+	<advance width="705"/>
+	<outline>
+		<component base="K"/>
+		<component base="acutecomb.cap" xOffset="354"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>Ka</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>En</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>Ka</string>
+		</dict>
+	</lib>
+</glyph>

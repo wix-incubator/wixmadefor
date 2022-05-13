@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gheup" format="2">
+	<unicode hex="0490"/>
+	<advance width="561"/>
+	<outline>
+		<contour>
+			<point x="89" y="0" type="line"/>
+			<point x="224" y="0" type="line"/>
+			<point x="224" y="690" type="line"/>
+			<point x="149" y="599" type="line"/>
+			<point x="536" y="599" type="line"/>
+			<point x="536" y="879" type="line"/>
+			<point x="409" y="879" type="line"/>
+			<point x="409" y="645" type="line"/>
+			<point x="485" y="715" type="line"/>
+			<point x="89" y="715" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>En</string>
+		</dict>
+	</lib>
+</glyph>

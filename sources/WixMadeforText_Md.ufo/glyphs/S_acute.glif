@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="2">
+	<unicode hex="015A"/>
+	<advance width="666"/>
+	<outline>
+		<component base="S"/>
+		<component base="acutecomb.cap" xOffset="331"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-23 08:39:41 +0000</string>
+		</dict>
+	</lib>
+</glyph>

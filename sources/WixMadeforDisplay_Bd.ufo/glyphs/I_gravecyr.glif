@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igravecyr" format="2">
+	<unicode hex="040D"/>
+	<advance width="788"/>
+	<outline>
+		<component base="Icyr"/>
+		<component base="gravecomb.cap" xOffset="399"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>Icyr</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>Icyr</string>
+		</dict>
+	</lib>
+</glyph>

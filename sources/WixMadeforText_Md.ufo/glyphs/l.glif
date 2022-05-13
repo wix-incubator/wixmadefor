@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+	<unicode hex="006C"/>
+	<advance width="258"/>
+	<outline>
+		<contour>
+			<point x="179" y="0" type="line"/>
+			<point x="179" y="720" type="line"/>
+			<point x="79" y="720" type="line"/>
+			<point x="79" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top.LC" x="129" y="766"/>
+	<anchor name="top_right" x="290" y="540"/>
+	<anchor name="bottom.LC" x="129" y="-50"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-22 16:09:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>

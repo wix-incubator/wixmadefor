@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeinferior" format="2">
+	<unicode hex="2083"/>
+	<advance width="374"/>
+	<outline>
+		<component base="three.dnom" xOffset="-21" yOffset="-100"/>
+	</outline>
+	<guideline y="-52"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.125,1,0,0.35</string>
+		</dict>
+	</lib>
+</glyph>

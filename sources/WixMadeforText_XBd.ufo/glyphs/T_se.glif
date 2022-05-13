@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tse" format="2">
+	<unicode hex="0426"/>
+	<advance width="788"/>
+	<outline>
+		<contour>
+			<point x="667" y="87" type="line"/>
+			<point x="667" y="715" type="line"/>
+			<point x="501" y="715" type="line"/>
+			<point x="501" y="87" type="line"/>
+		</contour>
+		<contour>
+			<point x="598" y="-174" type="line"/>
+			<point x="753" y="-174" type="line"/>
+			<point x="753" y="142" type="line"/>
+			<point x="220" y="142" type="line"/>
+			<point x="245" y="117" type="line"/>
+			<point x="245" y="715" type="line"/>
+			<point x="79" y="715" type="line"/>
+			<point x="79" y="0" type="line"/>
+			<point x="623" y="0" type="line"/>
+			<point x="598" y="25" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>De</string>
+		</dict>
+	</lib>
+</glyph>

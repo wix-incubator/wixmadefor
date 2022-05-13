@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring" format="2">
+	<unicode hex="016F"/>
+	<advance width="592"/>
+	<outline>
+		<component base="u"/>
+		<component base="ringcomb" xOffset="354"/>
+	</outline>
+	<guideline x="240" y="0" angle="102"/>
+</glyph>

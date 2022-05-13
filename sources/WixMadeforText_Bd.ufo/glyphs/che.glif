@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="che" format="2">
+	<unicode hex="0447"/>
+	<advance width="567"/>
+	<outline>
+		<contour>
+			<point x="365" y="0" type="line"/>
+			<point x="497" y="0" type="line"/>
+			<point x="497" y="503" type="line"/>
+			<point x="365" y="503" type="line"/>
+		</contour>
+		<contour>
+			<point x="229" y="151" type="curve" smooth="yes"/>
+			<point x="291" y="151"/>
+			<point x="359" y="172"/>
+			<point x="396" y="205" type="curve"/>
+			<point x="376" y="296" type="line"/>
+			<point x="343" y="273"/>
+			<point x="305" y="261"/>
+			<point x="268" y="261" type="curve" smooth="yes"/>
+			<point x="203" y="261"/>
+			<point x="173" y="296"/>
+			<point x="173" y="369" type="curve" smooth="yes"/>
+			<point x="173" y="503" type="line"/>
+			<point x="41" y="503" type="line"/>
+			<point x="41" y="355" type="line" smooth="yes"/>
+			<point x="41" y="224"/>
+			<point x="108" y="151"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>en</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>en</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhe.loclBGR" format="2">
+	<advance width="858"/>
+	<outline>
+		<contour>
+			<point x="686" y="0" type="line"/>
+			<point x="846" y="0" type="line"/>
+			<point x="624" y="256" type="line"/>
+			<point x="837" y="503" type="line"/>
+			<point x="684" y="503" type="line"/>
+			<point x="477" y="261" type="line"/>
+			<point x="466" y="261" type="line"/>
+		</contour>
+		<contour>
+			<point x="12" y="0" type="line"/>
+			<point x="172" y="0" type="line"/>
+			<point x="392" y="261" type="line"/>
+			<point x="381" y="261" type="line"/>
+			<point x="174" y="503" type="line"/>
+			<point x="21" y="503" type="line"/>
+			<point x="234" y="256" type="line"/>
+		</contour>
+		<contour>
+			<point x="364" y="0" type="line"/>
+			<point x="494" y="0" type="line"/>
+			<point x="494" y="720" type="line"/>
+			<point x="364" y="720" type="line"/>
+		</contour>
+	</outline>
+</glyph>

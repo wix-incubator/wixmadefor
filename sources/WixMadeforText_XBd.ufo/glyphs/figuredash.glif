@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="figuredash" format="2">
+	<unicode hex="2012"/>
+	<advance width="632"/>
+	<outline>
+		<component base="endash" xOffset="66" yOffset="75"/>
+	</outline>
+	<guideline x="250"/>
+	<guideline y="277"/>
+</glyph>

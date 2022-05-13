@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hdotbelow" format="2">
+	<unicode hex="1E24"/>
+	<advance width="755"/>
+	<outline>
+		<component base="H"/>
+		<component base="dotbelowcomb.cap" xOffset="378"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-23 08:39:41 +0000</string>
+		</dict>
+	</lib>
+</glyph>
