@@ -1,6 +1,9 @@
+# Config for building Text and Display variable fonts only
 sources:
   - WixMadeforDisplayVF_Wght.designspace
   - WixMadeforTextVF_Wght.designspace
   - WixMadeforTextItalicVF_Wght.designspace
-logLevel:
-  DEBUG
+autohintTTF:
+  false
+buildStatic:
+  false

@@ -17,4 +17,7 @@ package.json
 ehthumbs.db
 Thumbs.db
 
+# Added for Wix
 .vscode
+build/
+generate-ttx-hinting.stamp

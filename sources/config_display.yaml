@@ -1,0 +1,20 @@
+# Config for Display static fonts only
+sources:
+  - WixMadeforDisplay_Bd.ufo
+  - WixMadeforDisplay_Rg.ufo
+  - WixMadeforDisplay_XBd.ufo
+logLevel:
+  DEBUG
+autohintTTF:
+  false
+buildVariable:
+  false
+outputDir:
+  '../fonts/Display'
+vttSources:
+  WixMadeforDisplay_Bd.ttf:
+    WixMadeforDisplay_Bd_VTT_Hinting.ttx
+  WixMadeforDisplay_Rg.ttf:
+    WixMadeforDisplay_Rg_VTT_Hinting.ttx
+  WixMadeforDisplay_XBd.ttf:
+    WixMadeforDisplay_XBd_VTT_Hinting.ttx

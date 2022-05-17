@@ -1,0 +1,33 @@
+# Config for Text static fonts only
+sources:
+  - WixMadeforText_Bd.ufo
+  - WixMadeforText_BdIt.ufo
+  - WixMadeforText_It.ufo
+  - WixMadeforText_Md.ufo
+  - WixMadeforText_MdIt.ufo
+  - WixMadeforText_Rg.ufo
+  - WixMadeforText_XBd.ufo
+  - WixMadeforText_XBdIt.ufo
+autohintTTF:
+  false
+buildVariable:
+  false
+outputDir:
+  '../fonts/Text'
+vttSources:
+  WixMadeforText_Bd.ttf:
+    WixMadeforText_Bd_VTT_Hinting.ttx
+  WixMadeforText_BdIt.ttf:
+    WixMadeforText_BdIt_VTT_Hinting.ttx
+  WixMadeforText_It.ttf:
+    WixMadeforText_It_VTT_Hinting.ttx
+  WixMadeforText_Md.ttf:
+    WixMadeforText_Md_VTT_Hinting.ttx
+  WixMadeforText_MdIt.ttf:
+    WixMadeforText_MdIt_VTT_Hinting.ttx
+  WixMadeforText_Rg.ttf:
+    WixMadeforText_Rg_VTT_Hinting.ttx
+  WixMadeforText_XBd.ttf:
+    WixMadeforText_XBd_VTT_Hinting.ttx
+  WixMadeforText_XBdIt.ttf:
+    WixMadeforText_XBdIt_VTT_Hinting.ttx
