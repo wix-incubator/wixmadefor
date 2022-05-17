@@ -34,6 +34,7 @@ fontFeatures==1.7.0
 fontmake==3.3.0
 fontMath==0.9.2
 fontParts==0.10.5
+fontPens==0.2.4
 fonttools==4.33.3
 freetype-py==2.3.0
 fs==2.4.16
