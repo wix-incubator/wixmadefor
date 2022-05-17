@@ -62,6 +62,6 @@ update:
 generate-ttx-hinting: generate-ttx-hinting.stamp
 
 generate-ttx-hinting.stamp: venv
-	for source in sources/*.ufo; do \
+	. venv/bin/activate; for source in sources/*.ufo; do \
 		python3 -m vttLib dumpfile_from_ufo $$source ; ufonormalizer -m $$source ; \
 	done && touch generate-ttx-hinting.stamp
