@@ -25,7 +25,7 @@ build.stamp: venv .init.stamp sources/config.yaml sources/config_text.yaml sourc
 	gftools builder sources/config_display.yaml; \
 	mkdir fonts/otf; mv fonts/**/otf/* fonts/otf; \
 	mkdir fonts/ttf; mv fonts/**/ttf/* fonts/ttf; \
-	mkdir fonts/webfonts; mv fonts/**/webfonts/* fonts/webfonts; \
+	python3 scripts/create-webfonts.py; \
 	rm -rf fonts/Text; rm -rf fonts/Display && touch build.stamp
 
 .init.stamp: venv

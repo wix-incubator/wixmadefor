@@ -12,6 +12,10 @@ autohintTTF:
   false
 buildVariable:
   false
+buildWebfont:
+  false
+logLevel:
+  DEBUG
 outputDir:
   '../fonts/Text'
 vttSources:

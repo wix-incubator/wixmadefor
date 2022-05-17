@@ -9,6 +9,8 @@ autohintTTF:
   false
 buildVariable:
   false
+buildWebfont:
+  false
 outputDir:
   '../fonts/Display'
 vttSources:
