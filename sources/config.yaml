@@ -9,3 +9,7 @@ autohintTTF:
   false
 buildStatic:
   false
+googleFonts:
+  true
+category:
+  - SANS_SERIF

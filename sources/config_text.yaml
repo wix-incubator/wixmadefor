@@ -35,3 +35,7 @@ vttSources:
     WixMadeforText_XBd_VTT_Hinting.ttx
   WixMadeforText_XBdIt.ttf:
     WixMadeforText_XBdIt_VTT_Hinting.ttx
+googleFonts:
+  true
+category:
+  - SANS_SERIF

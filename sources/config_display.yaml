@@ -20,3 +20,7 @@ vttSources:
     WixMadeforDisplay_Rg_VTT_Hinting.ttx
   WixMadeforDisplay_XBd.ttf:
     WixMadeforDisplay_XBd_VTT_Hinting.ttx
+googleFonts:
+  true
+category:
+  - SANS_SERIF
