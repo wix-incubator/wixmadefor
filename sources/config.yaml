@@ -3,8 +3,7 @@ sources:
   - WixMadeforDisplayVF_Wght.designspace
   - WixMadeforTextVF_Wght.designspace
   - WixMadeforTextItalicVF_Wght.designspace
-logLevel:
-  DEBUG
+logLevel: WARNING
 autohintTTF:
   false
 buildStatic:

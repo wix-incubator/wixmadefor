@@ -14,8 +14,7 @@ buildVariable:
   false
 buildWebfont:
   false
-logLevel:
-  DEBUG
+logLevel: WARNING
 outputDir:
   '../fonts/Text'
 vttSources:
