@@ -4,6 +4,7 @@ sources:
   - WixMadeforTextVF_Wght.designspace
   - WixMadeforTextItalicVF_Wght.designspace
 logLevel: WARNING
+stylespaceFile: "WixMadeforVF.stylespace"
 autohintTTF:
   false
 buildStatic:
