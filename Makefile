@@ -26,6 +26,7 @@ build.stamp: venv .init.stamp sources/config.yaml sources/config_text.yaml sourc
 	mkdir fonts/otf; mv fonts/**/otf/* fonts/otf; \
 	mkdir fonts/ttf; mv fonts/**/ttf/* fonts/ttf; \
 	python3 scripts/create-webfonts.py; \
+	gftools fix-unwanted-tables -t TSI0,TSI1,TSI2,TSI3,TSI5 fonts/variable/*.ttf; \
 	rm -rf fonts/Text; rm -rf fonts/Display && touch build.stamp
 
 .init.stamp: venv
