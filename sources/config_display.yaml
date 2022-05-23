@@ -3,8 +3,7 @@ sources:
   - WixMadeforDisplay_Bd.ufo
   - WixMadeforDisplay_Rg.ufo
   - WixMadeforDisplay_XBd.ufo
-logLevel:
-  DEBUG
+logLevel: WARNING
 autohintTTF:
   false
 buildVariable:

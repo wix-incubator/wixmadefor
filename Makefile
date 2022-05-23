@@ -51,7 +51,7 @@ images: venv build.stamp $(DRAWBOT_OUTPUT)
 
 clean:
 	rm -rf venv
-	find . -name "*.pyc" | xargs rm delete
+	find . -name "*.pyc" -delete
 
 update-ufr:
 	npx update-template https://github.com/googlefonts/Unified-Font-Repository/
