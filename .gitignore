@@ -21,3 +21,4 @@ Thumbs.db
 .vscode
 build/
 generate-ttx-hinting.stamp
+sources/*.ttx
