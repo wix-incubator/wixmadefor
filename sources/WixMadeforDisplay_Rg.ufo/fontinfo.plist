@@ -199,9 +199,9 @@
 		<key>openTypeOS2WidthClass</key>
 		<integer>5</integer>
 		<key>openTypeOS2WinAscent</key>
-		<integer>1002</integer>
+		<integer>1176</integer>
 		<key>openTypeOS2WinDescent</key>
-		<integer>306</integer>
+		<integer>307</integer>
 		<key>postscriptUnderlinePosition</key>
 		<integer>-66</integer>
 		<key>postscriptUnderlineThickness</key>
