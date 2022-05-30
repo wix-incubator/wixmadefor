@@ -1,13 +1,13 @@
 # Config for Text static fonts only
 sources:
-  - WixMadeforText_Bd.ufo
-  - WixMadeforText_BdIt.ufo
-  - WixMadeforText_It.ufo
-  - WixMadeforText_Md.ufo
-  - WixMadeforText_MdIt.ufo
-  - WixMadeforText_Rg.ufo
-  - WixMadeforText_XBd.ufo
-  - WixMadeforText_XBdIt.ufo
+  - WixMadeforText-Bold.ufo
+  - WixMadeforText-BoldItalic.ufo
+  - WixMadeforText-Italic.ufo
+  - WixMadeforText-Medium.ufo
+  - WixMadeforText-MediumItalic.ufo
+  - WixMadeforText-Regular.ufo
+  - WixMadeforText-ExtraBold.ufo
+  - WixMadeforText-ExtraBoldItalic.ufo
 autohintTTF:
   false
 buildVariable:
@@ -18,22 +18,22 @@ logLevel: WARNING
 outputDir:
   '../fonts/Text'
 vttSources:
-  WixMadeforText_Bd.ttf:
-    WixMadeforText_Bd_VTT_Hinting.ttx
-  WixMadeforText_BdIt.ttf:
-    WixMadeforText_BdIt_VTT_Hinting.ttx
-  WixMadeforText_It.ttf:
-    WixMadeforText_It_VTT_Hinting.ttx
-  WixMadeforText_Md.ttf:
-    WixMadeforText_Md_VTT_Hinting.ttx
-  WixMadeforText_MdIt.ttf:
-    WixMadeforText_MdIt_VTT_Hinting.ttx
-  WixMadeforText_Rg.ttf:
-    WixMadeforText_Rg_VTT_Hinting.ttx
-  WixMadeforText_XBd.ttf:
-    WixMadeforText_XBd_VTT_Hinting.ttx
-  WixMadeforText_XBdIt.ttf:
-    WixMadeforText_XBdIt_VTT_Hinting.ttx
+  WixMadeforText-Bold.ttf:
+    WixMadeforText-Bold_VTT_Hinting.ttx
+  WixMadeforText-BoldItalic.ttf:
+    WixMadeforText-BoldItalic_VTT_Hinting.ttx
+  WixMadeforText-Italic.ttf:
+    WixMadeforText-Italic_VTT_Hinting.ttx
+  WixMadeforText-Medium.ttf:
+    WixMadeforText-Medium_VTT_Hinting.ttx
+  WixMadeforText-MediumItalic.ttf:
+    WixMadeforText-MediumItalic_VTT_Hinting.ttx
+  WixMadeforText-Regular.ttf:
+    WixMadeforText-Regular_VTT_Hinting.ttx
+  WixMadeforText-ExtraBold.ttf:
+    WixMadeforText-ExtraBold_VTT_Hinting.ttx
+  WixMadeforText-ExtraBoldItalic.ttf:
+    WixMadeforText-ExtraBoldItalic_VTT_Hinting.ttx
 googleFonts:
   true
 category:

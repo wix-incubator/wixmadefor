@@ -8,7 +8,7 @@
     </axis>
   </axes>
   <sources>
-    <source filename="WixMadeforDisplay_Rg.ufo" name="Wix Madefor Display Regular" familyname="Wix Madefor Display" stylename="Regular">
+    <source filename="WixMadeforDisplay-Regular.ufo" name="Wix Madefor Display Regular" familyname="Wix Madefor Display" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -17,28 +17,28 @@
         <dimension name="Weight" xvalue="74"/>
       </location>
     </source>
-    <source filename="WixMadeforDisplay_XBd.ufo" name="Wix Madefor Display ExtraBold" familyname="Wix Madefor Display" stylename="ExtraBold">
+    <source filename="WixMadeforDisplay-ExtraBold.ufo" name="Wix Madefor Display ExtraBold" familyname="Wix Madefor Display" stylename="ExtraBold">
       <location>
         <dimension name="Weight" xvalue="169"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="Wix Madefor Display VF" familyname="Wix Madefor Display VF" stylename="Regular" filename="../build/instance_ufos/WixMadeforDisplay_Rg.ufo">
+    <instance name="Wix Madefor Display VF" familyname="Wix Madefor Display VF" stylename="Regular" filename="../build/instance_ufos/WixMadeforDisplay-Regular.ufo">
       <location>
         <dimension name="Weight" xvalue="74"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Wix Madefor Display VF Bold" familyname="Wix Madefor Display VF" stylename="Bold" filename="../build/instance_ufos/WixMadeforDisplay_Bd.ufo">
+    <instance name="Wix Madefor Display VF Bold" familyname="Wix Madefor Display VF" stylename="Bold" filename="../build/instance_ufos/WixMadeforDisplay-Bold.ufo">
       <location>
         <dimension name="Weight" xvalue="132"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Wix Madefor Display VF ExtraBold" familyname="Wix Madefor Display VF" stylename="ExtraBold" filename="../build/instance_ufos/WixMadeforDisplay_XBd.ufo">
+    <instance name="Wix Madefor Display VF ExtraBold" familyname="Wix Madefor Display VF" stylename="ExtraBold" filename="../build/instance_ufos/WixMadeforDisplay-ExtraBold.ufo">
       <location>
         <dimension name="Weight" xvalue="169"/>
       </location>

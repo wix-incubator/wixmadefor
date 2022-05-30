@@ -1,8 +1,8 @@
 # Config for Display static fonts only
 sources:
-  - WixMadeforDisplay_Bd.ufo
-  - WixMadeforDisplay_Rg.ufo
-  - WixMadeforDisplay_XBd.ufo
+  - WixMadeforDisplay-Bold.ufo
+  - WixMadeforDisplay-Regular.ufo
+  - WixMadeforDisplay-ExtraBold.ufo
 logLevel: WARNING
 autohintTTF:
   false
@@ -13,12 +13,12 @@ buildWebfont:
 outputDir:
   '../fonts/Display'
 vttSources:
-  WixMadeforDisplay_Bd.ttf:
-    WixMadeforDisplay_Bd_VTT_Hinting.ttx
-  WixMadeforDisplay_Rg.ttf:
-    WixMadeforDisplay_Rg_VTT_Hinting.ttx
-  WixMadeforDisplay_XBd.ttf:
-    WixMadeforDisplay_XBd_VTT_Hinting.ttx
+  WixMadeforDisplay-Bold.ttf:
+    WixMadeforDisplay-Bold_VTT_Hinting.ttx
+  WixMadeforDisplay-Regular.ttf:
+    WixMadeforDisplay-Regular_VTT_Hinting.ttx
+  WixMadeforDisplay-ExtraBold.ttf:
+    WixMadeforDisplay-ExtraBold_VTT_Hinting.ttx
 googleFonts:
   true
 category:

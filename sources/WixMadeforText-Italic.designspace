@@ -9,7 +9,7 @@
     </axis>
   </axes>
   <sources>
-    <source filename="WixMadeforText_Rg.ufo" name="Wix Madefor Text Regular" familyname="Wix Madefor Text" stylename="Regular">
+    <source filename="WixMadeforText-Italic.ufo" name="Wix Madefor Text Italic" familyname="Wix Madefor Text" stylename="Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -18,35 +18,35 @@
         <dimension name="Weight" xvalue="77"/>
       </location>
     </source>
-    <source filename="WixMadeforText_XBd.ufo" name="Wix Madefor Text ExtraBold" familyname="Wix Madefor Text" stylename="ExtraBold">
+    <source filename="WixMadeforText-ExtraBoldItalic.ufo" name="Wix Madefor Text ExtraBold Italic" familyname="Wix Madefor Text" stylename="ExtraBold Italic">
       <location>
         <dimension name="Weight" xvalue="163"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="Wix Madefor Text VF Regular" familyname="Wix Madefor Text VF" stylename="Regular" filename="../build/instance_ufos/WixMadeforText_Rg.ufo">
+    <instance name="Wix Madefor Text VF Italic" familyname="Wix Madefor Text VF" stylename="Italic" filename="../build/instance_ufos/WixMadeforText-Italic.ufo">
       <location>
         <dimension name="Weight" xvalue="77"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Wix Madefor Text VF Medium" familyname="Wix Madefor Text VF" stylename="Medium" filename="../build/instance_ufos/WixMadeforText_Md.ufo">
+    <instance name="Wix Madefor Text VF Medium Italic" familyname="Wix Madefor Text VF" stylename="Medium Italic" filename="../build/instance_ufos/WixMadeforText-MediumItalic.ufo">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Wix Madefor Text VF Bold" familyname="Wix Madefor Text VF" stylename="Bold" filename="../build/instance_ufos/WixMadeforText_Bd.ufo">
+    <instance name="Wix Madefor Text VF Bold Italic" familyname="Wix Madefor Text VF" stylename="Bold Italic" filename="../build/instance_ufos/WixMadeforText-BoldItalic.ufo">
       <location>
         <dimension name="Weight" xvalue="132"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Wix Madefor Text VF ExtraBold" familyname="Wix Madefor Text VF" stylename="ExtraBold" filename="../build/instance_ufos/WixMadeforText_XBd.ufo">
+    <instance name="Wix Madefor Text VF ExtraBold Italic" familyname="Wix Madefor Text VF" stylename="ExtraBold Italic" filename="../build/instance_ufos/WixMadeforText-ExtraBoldItalic.ufo">
       <location>
         <dimension name="Weight" xvalue="163"/>
       </location>
@@ -61,7 +61,7 @@
       <key>org.statmake.additionalLocations</key>
       <dict>
         <key>Italic</key>
-        <integer>0</integer>
+        <integer>1</integer>
       </dict>
     </dict>
   </lib>
