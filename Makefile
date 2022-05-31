@@ -27,7 +27,7 @@ build.stamp: venv .init.stamp sources/config.yaml sources/config_text.yaml sourc
 	mkdir fonts/ttf; mv fonts/**/ttf/* fonts/ttf; \
 	python3 scripts/create-webfonts.py; \
 	python3 scripts/add-nameid-25.py; \
-	gftools fix-unwanted-tables -t TSI0,TSI1,TSI2,TSI3,TSI5 fonts/variable/*.ttf; \
+	gftools fix-unwanted-tables -t TSI0,TSI1,TSI2,TSI3,TSI5 fonts/variable/*.ttf fonts/otf/*.otf; \
 	rm -rf fonts/Text; rm -rf fonts/Display && touch build.stamp
 
 .init.stamp: venv
@@ -65,5 +65,5 @@ generate-ttx-hinting: generate-ttx-hinting.stamp
 
 generate-ttx-hinting.stamp: venv
 	. venv/bin/activate; for source in sources/*.ufo; do \
-		python3 -m vttLib dumpfile_from_ufo $$source ; ufonormalizer -m $$source ; \
+		python3 scripts/extract-vtt-data.py $$source ; \
 	done && touch generate-ttx-hinting.stamp
