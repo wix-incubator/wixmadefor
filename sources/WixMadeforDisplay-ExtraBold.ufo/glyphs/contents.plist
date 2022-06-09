@@ -578,6 +578,8 @@
 		<string>brevetildecomb.glif</string>
 		<key>brevetildecomb.cap</key>
 		<string>brevetildecomb.cap.glif</string>
+		<key>brokenbar</key>
+		<string>brokenbar.glif</string>
 		<key>bullet</key>
 		<string>bullet.glif</string>
 		<key>bullet.case</key>
@@ -1006,6 +1008,8 @@
 		<string>macroncomb.cap.glif</string>
 		<key>macroncomb.narrow</key>
 		<string>macroncomb.narrow.glif</string>
+		<key>micro</key>
+		<string>micro.glif</string>
 		<key>minus</key>
 		<string>minus.glif</string>
 		<key>multiply</key>
