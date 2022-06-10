@@ -1030,6 +1030,18 @@ Smooth()
 
     </glyphProgram>
 
+    <glyphProgram name="brokenbar">
+/* Y direction */
+YAnchor(1)
+YAnchor(7,18)
+YIPAnchor(1,0,5,7)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
     <glyphProgram name="bullet">
 /* Y direction */
 YAnchor(11)
@@ -1889,13 +1901,13 @@ Smooth()
 
     <glyphProgram name="greater">
 /* Y direction */
-YAnchor(4)
+YAnchor(6)
+YShift(6,5)
+YIPAnchor(6,2,7)
+YShift(2,3)
+YIPAnchor(5,4,3)
 YShift(4,0)
 YShift(4,1)
-YDist(4,2,&gt;=)
-YShift(2,3)
-YDist(4,6,&gt;=)
-YShift(6,5)
 
 /* X direction */
 
@@ -2074,13 +2086,13 @@ Smooth()
 
     <glyphProgram name="less">
 /* Y direction */
-YAnchor(4)
+YAnchor(2)
+YShift(2,3)
+YIPAnchor(2,6,7)
+YShift(6,5)
+YIPAnchor(3,4,5)
 YShift(4,0)
 YShift(4,1)
-YDist(4,2,&gt;=)
-YShift(2,3)
-YDist(4,6,&gt;=)
-YShift(6,5)
 
 /* X direction */
 
@@ -2195,6 +2207,23 @@ Smooth()
 /* Y direction */
 YAnchor(0,152)
 YLink(0,2,85,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="micro">
+/* Y direction */
+YAnchor(2,6)
+YAnchor(12,6)
+YAnchor(15,10)
+YAnchor(19,11)
+YLink(19,8,87,&gt;=)
+YShift(19,16)
+YShift(19,21)
+YAnchor(22,14)
 
 /* X direction */
 

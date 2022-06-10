@@ -164,6 +164,7 @@
     <glyphgroup name="breve" value="1"/>
     <glyphgroup name="brevecomb" value="9"/>
     <glyphgroup name="brevecomb.cap" value="9"/>
+    <glyphgroup name="brokenbar" value="1"/>
     <glyphgroup name="bullet" value="1"/>
     <glyphgroup name="bullet.case" value="0"/>
     <glyphgroup name="c" value="3"/>
@@ -313,6 +314,7 @@
     <glyphgroup name="macroncomb" value="9"/>
     <glyphgroup name="macroncomb.cap" value="9"/>
     <glyphgroup name="macroncomb.narrow" value="9"/>
+    <glyphgroup name="micro" value="3"/>
     <glyphgroup name="minus" value="1"/>
     <glyphgroup name="multiply" value="1"/>
     <glyphgroup name="n" value="3"/>

@@ -4350,6 +4350,21 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="brokenbar">
+/* VTT 6.01C compiler */
+SVTCA[Y]
+MDAP[R], 2
+MIAP[R], 5, 18
+SRP2[], 2
+IP[], 1
+IP[], 6
+MDAP[R], 1
+MDAP[R], 6
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
     <glyphProgram name="bullet">
 /* VTT 6.01C compiler */
 SVTCA[Y]
@@ -7327,6 +7342,21 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="micro">
+/* VTT 6.01C compiler */
+SVTCA[Y]
+MIAP[R], 1, 6
+MIAP[R], 10, 6
+MIAP[R], 13, 10
+MIAP[R], 17, 11
+MIRP[m&gt;RBl], 6, 87
+SHP[1], 14
+MIAP[R], 20, 14
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
     <glyphProgram name="minus">
 /* VTT 6.01C compiler */
 SVTCA[Y]
@@ -9678,7 +9708,6 @@ IUP[X]
 /* Composite glyph autohinted */
 /* By DMOTE */
 
-USEMYMETRICS[]
 OFFSET[R], 577, 0, 0
 OFFSET[R], 300, 286, 0
 /* No vertical hints due to overlapping parts */
@@ -9692,7 +9721,6 @@ SHC[2],1
 /* Composite glyph autohinted */
 /* By DMOTE */
 
-USEMYMETRICS[]
 OFFSET[R], 577, 0, 0
 OFFSET[R], 473, 286, 0
 /* No vertical hints due to overlapping parts */
@@ -9705,7 +9733,6 @@ SHC[2],1
 /* Composite glyph autohinted */
 /* By DMOTE */
 
-USEMYMETRICS[]
 OFFSET[R], 577, 0, 0
 OFFSET[R], 340, 286, 0
 /* No vertical hints due to overlapping parts */
@@ -9719,7 +9746,6 @@ SHC[2],1
 /* Composite glyph autohinted */
 /* By DMOTE */
 
-USEMYMETRICS[]
 OFFSET[R], 577, 0, 0
 OFFSET[R], 475, 286, 0
 /* No vertical hints due to overlapping parts */
@@ -9733,7 +9759,6 @@ SHC[2],1
 /* Composite glyph autohinted */
 /* By DMOTE */
 
-USEMYMETRICS[]
 OFFSET[R], 577, 0, 0
 OFFSET[R], 362, 286, 0
 /* No vertical hints due to overlapping parts */
@@ -13445,12 +13470,10 @@ EIF[]
 #PUSHON
 
 /* DropOutCtrlOff */
-#PUSHOFF
-#PUSH, 511
-SCANCTRL[]
-#PUSH, 4
-SCANTYPE[]
-#PUSHON
+SCANCTRL[], 400
+
+SCANTYPE[], 1
+SCANTYPE[], 5
 
 /* CvtCutIn */
 SVTCA[Y]

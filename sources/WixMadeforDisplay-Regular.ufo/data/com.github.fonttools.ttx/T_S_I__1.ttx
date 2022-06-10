@@ -4092,6 +4092,21 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="brokenbar">
+/* VTT 6.01C compiler */
+SVTCA[Y]
+MDAP[R], 2
+MIAP[R], 5, 18
+SRP2[], 2
+IP[], 0
+IP[], 6
+MDAP[R], 0
+MDAP[R], 6
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
     <glyphProgram name="bullet">
 /* VTT 6.01C compiler */
 SVTCA[Y]
@@ -6865,6 +6880,22 @@ IUP[X]
 SVTCA[Y]
 MIAP[R], 1, 152
 MIRP[m&gt;RBl], 3, 85
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="micro">
+/* VTT 6.01C compiler */
+SVTCA[Y]
+MIAP[R], 1, 10
+MIAP[R], 5, 11
+SHP[1], 2
+SHP[1], 7
+MIRP[m&gt;RBl], 15, 87
+MIAP[R], 8, 14
+MIAP[R], 11, 6
+MIAP[R], 19, 6
 IUP[Y]
 IUP[X]
 
@@ -12832,12 +12863,10 @@ EIF[]
 #PUSHON
 
 /* DropOutCtrlOff */
-#PUSHOFF
-#PUSH, 511
-SCANCTRL[]
-#PUSH, 4
-SCANTYPE[]
-#PUSHON
+SCANCTRL[], 400
+
+SCANTYPE[], 1
+SCANTYPE[], 5
 
 /* CvtCutIn */
 SVTCA[Y]

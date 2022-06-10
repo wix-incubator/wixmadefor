@@ -1791,6 +1791,18 @@ Smooth()
 
     </glyphProgram>
 
+    <glyphProgram name="brokenbar">
+/* Y direction */
+YAnchor(1)
+YAnchor(4,18)
+YIPAnchor(1,0,5,4)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
     <glyphProgram name="bullet">
 /* Y direction */
 YAnchor(12)
@@ -3556,6 +3568,22 @@ Smooth()
 /* Y direction */
 YAnchor(1,152)
 YLink(1,3,102,&gt;=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="micro">
+/* Y direction */
+YAnchor(2,6)
+YAnchor(10,6)
+YAnchor(13,10)
+YAnchor(17,11)
+YLink(17,6,87,&gt;=)
+YShift(17,14)
+YAnchor(20,14)
 
 /* X direction */
 
