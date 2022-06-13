@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shcha" format="2">
+	<unicode hex="0429"/>
+	<advance width="1113"/>
+	<outline>
+		<contour>
+			<point x="591" y="50" type="line"/>
+			<point x="591" y="715" type="line"/>
+			<point x="488" y="715" type="line"/>
+			<point x="488" y="50" type="line"/>
+		</contour>
+		<contour>
+			<point x="982" y="53" type="line"/>
+			<point x="982" y="715" type="line"/>
+			<point x="879" y="715" type="line"/>
+			<point x="879" y="53" type="line"/>
+		</contour>
+		<contour>
+			<point x="957" y="-174" type="line"/>
+			<point x="1056" y="-174" type="line"/>
+			<point x="1056" y="90" type="line"/>
+			<point x="177" y="90" type="line"/>
+			<point x="202" y="65" type="line"/>
+			<point x="202" y="715" type="line"/>
+			<point x="99" y="715" type="line"/>
+			<point x="99" y="0" type="line"/>
+			<point x="982" y="0" type="line"/>
+			<point x="957" y="25" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>De</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>En</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>De</string>
+		</dict>
+	</lib>
+</glyph>

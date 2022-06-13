@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utilde" format="2">
+	<unicode hex="0168"/>
+	<advance width="728"/>
+	<outline>
+		<component base="U"/>
+		<component base="tildecomb.cap" xOffset="473"/>
+	</outline>
+	<guideline x="15" y="0" angle="102"/>
+	<guideline x="605" y="0" angle="102"/>
+</glyph>

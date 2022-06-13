@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron" format="2">
+	<unicode hex="0147"/>
+	<advance width="755"/>
+	<outline>
+		<component base="N"/>
+		<component base="caroncomb.cap" xOffset="467"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>N</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>caroncomb.cap</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-29 10:54:08 +0000</string>
+			<key>public.markColor</key>
+			<string>0.12,1,0,0.35</string>
+		</dict>
+	</lib>
+</glyph>

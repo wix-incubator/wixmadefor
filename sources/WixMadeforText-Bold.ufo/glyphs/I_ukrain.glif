@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iukrain" format="2">
+	<unicode hex="0406"/>
+	<advance width="312"/>
+	<outline>
+		<component base="I"/>
+	</outline>
+	<anchor name="top.UC" x="156" y="750"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>En</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>En</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>En</string>
+		</dict>
+	</lib>
+</glyph>

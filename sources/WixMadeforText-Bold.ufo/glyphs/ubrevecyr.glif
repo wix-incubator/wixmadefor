@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ubrevecyr" format="2">
+	<unicode hex="045E"/>
+	<advance width="580"/>
+	<outline>
+		<component base="y"/>
+		<component base="brevecomb.cyrl" xOffset="291"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>ucyr</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>ucyr</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>ucyr</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>ucyr</string>
+		</dict>
+	</lib>
+</glyph>

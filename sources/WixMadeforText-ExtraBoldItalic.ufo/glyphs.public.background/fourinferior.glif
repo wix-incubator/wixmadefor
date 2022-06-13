@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourinferior" format="2">
+	<outline>
+		<contour>
+			<point x="335" y="-100" type="line"/>
+			<point x="335" y="-33" type="line"/>
+			<point x="383" y="-33" type="line"/>
+			<point x="383" y="54" type="line"/>
+			<point x="335" y="54" type="line"/>
+			<point x="335" y="308" type="line"/>
+			<point x="217" y="308" type="line"/>
+			<point x="23" y="54" type="line"/>
+			<point x="23" y="-33" type="line"/>
+			<point x="217" y="-33" type="line"/>
+			<point x="217" y="-100" type="line"/>
+		</contour>
+		<contour>
+			<point x="217" y="183" type="line"/>
+			<point x="217" y="54" type="line"/>
+			<point x="127" y="54" type="line"/>
+		</contour>
+	</outline>
+</glyph>

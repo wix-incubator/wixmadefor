@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+	<unicode hex="00DE"/>
+	<advance width="646"/>
+	<outline>
+		<contour>
+			<point x="193" y="476" type="line"/>
+			<point x="366" y="476" type="line" smooth="yes"/>
+			<point x="445" y="476"/>
+			<point x="493" y="431"/>
+			<point x="493" y="357" type="curve" smooth="yes"/>
+			<point x="493" y="282"/>
+			<point x="445" y="237"/>
+			<point x="366" y="237" type="curve" smooth="yes"/>
+			<point x="192" y="237" type="line"/>
+			<point x="192" y="148" type="line"/>
+			<point x="366" y="148" type="line" smooth="yes"/>
+			<point x="504" y="148"/>
+			<point x="597" y="232"/>
+			<point x="597" y="357" type="curve" smooth="yes"/>
+			<point x="597" y="482"/>
+			<point x="504" y="565"/>
+			<point x="366" y="565" type="curve" smooth="yes"/>
+			<point x="193" y="565" type="line"/>
+		</contour>
+		<contour>
+			<point x="202" y="0" type="line"/>
+			<point x="202" y="715" type="line"/>
+			<point x="99" y="715" type="line"/>
+			<point x="99" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-22 16:09:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>

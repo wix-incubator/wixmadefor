@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash.case" format="2">
+	<advance width="500"/>
+	<outline>
+		<component base="endash" yOffset="80"/>
+	</outline>
+	<guideline x="244"/>
+	<guideline y="246"/>
+</glyph>

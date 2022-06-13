@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb.cap" format="2">
+	<outline>
+		<contour>
+			<point x="0" y="738" type="curve" smooth="yes"/>
+			<point x="75" y="738"/>
+			<point x="134" y="796"/>
+			<point x="134" y="870" type="curve" smooth="yes"/>
+			<point x="134" y="944"/>
+			<point x="75" y="1002"/>
+			<point x="0" y="1002" type="curve" smooth="yes"/>
+			<point x="-75" y="1002"/>
+			<point x="-134" y="944"/>
+			<point x="-134" y="870" type="curve" smooth="yes"/>
+			<point x="-134" y="796"/>
+			<point x="-75" y="738"/>
+		</contour>
+		<contour>
+			<point x="0" y="818" type="curve" smooth="yes"/>
+			<point x="-28" y="818"/>
+			<point x="-50" y="840"/>
+			<point x="-50" y="870" type="curve" smooth="yes"/>
+			<point x="-50" y="900"/>
+			<point x="-28" y="922"/>
+			<point x="0" y="922" type="curve" smooth="yes"/>
+			<point x="28" y="922"/>
+			<point x="48" y="900"/>
+			<point x="48" y="870" type="curve" smooth="yes"/>
+			<point x="48" y="840"/>
+			<point x="28" y="818"/>
+		</contour>
+	</outline>
+	<anchor name="_top.UC" x="0" y="750"/>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icyr.loclBGR" format="2">
+	<advance width="601"/>
+	<outline>
+		<component base="u"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>en</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>en</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="2">
+	<unicode hex="00A6"/>
+	<advance width="237"/>
+	<outline>
+		<contour>
+			<point x="54" y="390" type="line"/>
+			<point x="183" y="390" type="line"/>
+			<point x="183" y="736" type="line"/>
+			<point x="54" y="736" type="line"/>
+		</contour>
+		<contour>
+			<point x="54" y="-129" type="line"/>
+			<point x="183" y="-129" type="line"/>
+			<point x="183" y="217" type="line"/>
+			<point x="54" y="217" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.recipe</key>
+			<string>bar+</string>
+		</dict>
+	</lib>
+</glyph>

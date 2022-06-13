@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghe" format="2">
+	<unicode hex="0433"/>
+	<advance width="438"/>
+	<outline>
+		<contour>
+			<point x="79" y="0" type="line"/>
+			<point x="179" y="0" type="line"/>
+			<point x="179" y="448" type="line"/>
+			<point x="145" y="414" type="line"/>
+			<point x="418" y="414" type="line"/>
+			<point x="418" y="497" type="line"/>
+			<point x="79" y="497" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top.LC" x="247" y="544"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>en</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>en</string>
+		</dict>
+	</lib>
+</glyph>

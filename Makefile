@@ -18,8 +18,17 @@ build: build.stamp
 
 venv: venv/touchfile
 
-build.stamp: venv .init.stamp sources/config.yaml $(SOURCES)
-	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml && touch build.stamp
+build.stamp: venv .init.stamp sources/config.yaml sources/config_text.yaml sources/config_display.yaml $(SOURCES) generate-ttx-hinting.stamp
+	. venv/bin/activate; rm -rf fonts/; \
+	gftools builder sources/config.yaml; \
+	gftools builder sources/config_text.yaml; \
+	gftools builder sources/config_display.yaml; \
+	mkdir fonts/otf; mv fonts/**/otf/* fonts/otf; \
+	mkdir fonts/ttf; mv fonts/**/ttf/* fonts/ttf; \
+	python3 scripts/create-webfonts.py; \
+	python3 scripts/add-nameid-25.py; \
+	gftools fix-unwanted-tables -t TSI0,TSI1,TSI2,TSI3,TSI5 fonts/variable/*.ttf fonts/otf/*.otf; \
+	rm -rf fonts/Text; rm -rf fonts/Display && touch build.stamp
 
 .init.stamp: venv
 	. venv/bin/activate; python3 scripts/first-run.py
@@ -43,10 +52,18 @@ images: venv build.stamp $(DRAWBOT_OUTPUT)
 
 clean:
 	rm -rf venv
-	find . -name "*.pyc" | xargs rm delete
+	find . -name "*.pyc" -delete
 
 update-ufr:
 	npx update-template https://github.com/googlefonts/Unified-Font-Repository/
 
 update:
 	pip install --upgrade $(dependency); pip freeze > requirements.txt
+
+# Added to Wix project to generate hinting source files
+generate-ttx-hinting: generate-ttx-hinting.stamp
+
+generate-ttx-hinting.stamp: venv
+	. venv/bin/activate; for source in sources/*.ufo; do \
+		python3 scripts/extract-vtt-data.py $$source ; \
+	done && touch generate-ttx-hinting.stamp

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="2">
+	<unicode hex="004C"/>
+	<advance width="571"/>
+	<outline>
+		<contour>
+			<point x="46" y="0" type="line"/>
+			<point x="484" y="0" type="line"/>
+			<point x="503" y="90" type="line"/>
+			<point x="168" y="90" type="line"/>
+			<point x="300" y="715" type="line"/>
+			<point x="197" y="715" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top_right" x="433" y="540"/>
+	<anchor name="bottom.UC" x="270" y="-50"/>
+	<anchor name="top.UC" x="258" y="750"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-23 11:19:51 +0000</string>
+		</dict>
+	</lib>
+</glyph>

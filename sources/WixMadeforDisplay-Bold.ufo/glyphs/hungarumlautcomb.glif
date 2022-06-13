@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb" format="2">
+	<unicode hex="030B"/>
+	<outline>
+		<contour>
+			<point x="101" y="761" type="line"/>
+			<point x="-42" y="761" type="line"/>
+			<point x="-165" y="587" type="line"/>
+			<point x="-50" y="587" type="line"/>
+		</contour>
+		<contour>
+			<point x="308" y="761" type="line"/>
+			<point x="165" y="761" type="line"/>
+			<point x="23" y="587" type="line"/>
+			<point x="139" y="587" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top.LC" x="0" y="544"/>
+</glyph>

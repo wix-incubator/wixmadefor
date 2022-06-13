@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash.case" format="2">
+	<advance width="1000"/>
+	<outline>
+		<component base="emdash" xOffset="17" yOffset="85"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-22 16:13:05 +0000</string>
+			<key>public.markColor</key>
+			<string>0.12,1,0,0.35</string>
+		</dict>
+	</lib>
+</glyph>

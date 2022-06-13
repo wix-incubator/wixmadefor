@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft.case" format="2">
+	<advance width="512"/>
+	<outline>
+		<component base="guilsinglleft" yOffset="109"/>
+		<component base="guilsinglleft" xOffset="203" yOffset="109"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-22 16:09:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>

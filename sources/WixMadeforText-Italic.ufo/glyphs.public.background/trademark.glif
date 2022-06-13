@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="2">
+	<outline>
+		<contour>
+			<point x="209" y="316" type="line"/>
+			<point x="209" y="668" type="line"/>
+			<point x="148" y="668" type="line"/>
+			<point x="148" y="316" type="line"/>
+		</contour>
+		<contour>
+			<point x="332" y="663" type="line"/>
+			<point x="332" y="715" type="line"/>
+			<point x="25" y="715" type="line"/>
+			<point x="25" y="663" type="line"/>
+		</contour>
+		<contour>
+			<point x="612" y="355" type="line"/>
+			<point x="764" y="684" type="line"/>
+			<point x="734" y="685" type="line"/>
+			<point x="734" y="316" type="line"/>
+			<point x="795" y="316" type="line"/>
+			<point x="795" y="715" type="line"/>
+			<point x="721" y="715" type="line"/>
+			<point x="576" y="394" type="line"/>
+			<point x="604" y="394" type="line"/>
+			<point x="459" y="715" type="line"/>
+			<point x="384" y="715" type="line"/>
+			<point x="384" y="316" type="line"/>
+			<point x="444" y="316" type="line"/>
+			<point x="444" y="685" type="line"/>
+			<point x="415" y="684" type="line"/>
+			<point x="567" y="355" type="line"/>
+		</contour>
+	</outline>
+</glyph>

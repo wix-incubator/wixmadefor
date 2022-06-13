@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commabelowcomb.cap" format="2">
+	<outline>
+		<contour>
+			<point x="-7" y="-292" type="line"/>
+			<point x="28" y="-254"/>
+			<point x="61" y="-194"/>
+			<point x="61" y="-150" type="curve" smooth="yes"/>
+			<point x="61" y="-107"/>
+			<point x="34" y="-78"/>
+			<point x="-7" y="-78" type="curve" smooth="yes"/>
+			<point x="-44" y="-78"/>
+			<point x="-71" y="-105"/>
+			<point x="-71" y="-139" type="curve" smooth="yes"/>
+			<point x="-71" y="-173"/>
+			<point x="-42" y="-200"/>
+			<point x="-5" y="-200" type="curve"/>
+			<point x="-25" y="-179" type="line"/>
+			<point x="-23" y="-208"/>
+			<point x="-45" y="-255"/>
+			<point x="-76" y="-292" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom.UC" x="0" y="-50"/>
+</glyph>

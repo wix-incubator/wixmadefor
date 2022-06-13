@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+	<unicode hex="0024"/>
+	<advance width="664"/>
+	<outline>
+		<contour>
+			<point x="229" y="-116" type="line"/>
+			<point x="290" y="-116" type="line"/>
+			<point x="392" y="366" type="line"/>
+			<point x="331" y="366" type="line"/>
+		</contour>
+		<contour>
+			<point x="334" y="376" type="line"/>
+			<point x="395" y="376" type="line"/>
+			<point x="492" y="831" type="line"/>
+			<point x="431" y="831" type="line"/>
+		</contour>
+		<contour>
+			<point x="48" y="130" type="line"/>
+			<point x="105" y="44"/>
+			<point x="206" y="-6"/>
+			<point x="319" y="-6" type="curve" smooth="yes"/>
+			<point x="473" y="-6"/>
+			<point x="577" y="85"/>
+			<point x="577" y="219" type="curve" smooth="yes"/>
+			<point x="577" y="306"/>
+			<point x="502" y="373"/>
+			<point x="370" y="404" type="curve" smooth="yes"/>
+			<point x="267" y="428"/>
+			<point x="227" y="461"/>
+			<point x="227" y="520" type="curve" smooth="yes"/>
+			<point x="227" y="599"/>
+			<point x="297" y="652"/>
+			<point x="402" y="652" type="curve" smooth="yes"/>
+			<point x="485" y="652"/>
+			<point x="545" y="617"/>
+			<point x="592" y="543" type="curve"/>
+			<point x="650" y="590" type="line"/>
+			<point x="594" y="675"/>
+			<point x="507" y="721"/>
+			<point x="405" y="721" type="curve" smooth="yes"/>
+			<point x="255" y="721"/>
+			<point x="149" y="633"/>
+			<point x="149" y="509" type="curve" smooth="yes"/>
+			<point x="149" y="426"/>
+			<point x="216" y="368"/>
+			<point x="347" y="336" type="curve" smooth="yes"/>
+			<point x="457" y="308"/>
+			<point x="499" y="273"/>
+			<point x="499" y="207" type="curve" smooth="yes"/>
+			<point x="499" y="119"/>
+			<point x="429" y="62"/>
+			<point x="321" y="62" type="curve" smooth="yes"/>
+			<point x="232" y="62"/>
+			<point x="155" y="104"/>
+			<point x="107" y="180" type="curve"/>
+		</contour>
+	</outline>
+	<guideline y="-116"/>
+	<guideline y="653"/>
+	<guideline y="721"/>
+	<guideline y="831"/>
+</glyph>

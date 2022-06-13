@@ -1,7 +1,15 @@
+# Config for building Text and Display variable fonts only
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
-axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+  - WixMadeforDisplay.designspace
+  - WixMadeforText.designspace
+  - WixMadeforText-Italic.designspace
+logLevel: WARNING
+stylespaceFile: "WixMadeforVF.stylespace"
+autohintTTF:
+  false
+buildStatic:
+  false
+googleFonts:
+  true
+category:
+  - SANS_SERIF

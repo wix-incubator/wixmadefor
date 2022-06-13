@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb.narrow" format="2">
+	<outline>
+		<contour>
+			<point x="-131" y="587" type="line"/>
+			<point x="-62" y="587" type="line"/>
+			<point x="82" y="744" type="line"/>
+			<point x="7" y="744" type="line"/>
+			<point x="84" y="587" type="line"/>
+			<point x="152" y="587" type="line"/>
+			<point x="75" y="761" type="line"/>
+			<point x="20" y="761" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top.LC" x="0" y="544"/>
+</glyph>

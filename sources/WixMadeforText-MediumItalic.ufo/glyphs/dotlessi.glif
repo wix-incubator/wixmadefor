@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+	<unicode hex="0131"/>
+	<advance width="248"/>
+	<outline>
+		<contour>
+			<point x="25" y="0" type="line"/>
+			<point x="125" y="0" type="line"/>
+			<point x="230" y="497" type="line"/>
+			<point x="130" y="497" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top.LC" x="192" y="544"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-22 16:13:05 +0000</string>
+		</dict>
+	</lib>
+</glyph>

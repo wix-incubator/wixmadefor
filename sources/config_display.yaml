@@ -1,0 +1,25 @@
+# Config for Display static fonts only
+sources:
+  - WixMadeforDisplay-Bold.ufo
+  - WixMadeforDisplay-Regular.ufo
+  - WixMadeforDisplay-ExtraBold.ufo
+logLevel: WARNING
+autohintTTF:
+  false
+buildVariable:
+  false
+buildWebfont:
+  false
+outputDir:
+  '../fonts/Display'
+vttSources:
+  WixMadeforDisplay-Bold.ttf:
+    WixMadeforDisplay-Bold_VTT_Hinting.ttx
+  WixMadeforDisplay-Regular.ttf:
+    WixMadeforDisplay-Regular_VTT_Hinting.ttx
+  WixMadeforDisplay-ExtraBold.ttf:
+    WixMadeforDisplay-ExtraBold_VTT_Hinting.ttx
+googleFonts:
+  true
+category:
+  - SANS_SERIF

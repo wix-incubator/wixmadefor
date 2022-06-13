@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhornhookabove" format="2">
+	<unicode hex="1EED"/>
+	<advance width="660"/>
+	<outline>
+		<component base="uhorn"/>
+		<component base="hookabovecomb" xOffset="295"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>uhorn</string>
+		</dict>
+	</lib>
+</glyph>

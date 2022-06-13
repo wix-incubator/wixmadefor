@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="2">
+	<unicode hex="20AC"/>
+	<advance width="632"/>
+	<outline>
+		<contour>
+			<point x="543" y="171" type="line"/>
+			<point x="501" y="108"/>
+			<point x="447" y="72"/>
+			<point x="379" y="72" type="curve" smooth="yes"/>
+			<point x="261" y="72"/>
+			<point x="187" y="182"/>
+			<point x="187" y="357" type="curve" smooth="yes"/>
+			<point x="187" y="533"/>
+			<point x="259" y="643"/>
+			<point x="380" y="643" type="curve" smooth="yes"/>
+			<point x="444" y="643"/>
+			<point x="499" y="608"/>
+			<point x="543" y="543" type="curve"/>
+			<point x="609" y="608" type="line"/>
+			<point x="553" y="686"/>
+			<point x="471" y="731"/>
+			<point x="380" y="731" type="curve" smooth="yes"/>
+			<point x="205" y="731"/>
+			<point x="85" y="579"/>
+			<point x="85" y="357" type="curve" smooth="yes"/>
+			<point x="85" y="136"/>
+			<point x="203" y="-16"/>
+			<point x="378" y="-16" type="curve" smooth="yes"/>
+			<point x="470" y="-16"/>
+			<point x="553" y="30"/>
+			<point x="608" y="107" type="curve"/>
+		</contour>
+		<contour>
+			<point x="430" y="241" type="line"/>
+			<point x="444" y="318" type="line"/>
+			<point x="24" y="318" type="line"/>
+			<point x="24" y="241" type="line"/>
+		</contour>
+		<contour>
+			<point x="458" y="399" type="line"/>
+			<point x="472" y="476" type="line"/>
+			<point x="24" y="476" type="line"/>
+			<point x="24" y="399" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-22 16:09:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nje" format="2">
+	<unicode hex="040A"/>
+	<advance width="1134"/>
+	<outline>
+		<contour>
+			<point x="565" y="0" type="line"/>
+			<point x="853" y="0" type="line" smooth="yes"/>
+			<point x="995" y="0"/>
+			<point x="1089" y="81"/>
+			<point x="1089" y="203" type="curve" smooth="yes"/>
+			<point x="1089" y="326"/>
+			<point x="996" y="406"/>
+			<point x="853" y="406" type="curve" smooth="yes"/>
+			<point x="606" y="406" type="line"/>
+			<point x="606" y="338" type="line"/>
+			<point x="853" y="338" type="line" smooth="yes"/>
+			<point x="951" y="338"/>
+			<point x="1010" y="287"/>
+			<point x="1010" y="203" type="curve" smooth="yes"/>
+			<point x="1010" y="119"/>
+			<point x="951" y="68"/>
+			<point x="853" y="68" type="curve" smooth="yes"/>
+			<point x="617" y="68" type="line"/>
+			<point x="642" y="43" type="line"/>
+			<point x="642" y="715" type="line"/>
+			<point x="565" y="715" type="line"/>
+		</contour>
+		<contour>
+			<point x="95" y="0" type="line"/>
+			<point x="172" y="0" type="line"/>
+			<point x="172" y="715" type="line"/>
+			<point x="95" y="715" type="line"/>
+		</contour>
+		<contour>
+			<point x="162" y="337" type="line"/>
+			<point x="585" y="337" type="line"/>
+			<point x="585" y="406" type="line"/>
+			<point x="162" y="406" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom.UC" x="381" y="-50"/>
+	<anchor name="top.UC" x="381" y="750"/>
+</glyph>

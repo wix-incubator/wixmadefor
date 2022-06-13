@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gje" format="2">
+	<unicode hex="0403"/>
+	<advance width="540"/>
+	<outline>
+		<component base="Ghe"/>
+		<component base="acutecomb.cap" xOffset="318"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>Ghe</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>En</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>Ghe</string>
+		</dict>
+	</lib>
+</glyph>

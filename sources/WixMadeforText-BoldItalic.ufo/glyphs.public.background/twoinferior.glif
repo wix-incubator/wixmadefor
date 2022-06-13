@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twoinferior" format="2">
+	<outline>
+		<contour>
+			<point x="333" y="-100" type="line"/>
+			<point x="333" y="-24" type="line"/>
+			<point x="155" y="-24" type="line"/>
+			<point x="159" y="-36" type="line"/>
+			<point x="230" y="28" type="line" smooth="yes"/>
+			<point x="304" y="94"/>
+			<point x="329" y="137"/>
+			<point x="329" y="188" type="curve" smooth="yes"/>
+			<point x="329" y="262"/>
+			<point x="267" y="317"/>
+			<point x="180" y="317" type="curve" smooth="yes"/>
+			<point x="116" y="317"/>
+			<point x="64" y="288"/>
+			<point x="24" y="235" type="curve"/>
+			<point x="85" y="174" type="line"/>
+			<point x="115" y="221"/>
+			<point x="144" y="237"/>
+			<point x="176" y="237" type="curve" smooth="yes"/>
+			<point x="206" y="237"/>
+			<point x="228" y="217"/>
+			<point x="228" y="184" type="curve" smooth="yes"/>
+			<point x="228" y="160"/>
+			<point x="218" y="139"/>
+			<point x="184" y="107" type="curve" smooth="yes"/>
+			<point x="35" y="-29" type="line"/>
+			<point x="35" y="-100" type="line"/>
+		</contour>
+	</outline>
+</glyph>

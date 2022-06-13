@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="che.loclBGR" format="2">
+	<advance width="567"/>
+	<outline>
+		<contour>
+			<point x="364" y="-1" type="line"/>
+			<point x="496" y="-1" type="line"/>
+			<point x="496" y="503" type="line"/>
+			<point x="364" y="503" type="line"/>
+		</contour>
+		<contour>
+			<point x="221" y="152" type="curve" smooth="yes"/>
+			<point x="329" y="152"/>
+			<point x="399" y="231"/>
+			<point x="400" y="348" type="curve"/>
+			<point x="368" y="371" type="line"/>
+			<point x="360" y="308"/>
+			<point x="313" y="262"/>
+			<point x="258" y="262" type="curve" smooth="yes"/>
+			<point x="205" y="262"/>
+			<point x="173" y="296"/>
+			<point x="173" y="370" type="curve" smooth="yes"/>
+			<point x="173" y="503" type="line"/>
+			<point x="41" y="503" type="line"/>
+			<point x="41" y="356" type="line" smooth="yes"/>
+			<point x="41" y="225"/>
+			<point x="109" y="152"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>en</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>en</string>
+		</dict>
+	</lib>
+</glyph>

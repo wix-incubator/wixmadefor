@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kje" format="2">
+	<unicode hex="045C"/>
+	<advance width="588"/>
+	<outline>
+		<component base="ka"/>
+		<component base="acutecomb" xOffset="303"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>ka</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>ka</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Io" format="2">
+	<unicode hex="0401"/>
+	<advance width="647"/>
+	<outline>
+		<component base="E" xOffset="18"/>
+		<component base="dieresiscomb.cap" xOffset="341"/>
+	</outline>
+</glyph>

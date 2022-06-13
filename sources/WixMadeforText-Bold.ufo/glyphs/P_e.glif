@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pe" format="2">
+	<unicode hex="041F"/>
+	<advance width="751"/>
+	<outline>
+		<contour>
+			<point x="89" y="0" type="line"/>
+			<point x="224" y="0" type="line"/>
+			<point x="224" y="690" type="line"/>
+			<point x="149" y="599" type="line"/>
+			<point x="597" y="599" type="line"/>
+			<point x="527" y="690" type="line"/>
+			<point x="527" y="0" type="line"/>
+			<point x="662" y="0" type="line"/>
+			<point x="662" y="715" type="line"/>
+			<point x="89" y="715" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>En</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>En</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>En</string>
+		</dict>
+	</lib>
+</glyph>

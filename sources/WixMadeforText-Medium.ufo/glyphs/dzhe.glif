@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzhe" format="2">
+	<unicode hex="045F"/>
+	<advance width="581"/>
+	<outline>
+		<contour>
+			<point x="79" y="0" type="line"/>
+			<point x="502" y="0" type="line"/>
+			<point x="502" y="497" type="line"/>
+			<point x="402" y="497" type="line"/>
+			<point x="402" y="40" type="line"/>
+			<point x="440" y="83" type="line"/>
+			<point x="140" y="83" type="line"/>
+			<point x="179" y="40" type="line"/>
+			<point x="179" y="497" type="line"/>
+			<point x="79" y="497" type="line"/>
+		</contour>
+		<contour>
+			<point x="243" y="-132" type="line"/>
+			<point x="338" y="-132" type="line"/>
+			<point x="338" y="63" type="line"/>
+			<point x="243" y="63" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>en</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>en</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>en</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>en</string>
+		</dict>
+	</lib>
+</glyph>

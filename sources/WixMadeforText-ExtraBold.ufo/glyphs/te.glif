@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te" format="2">
+	<unicode hex="0442"/>
+	<advance width="503"/>
+	<outline>
+		<contour>
+			<point x="20" y="379" type="line"/>
+			<point x="483" y="379" type="line"/>
+			<point x="483" y="510" type="line"/>
+			<point x="20" y="510" type="line"/>
+		</contour>
+		<contour>
+			<point x="170" y="0" type="line"/>
+			<point x="333" y="0" type="line"/>
+			<point x="333" y="449" type="line"/>
+			<point x="170" y="449" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ" format="2">
+	<unicode hex="0132"/>
+	<advance width="682"/>
+	<outline>
+		<contour>
+			<point x="153" y="313" type="line"/>
+			<point x="153" y="715" type="line"/>
+			<point x="76" y="715" type="line"/>
+			<point x="76" y="313" type="line"/>
+		</contour>
+		<contour>
+			<point x="606" y="715" type="line"/>
+			<point x="529" y="715" type="line"/>
+			<point x="529" y="272" type="line" smooth="yes"/>
+			<point x="529" y="130"/>
+			<point x="463" y="54"/>
+			<point x="340" y="54" type="curve" smooth="yes"/>
+			<point x="230" y="54"/>
+			<point x="166" y="114"/>
+			<point x="153" y="228" type="curve"/>
+			<point x="77" y="219" type="line"/>
+			<point x="94" y="69"/>
+			<point x="187" y="-16"/>
+			<point x="340" y="-16" type="curve" smooth="yes"/>
+			<point x="510" y="-16"/>
+			<point x="606" y="89"/>
+			<point x="606" y="272" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="top.UC_1" x="114" y="750"/>
+	<anchor name="top.UC_2" x="567" y="750"/>
+	<guideline x="109"/>
+	<guideline x="562"/>
+	<guideline y="715"/>
+	<guideline y="715"/>
+</glyph>

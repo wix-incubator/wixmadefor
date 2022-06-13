@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphentwo.case" format="2">
+	<outline>
+		<contour>
+			<point x="288" y="323" type="line"/>
+			<point x="288" y="393" type="line"/>
+			<point x="35" y="393" type="line"/>
+			<point x="35" y="323" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ka" format="2">
+	<unicode hex="041A"/>
+	<advance width="789"/>
+	<outline>
+		<component base="K" xOffset="18"/>
+	</outline>
+	<anchor name="top.UC" x="381" y="750"/>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tse" format="2">
+	<unicode hex="0426"/>
+	<advance width="779"/>
+	<outline>
+		<contour>
+			<point x="648" y="56" type="line"/>
+			<point x="648" y="715" type="line"/>
+			<point x="545" y="715" type="line"/>
+			<point x="545" y="56" type="line"/>
+		</contour>
+		<contour>
+			<point x="624" y="-174" type="line"/>
+			<point x="722" y="-174" type="line"/>
+			<point x="722" y="90" type="line"/>
+			<point x="177" y="90" type="line"/>
+			<point x="202" y="65" type="line"/>
+			<point x="202" y="715" type="line"/>
+			<point x="99" y="715" type="line"/>
+			<point x="99" y="0" type="line"/>
+			<point x="649" y="0" type="line"/>
+			<point x="624" y="25" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>De</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>En</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>De</string>
+		</dict>
+	</lib>
+</glyph>

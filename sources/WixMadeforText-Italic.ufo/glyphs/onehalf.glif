@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="2">
+	<unicode hex="00BD"/>
+	<advance width="943"/>
+	<outline>
+		<component base="fraction" xOffset="351"/>
+		<component base="two.dnom" xOffset="542"/>
+		<component base="one.dnom" xOffset="65" yOffset="304"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.125,1,0,0.35</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ibrevecyr" format="2">
+	<unicode hex="0419"/>
+	<advance width="752"/>
+	<outline>
+		<component base="Icyr"/>
+		<component base="brevecomb.cyrl.cap" xOffset="381" yOffset="206"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>En</string>
+		</dict>
+	</lib>
+</glyph>

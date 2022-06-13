@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scaron" format="2">
+	<unicode hex="0160"/>
+	<advance width="679"/>
+	<outline>
+		<component base="S" xOffset="5"/>
+		<component base="caroncomb.cap" xOffset="340"/>
+	</outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJacute" format="2">
+	<advance width="686"/>
+	<outline>
+		<component base="IJ"/>
+		<component base="acutecomb.cap" xOffset="135"/>
+		<component base="acutecomb.cap" xOffset="588"/>
+	</outline>
+	<guideline x="64"/>
+	<guideline x="144"/>
+	<guideline x="486"/>
+	<guideline x="566"/>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.cap" format="2">
+	<outline>
+		<contour>
+			<point x="-35" y="796" type="line"/>
+			<point x="63" y="796" type="line"/>
+			<point x="-66" y="940" type="line"/>
+			<point x="-190" y="940" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top.UC" x="0" y="750"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-22 16:09:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>

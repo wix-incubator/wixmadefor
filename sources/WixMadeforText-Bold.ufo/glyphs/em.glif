@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="em" format="2">
+	<unicode hex="043C"/>
+	<advance width="713"/>
+	<outline>
+		<contour>
+			<point x="71" y="0" type="line"/>
+			<point x="184" y="0" type="line"/>
+			<point x="184" y="341" type="line"/>
+			<point x="174" y="338" type="line"/>
+			<point x="310" y="53" type="line"/>
+			<point x="397" y="53" type="line"/>
+			<point x="537" y="345" type="line"/>
+			<point x="524" y="349" type="line"/>
+			<point x="524" y="0" type="line"/>
+			<point x="642" y="0" type="line"/>
+			<point x="642" y="503" type="line"/>
+			<point x="503" y="503" type="line"/>
+			<point x="339" y="156" type="line"/>
+			<point x="372" y="156" type="line"/>
+			<point x="206" y="503" type="line"/>
+			<point x="71" y="503" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>en</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>en</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>en</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>en</string>
+		</dict>
+	</lib>
+</glyph>

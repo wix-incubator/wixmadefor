@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka" format="2">
+	<unicode hex="043A"/>
+	<advance width="561"/>
+	<outline>
+		<contour>
+			<point x="71" y="0" type="line"/>
+			<point x="203" y="0" type="line"/>
+			<point x="203" y="503" type="line"/>
+			<point x="71" y="503" type="line"/>
+		</contour>
+		<contour>
+			<point x="389" y="0" type="line"/>
+			<point x="554" y="0" type="line"/>
+			<point x="301" y="291" type="line"/>
+			<point x="308" y="235" type="line"/>
+			<point x="533" y="503" type="line"/>
+			<point x="377" y="503" type="line"/>
+			<point x="178" y="262" type="line"/>
+			<point x="169" y="262" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top.LC" x="284" y="544"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>en</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>en</string>
+		</dict>
+	</lib>
+</glyph>
