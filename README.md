@@ -12,13 +12,61 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwix-incubator%2Fwixmadefor.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwix-incubator%2Fwixmadefor.git%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
-
-Don't hesitate to create images!
-
 ## About
 
-Description of you and/or organisation goes here.
+Wix Madefor is a compact font family of three weights for display setting, and four text weights for use in user interfaces. The text fonts also have matching italics, with shapes rooted in cursive forms, despite the typeface’s geometric structure, allowing Wix to have different expressions, from functional to more playful. 
+
+The typeface was designed to carry subtle features with an engaging and clean appearance.
+
+The display style was designed with strong geometric features – round characters are nearly circular, and the curvatures of f, j, and t are angular; stroke endings in letters such as c and s have a slight flaring; and the letter spacing is set tight for use at larger sizes.
+
+### Supported scripts
+
+Latin, Cyrillic and Vietnamese (uprights) scripts are supported.
+
+Supported languages:
+Afar, Afrikaans, Albanian, Asturian, Asu, Basque, Belarusian, Bemba,
+Bena, Bini, Bosnian, Breton, Bube, Bulgarian, Catalan, Cebuano, Chiga,
+Colognian, Cornish, Croatian, Czech, Danish, Dutch, Embu, English,
+Estonian, Faroese, Filipino, Finnish, French, Friulian, Ga, Galician,
+Ganda, German, Gusii, Hungarian, Icelandic, Inari Sami, Indonesian,
+Interlingua, Irish, Italian, Javanese, Jenaama Bozo, Jju, Jola-Fonyi,
+Kabuverdianu, Kalaallisut, Kalenjin, Kamba, Kikuyu, Kinyarwanda,
+Latvian, Lithuanian, Low German, Lower Sorbian, Luo, Luxembourgish,
+Luyia, Macedonian, Machame, Makhuwa-Meetto, Makonde, Malagasy, Maltese,
+Manx, Meru, Morisyen, Nigerian Pidgin, North Ndebele, Northern Sami,
+Northern Sotho, Norwegian Bokmål, Norwegian Nynorsk, Nyanja, Nyankole,
+Occitan, Oromo, Polish, Portuguese, Quechua, Romanian, Romansh, Rombo,
+Rundi, Russian, Rwa, Saho, Samburu, Sango, Sangu, Scottish Gaelic,
+Sena, Serbian, Shambala, Shona, Sidamo, Slovak, Slovenian, Soga, Somali,
+Soninke, South Ndebele, Southern Sotho, Spanish, Sranan Tongo, Swahili,
+Swati, Swedish, Swiss German, Taita, Taroko, Teso, Tiv, Tsonga, Tswana,
+Turkishm Tyap, Ukrainian, Upper Sorbian, Vietnamese, Vunjo, Walloon,
+Walser, Welsh, Western Frisian, Wolof, Xhosa, Zulu
+
+There are 721 glyphs in the upright weights, and 476 in the italics.
+
+### Axes
+
+The Text and Display families each have a Weight axis, `wght`, with a range from 400 (Regular) to 800 (ExtraBold).
+
+The Text family has eight named instances: Regular, Medium, Bold, ExtraBold, Italic, Medium Italic, Bold Italic, ExtraBold Italic.
+
+### Features
+
+The following features are enabled:
+- Catalan L dot
+- Dutch ij
+- Moldovan and Romanian cedilla
+- Precomposed and built Fractions
+- Ordinals
+- Superiors
+- Inferiors
+- Subscripts
+- Numerators
+- Denominators
+- Case punctuation
+- Uprights have Bulgarian alternates for Cyrillic
 
 ## Building
 
@@ -30,17 +78,14 @@ If you want to build fonts manually on your own computer:
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at https://wix-incubator.github.io/wixmadefor.git.
+The proof files and QA tests are also available automatically via GitHub Actions.
 
 ## Changelog
 
-When you update your font (new version or new release), please report all notable changes here, with a date.
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
 
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+**XX July 2022. Version 3.000**
+- MAJOR Initial release on Google Fonts.
 
 ## License
 
