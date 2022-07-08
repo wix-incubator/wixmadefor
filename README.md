@@ -22,7 +22,7 @@ The display style was designed with strong geometric features – round characte
 
 ### Supported scripts
 
-Latin, Cyrillic and Vietnamese (uprights) scripts are supported.
+Latin (uprights and italics), Cyrillic (uprights) and Vietnamese (uprights) scripts are supported.
 
 Supported languages:
 Afar, Afrikaans, Albanian, Asturian, Asu, Basque, Belarusian, Bemba,
