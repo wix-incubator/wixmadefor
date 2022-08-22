@@ -19,6 +19,7 @@ Thumbs.db
 
 # Added for Wix
 .vscode
+.idea
 build/
 generate-ttx-hinting.stamp
 sources/*.ttx

@@ -12,6 +12,8 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwix-incubator%2Fwixmadefor.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwix-incubator%2Fwixmadefor.git%2Fgh-pages%2Fbadges%2FUniversal.json
 
+![logo](assets/WixMadefor%20black%20logo.png)
+
 ## About
 
 Wix Madefor is a compact font family of three weights for display setting, and four text weights for use in user interfaces. The text fonts also have matching italics, with shapes rooted in cursive forms, despite the typeface’s geometric structure, allowing Wix to have different expressions, from functional to more playful. 
