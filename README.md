@@ -84,7 +84,7 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 
-**XX July 2022. Version 3.000**
+**July 2022. Version 3.000**
 - MAJOR Initial release on Google Fonts.
 
 ## License
