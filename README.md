@@ -1,17 +1,5 @@
 # Wix Madefor
 
-[![][Fontbakery]](https://wix-incubator.github.io/wixmadefor.git/fontbakery/fontbakery-report.html)
-[![][Universal]](https://wix-incubator.github.io/wixmadefor.git/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://wix-incubator.github.io/wixmadefor.git/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://wix-incubator.github.io/wixmadefor.git/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://wix-incubator.github.io/wixmadefor.git/fontbakery/fontbakery-report.html)
-
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwix-incubator%2Fwixmadefor.git%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwix-incubator%2Fwixmadefor.git%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwix-incubator%2Fwixmadefor.git%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwix-incubator%2Fwixmadefor.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwix-incubator%2Fwixmadefor.git%2Fgh-pages%2Fbadges%2FUniversal.json
-
 ![logo](assets/WixMadefor%20black%20logo.png)
 
 ## About
