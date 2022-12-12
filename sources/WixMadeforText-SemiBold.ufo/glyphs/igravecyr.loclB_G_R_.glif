@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igravecyr.loclBGR" format="1">
+  <advance width="597"/>
+  <outline>
+    <component base="u"/>
+    <component base="gravecomb" xOffset="291"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>u</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>en</string>
+    </dict>
+  </lib>
+</glyph>

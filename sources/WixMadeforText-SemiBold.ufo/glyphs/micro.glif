@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="micro" format="1">
+  <advance width="632"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="427" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="500" type="line"/>
+      <point x="426" y="500" type="line"/>
+      <point x="426" y="124" type="line"/>
+      <point x="427" y="96" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="-194" type="line"/>
+      <point x="206" y="-194" type="line"/>
+      <point x="206" y="94" type="line"/>
+      <point x="144" y="63" type="line"/>
+      <point x="168" y="11"/>
+      <point x="217" y="-16"/>
+      <point x="280" y="-16" type="curve" smooth="yes"/>
+      <point x="388" y="-16"/>
+      <point x="460" y="70"/>
+      <point x="457" y="192" type="curve"/>
+      <point x="433" y="211" type="line"/>
+      <point x="425" y="135"/>
+      <point x="369" y="82"/>
+      <point x="304" y="82" type="curve" smooth="yes"/>
+      <point x="243" y="82"/>
+      <point x="206" y="123"/>
+      <point x="206" y="202" type="curve" smooth="yes"/>
+      <point x="206" y="500" type="line"/>
+      <point x="90" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

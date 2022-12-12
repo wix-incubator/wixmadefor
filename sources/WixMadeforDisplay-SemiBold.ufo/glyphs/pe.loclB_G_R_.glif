@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pe.loclBGR" format="1">
+  <advance width="605"/>
+  <outline>
+    <component base="n" xOffset="10"/>
+  </outline>
+</glyph>

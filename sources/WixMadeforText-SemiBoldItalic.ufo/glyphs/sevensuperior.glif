@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sevensuperior" format="1">
+  <advance width="366"/>
+  <unicode hex="2077"/>
+  <outline>
+    <component base="seven.dnom" xOffset="84" yOffset="404"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.12,1,0,0.35</string>
+    </dict>
+  </lib>
+</glyph>

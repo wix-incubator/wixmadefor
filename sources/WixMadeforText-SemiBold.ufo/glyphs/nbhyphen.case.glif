@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nbhyphen.case" format="1">
+  <advance width="323"/>
+  <outline>
+    <component base="hyphen" yOffset="82"/>
+  </outline>
+</glyph>

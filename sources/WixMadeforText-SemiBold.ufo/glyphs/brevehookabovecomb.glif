@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevehookabovecomb" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="0" y="584" type="curve" smooth="yes"/>
+      <point x="81" y="584"/>
+      <point x="148" y="644"/>
+      <point x="157" y="743" type="curve"/>
+      <point x="69" y="743" type="line"/>
+      <point x="62" y="689"/>
+      <point x="35" y="664"/>
+      <point x="0" y="664" type="curve" smooth="yes"/>
+      <point x="-34" y="664"/>
+      <point x="-62" y="689"/>
+      <point x="-69" y="743" type="curve"/>
+      <point x="-157" y="743" type="line"/>
+      <point x="-148" y="644"/>
+      <point x="-81" y="584"/>
+    </contour>
+    <contour>
+      <point x="-15" y="725" type="line"/>
+      <point x="56" y="752"/>
+      <point x="94" y="794"/>
+      <point x="94" y="842" type="curve" smooth="yes"/>
+      <point x="94" y="895"/>
+      <point x="50" y="934"/>
+      <point x="-9" y="934" type="curve" smooth="yes"/>
+      <point x="-46" y="934"/>
+      <point x="-79" y="921"/>
+      <point x="-106" y="893" type="curve"/>
+      <point x="-69" y="844" type="line"/>
+      <point x="-51" y="859"/>
+      <point x="-35" y="866"/>
+      <point x="-20" y="866" type="curve" smooth="yes"/>
+      <point x="1" y="866"/>
+      <point x="14" y="855"/>
+      <point x="14" y="834" type="curve" smooth="yes"/>
+      <point x="14" y="813"/>
+      <point x="-4" y="795"/>
+      <point x="-41" y="777" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="544" type="move" name="_top.LC"/>
+    </contour>
+  </outline>
+</glyph>

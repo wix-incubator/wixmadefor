@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ve" format="1">
+  <advance width="681"/>
+  <unicode hex="0412"/>
+  <outline>
+    <component base="B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>En</string>
+    </dict>
+  </lib>
+</glyph>

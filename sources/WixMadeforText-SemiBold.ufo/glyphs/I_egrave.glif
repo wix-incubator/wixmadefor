@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iegrave" format="1">
+  <advance width="609"/>
+  <unicode hex="0400"/>
+  <outline>
+    <component base="E"/>
+    <component base="gravecomb.cap" xOffset="328"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>En</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>Ie</string>
+    </dict>
+  </lib>
+</glyph>

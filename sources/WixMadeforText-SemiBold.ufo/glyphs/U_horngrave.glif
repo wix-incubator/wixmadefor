@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorngrave" format="1">
+  <advance width="765"/>
+  <unicode hex="1EEA"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="gravecomb.cap" xOffset="366"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsRight</key>
+      <string>Uhorn</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Em" format="1">
+  <advance width="911"/>
+  <unicode hex="041C"/>
+  <outline>
+    <component base="M"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>En</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>En</string>
+    </dict>
+  </lib>
+</glyph>

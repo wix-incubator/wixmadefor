@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0327"/>
+  <outline>
+    <contour>
+      <point x="-128" y="-220" type="line"/>
+      <point x="-103" y="-243"/>
+      <point x="-68" y="-257"/>
+      <point x="-28" y="-257" type="curve" smooth="yes"/>
+      <point x="54" y="-257"/>
+      <point x="101" y="-211"/>
+      <point x="101" y="-151" type="curve" smooth="yes"/>
+      <point x="101" y="-91"/>
+      <point x="43" y="-49"/>
+      <point x="-31" y="-50" type="curve"/>
+      <point x="-1" y="-78" type="line"/>
+      <point x="24" y="10" type="line"/>
+      <point x="-36" y="10" type="line"/>
+      <point x="-71" y="-114" type="line"/>
+      <point x="-58" y="-109"/>
+      <point x="-44" y="-108"/>
+      <point x="-32" y="-108" type="curve" smooth="yes"/>
+      <point x="6" y="-108"/>
+      <point x="28" y="-127"/>
+      <point x="28" y="-153" type="curve" smooth="yes"/>
+      <point x="28" y="-179"/>
+      <point x="7" y="-196"/>
+      <point x="-25" y="-196" type="curve" smooth="yes"/>
+      <point x="-52" y="-196"/>
+      <point x="-78" y="-184"/>
+      <point x="-94" y="-167" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="-50" type="move" name="_bottom.LC"/>
+    </contour>
+  </outline>
+</glyph>
