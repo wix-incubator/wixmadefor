@@ -54,9 +54,23 @@
             <key>name</key>
             <string>Medium</string>
             <key>value</key>
+            <integer>500</integer>
+          </dict>
+          
+          <dict>
+            <key>name</key>
+            <string>Medium</string>
+            <key>value</key>
             <integer>530</integer>
           </dict>
 
+          <dict>
+            <key>name</key>
+            <string>Bold</string>
+            <key>value</key>
+            <integer>600</integer>
+          </dict>
+          
           <dict>
             <key>name</key>
             <string>Bold</string>

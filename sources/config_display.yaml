@@ -1,7 +1,9 @@
 # Config for Display static fonts only
 sources:
-  - WixMadeforDisplay-Bold.ufo
   - WixMadeforDisplay-Regular.ufo
+  - WixMadeforDisplay-Medium.ufo
+  - WixMadeforDisplay-SemiBold.ufo
+  - WixMadeforDisplay-Bold.ufo
   - WixMadeforDisplay-ExtraBold.ufo
 logLevel: WARNING
 autohintTTF:

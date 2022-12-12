@@ -1,12 +1,14 @@
 # Config for Text static fonts only
 sources:
-  - WixMadeforText-Bold.ufo
-  - WixMadeforText-BoldItalic.ufo
-  - WixMadeforText-Italic.ufo
-  - WixMadeforText-Medium.ufo
-  - WixMadeforText-MediumItalic.ufo
   - WixMadeforText-Regular.ufo
+  - WixMadeforText-Medium.ufo
+  - WixMadeforText-SemiBold.ufo
+  - WixMadeforText-Bold.ufo
   - WixMadeforText-ExtraBold.ufo
+  - WixMadeforText-Italic.ufo
+  - WixMadeforText-MediumItalic.ufo
+  - WixMadeforText-SemiBoldItalic.ufo
+  - WixMadeforText-BoldItalic.ufo
   - WixMadeforText-ExtraBoldItalic.ufo
 autohintTTF:
   false
