@@ -59,14 +59,7 @@
           
           <dict>
             <key>name</key>
-            <string>Medium</string>
-            <key>value</key>
-            <integer>530</integer>
-          </dict>
-
-          <dict>
-            <key>name</key>
-            <string>Bold</string>
+            <string>SemiBold</string>
             <key>value</key>
             <integer>600</integer>
           </dict>
@@ -98,7 +91,7 @@
 
           <dict>
             <key>name</key>
-            <string>Upright</string>
+            <string>Roman</string>
             <key>value</key>
             <integer>0</integer>
             <key>linked_value</key>
