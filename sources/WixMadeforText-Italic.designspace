@@ -3,7 +3,7 @@
   <axes>
     <axis tag="wght" name="Weight" minimum="400" maximum="800" default="400">
       <map input="400" output="77"/>
-      <map input="530" output="100"/>
+      <map input="500" output="100"/>
       <map input="600" output="116"/>
       <map input="700" output="132"/>
       <map input="800" output="163"/>
