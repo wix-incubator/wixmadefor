@@ -125,7 +125,7 @@
 	<key>openTypeOS2VendorID</key>
 	<string>DAMA</string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>581</integer>
+	<integer>600</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
@@ -144,12 +144,10 @@
 	<integer>-97</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>64</integer>
-	<key>postscriptWeightName</key>
-	<string>Semi-bold</string>
 	<key>styleMapFamilyName</key>
-	<string>Wix Madefor Text SmBold Italic</string>
+	<string>Wix Madefor Text SemiBold</string>
 	<key>styleMapStyleName</key>
-	<string>regular</string>
+	<string>italic</string>
 	<key>styleName</key>
 	<string>SemiBold Italic</string>
 	<key>trademark</key>
