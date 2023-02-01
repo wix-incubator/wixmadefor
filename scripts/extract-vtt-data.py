@@ -6,16 +6,29 @@ from pathlib import Path
 import ufoLib2
 import vttLib.transfer
 from fontTools.ttLib import TTFont
+import sys
 
 parser = argparse.ArgumentParser()
 parser.add_argument("ufo", type=Path)
 args = parser.parse_args()
 ufo_path: Path = args.ufo
+
+
+if ufo_path.name in (
+    "WixMadeforText-SemiBold.ufo",
+    "WixMadeforText-SemiBoldItalic.ufo",
+    "WixMadeforDisplay-SemiBold.ufo"
+):
+    print("SemiBold ufos are currently unhinted. Skipping")
+    sys.exit()
+
+
 ttx_path = ufo_path.with_name(ufo_path.stem + "_VTT_Hinting").with_suffix(".ttx")
 
 ufo = ufoLib2.Font.open(ufo_path)
 production_names: dict[str, str] = ufo.lib["public.postscriptNames"]
 vttLib.transfer.copy_from_ufo_data_to_file(ufo, ttx_path)
+
 
 ttx = TTFont()
 ttx.importXML(ttx_path)
