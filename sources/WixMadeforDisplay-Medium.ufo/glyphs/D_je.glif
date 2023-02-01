@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dje" format="1">
+  <advance width="739"/>
+  <unicode hex="0402"/>
+  <outline>
+    <contour>
+      <point x="367" y="0" type="line"/>
+      <point x="424" y="0" type="line" smooth="yes"/>
+      <point x="600" y="0"/>
+      <point x="692" y="77"/>
+      <point x="692" y="222" type="curve" smooth="yes"/>
+      <point x="692" y="361"/>
+      <point x="599" y="443"/>
+      <point x="439" y="443" type="curve" smooth="yes"/>
+      <point x="349" y="443"/>
+      <point x="270" y="420"/>
+      <point x="207" y="375" type="curve"/>
+      <point x="236" y="307" type="line"/>
+      <point x="287" y="339"/>
+      <point x="357" y="358"/>
+      <point x="428" y="358" type="curve" smooth="yes"/>
+      <point x="536" y="358"/>
+      <point x="596" y="307"/>
+      <point x="596" y="219" type="curve" smooth="yes"/>
+      <point x="596" y="129"/>
+      <point x="536" y="84"/>
+      <point x="412" y="84" type="curve" smooth="yes"/>
+      <point x="367" y="84" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="251" y="668" type="line"/>
+      <point x="155" y="668" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="631" type="line"/>
+      <point x="516" y="631" type="line"/>
+      <point x="516" y="715" type="line"/>
+      <point x="13" y="715" type="line"/>
+    </contour>
+  </outline>
+</glyph>

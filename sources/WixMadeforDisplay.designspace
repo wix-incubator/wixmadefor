@@ -3,6 +3,8 @@
   <axes>
     <axis tag="wght" name="Weight" minimum="400" maximum="800" default="400">
       <map input="400" output="74"/>
+      <map input="500" output="93"/>
+      <map input="600" output="112"/>
       <map input="700" output="132"/>
       <map input="800" output="169"/>
     </axis>
@@ -27,6 +29,20 @@
     <instance name="Wix Madefor Display VF" familyname="Wix Madefor Display VF" stylename="Regular" filename="../build/instance_ufos/WixMadeforDisplay-Regular.ufo">
       <location>
         <dimension name="Weight" xvalue="74"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Wix Madefor Display VF Medium" familyname="Wix Madefor Display VF" stylename="Medium" filename="../build/instance_ufos/WixMadeforDisplay-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="93"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Wix Madefor Display VF SemiBold" familyname="Wix Madefor Display VF" stylename="SemiBold" filename="../build/instance_ufos/WixMadeforDisplay-SemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="112"/>
       </location>
       <kerning/>
       <info/>

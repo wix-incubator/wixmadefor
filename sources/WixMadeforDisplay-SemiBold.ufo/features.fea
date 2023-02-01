@@ -1,0 +1,239 @@
+@PNUM = [ zero one two three four five six seven eight nine ];
+
+@DNOM = [ zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom ];
+
+@NUMR = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr ];
+
+@SUBS = [ zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior ];
+
+@SUPS = [ zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior ];
+
+@PUNCTUATION = [ hyphen hyphentwo nbhyphen endash emdash parenleft parenright slash backslash bracketleft bracketright braceleft braceright bullet guilsinglleft guilsinglright guillemotleft guillemotright at periodcentered ];
+
+@CASE_PUNCTUATION = [ hyphen.case hyphentwo.case nbhyphen.case endash.case emdash.case parenleft.case parenright.case slash.case backslash.case bracketleft.case bracketright.case braceleft.case braceright.case bullet.case guilsinglleft.case guilsinglright.case guillemotleft.case guillemotright.case at.case periodcentered.case ];
+
+@FRAC_PRECOMPOSED = [ onehalf onequarter threequarters ];
+
+@CYRL_DFLT_BGR = [ De El Ef ve ghe de zhe ze icyr ka el pe te tse che sha shcha hard soft yu igravecyr ibrevecyr ];
+
+@CYRL_loclBGR = [ De.loclBGR El.loclBGR Ef.loclBGR ve.loclBGR ghe.loclBGR de.loclBGR zhe.loclBGR ze.loclBGR icyr.loclBGR ka.loclBGR el.loclBGR pe.loclBGR te.loclBGR tse.loclBGR che.loclBGR sha.loclBGR shcha.loclBGR hard.loclBGR soft.loclBGR yu.loclBGR igravecyr.loclBGR ibrevecyr.loclBGR ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn CAT;
+languagesystem latn MOL;
+languagesystem latn NLD;
+languagesystem latn ROM;
+languagesystem cyrl dflt;
+languagesystem cyrl BGR; # Bulgarian
+languagesystem cyrl MKD; # Macedonian
+languagesystem cyrl SRB; # Serbian
+
+# Prefix: Prefix
+#------------------------------#
+# Language system declarations #
+#------------------------------#
+
+# Latin
+# Cyrillic
+#--------------------#
+# Class declarations #
+#--------------------#
+#---------------------#
+# Lookup declarations #
+#---------------------#
+lookup CAT_locl_periodcentered {
+    # Catalan Germinated El
+    sub l periodcentered' l by periodcentered.loclCAT;
+    sub L periodcentered' L by periodcentered.loclCAT.cap;
+} CAT_locl_periodcentered;
+
+### Start Dutch ij substitution feature lookups ###
+lookup NLD_locl_ij_1 {
+    # Dutch ijacute substitution
+    sub iacute j acutecomb by ijacute;
+    sub Iacute J acutecomb by IJacute;
+} NLD_locl_ij_1;
+
+lookup NLD_locl_ij_2 {
+    sub i' j' by ij;
+    sub I' J' by IJ;
+    sub iacute' j' by ijacute;
+    sub Iacute' J' by IJacute;
+} NLD_locl_ij_2;
+
+lookup NLD_locl_ij_3 {
+    # Dutch ijacute substitution with alternate input string
+    sub ij' acutecomb' by ijacute;
+    sub IJ' acutecomb' by IJacute;
+} NLD_locl_ij_3;
+
+lookup NLD_disable_ij {
+    # disable dutch ij etc using reverse substitution in stylistic set
+    sub ij' by i j;
+    sub IJ' by I J;
+    sub ijacute' by iacute j;
+    sub IJacute' by Iacute J;
+} NLD_disable_ij;
+
+### End Dutch ij substitution feature lookups ###
+lookup ROM_locl_cedilla {
+    # Preferred forms for Romanian and Moldovan languages
+    sub [Scedilla Tcedilla scedilla tcedilla] by [Scommabelow Tcommabelow scommabelow tcommabelow];
+} ROM_locl_cedilla;
+
+lookup CYRL_loclBGR_bulgarian_alternates {
+    sub @CYRL_DFLT_BGR by @CYRL_loclBGR;
+} CYRL_loclBGR_bulgarian_alternates;
+
+### Start frac feature lookups ###
+lookup frac_context_sub {
+    # Fraction bar substitution for fraction bar chaining contextual substitution
+    sub slash by fraction;
+} frac_context_sub;
+
+lookup frac_numr_sub {
+    # Numerator substitution for numerator chaining contextual substitution
+    sub @PNUM by @NUMR;
+} frac_numr_sub;
+
+lookup frac_bar {
+    ignore sub slash' @PNUM slash;
+    ignore sub slash @PNUM slash';
+    ignore sub slash' @PNUM @PNUM slash;
+    ignore sub slash @PNUM @PNUM slash';
+    ignore sub slash' @PNUM @PNUM @PNUM slash;
+    ignore sub slash @PNUM @PNUM @PNUM slash';
+    ignore sub slash' @PNUM @PNUM @PNUM @PNUM slash;
+    ignore sub slash @PNUM @PNUM @PNUM @PNUM slash';
+    ignore sub slash' @PNUM @PNUM @PNUM @PNUM @PNUM slash;
+    ignore sub slash @PNUM @PNUM @PNUM @PNUM @PNUM slash';
+    ignore sub slash' @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash;
+    ignore sub slash @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash';
+    ignore sub slash' @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash;
+    ignore sub slash @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash';
+    ignore sub slash' @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash;
+    ignore sub slash @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash';
+    ignore sub slash' @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash;
+    ignore sub slash @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash';
+    ignore sub slash' @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash;
+    ignore sub slash @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash';
+    ignore sub slash' @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash;
+    ignore sub slash @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM slash';
+    sub @PNUM slash' lookup frac_context_sub @PNUM;
+} frac_bar;
+
+lookup frac_pre_composed {
+    sub one fraction two by onehalf;
+    sub one fraction four by onequarter;
+    sub three fraction four by threequarters;
+} frac_pre_composed;
+
+lookup frac_numr {
+    sub @PNUM' lookup frac_numr_sub @FRAC_PRECOMPOSED;
+    sub @PNUM' lookup frac_numr_sub @PNUM @FRAC_PRECOMPOSED;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @FRAC_PRECOMPOSED;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @FRAC_PRECOMPOSED;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @PNUM @FRAC_PRECOMPOSED;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @PNUM @PNUM @FRAC_PRECOMPOSED;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @FRAC_PRECOMPOSED;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @FRAC_PRECOMPOSED;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @FRAC_PRECOMPOSED;
+    sub @PNUM' lookup frac_numr_sub fraction;
+    sub @PNUM' lookup frac_numr_sub @PNUM fraction;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM fraction;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM fraction;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @PNUM fraction;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @PNUM @PNUM fraction;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM fraction;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM fraction;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM fraction;
+    sub @PNUM' lookup frac_numr_sub @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM @PNUM fraction;
+} frac_numr;
+
+lookup frac_dnom {
+    sub [fraction @DNOM @FRAC_PRECOMPOSED] @PNUM' by @DNOM;
+} frac_dnom;
+
+### End frac feature lookups ###
+### Start ordn feature lookups ###
+lookup ordn_o_a {
+    sub [A a] by ordfeminine;
+    sub [O o] by ordmasculine;
+} ordn_o_a;
+
+#----------------------#
+# Feature declarations #
+#----------------------#
+
+feature locl {
+    script latn;
+    # Catalan Germinated El
+    language CAT exclude_dflt;
+    lookup CAT_locl_periodcentered;
+    # Dutch ij and ijacute
+    language NLD exclude_dflt;
+    lookup NLD_locl_ij_1;
+    lookup NLD_locl_ij_2;
+    lookup NLD_locl_ij_3;
+    # Romanian and Moldovan S and T with comma below
+    language MOL exclude_dflt;
+    lookup ROM_locl_cedilla;
+    language ROM exclude_dflt;
+    lookup ROM_locl_cedilla;
+    script cyrl;
+    language BGR exclude_dflt;
+    lookup CYRL_loclBGR_bulgarian_alternates; 
+    language MKD;
+        sub be by be.loclMKDSRB;
+    language SRB;
+        sub be by be.loclMKDSRB;   
+} locl;
+
+feature frac {
+    lookup frac_bar;
+    lookup frac_pre_composed;
+    lookup frac_numr;
+    lookup frac_dnom;
+} frac;
+
+feature ordn {
+    lookup ordn_o_a;
+} ordn;
+
+feature sups {
+    sub @PNUM by @SUPS;
+} sups;
+
+feature subs {
+    sub @PNUM by @SUBS;
+} subs;
+
+feature sinf {
+    sub @PNUM by @SUBS;
+} sinf;
+
+feature numr {
+    sub @PNUM by @NUMR;
+} numr;
+
+feature dnom {
+    sub @PNUM by @DNOM;
+} dnom;
+
+feature ss01 {
+        featureNames {
+        name "Disable Dutch ij";
+        # descriptive name type 3 for Microsoft
+        name 1 "Disable Dutch ij";
+        # descriptive name type 1 for Mac
+    };
+
+    lookup NLD_disable_ij;
+} ss01;
+
+feature case {
+    sub @PUNCTUATION by @CASE_PUNCTUATION;
+} case;
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Izhitsa" format="1">
+  <advance width="762"/>
+  <unicode hex="0474"/>
+  <outline>
+    <contour>
+      <point x="313" y="0" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="634" y="586" type="line" smooth="yes"/>
+      <point x="648" y="621"/>
+      <point x="660" y="631"/>
+      <point x="691" y="631" type="curve" smooth="yes"/>
+      <point x="746" y="631" type="line"/>
+      <point x="746" y="715" type="line"/>
+      <point x="672" y="715" type="line" smooth="yes"/>
+      <point x="608" y="715"/>
+      <point x="576" y="693"/>
+      <point x="551" y="621" type="curve" smooth="yes"/>
+      <point x="348" y="63" type="line"/>
+      <point x="382" y="63" type="line"/>
+      <point x="138" y="715" type="line"/>
+      <point x="34" y="715" type="line"/>
+    </contour>
+  </outline>
+</glyph>

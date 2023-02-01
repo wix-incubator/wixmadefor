@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eightsuperior" format="1">
+  <advance width="388"/>
+  <unicode hex="2078"/>
+  <outline>
+    <component base="eight.dnom" xOffset="84" yOffset="404"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.12,1,0,0.35</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sixinferior" format="1">
+  <advance width="386"/>
+  <unicode hex="2086"/>
+  <outline>
+    <component base="six.dnom" xOffset="-21" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.12,1,0,0.35</string>
+    </dict>
+  </lib>
+</glyph>

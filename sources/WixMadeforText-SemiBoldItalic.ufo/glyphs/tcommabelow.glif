@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommabelow" format="1">
+  <advance width="377"/>
+  <unicode hex="021B"/>
+  <outline>
+    <component base="t"/>
+    <component base="commabelowcomb" xOffset="187"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.12,1,0,0.35</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucyr" format="1">
+  <advance width="568"/>
+  <unicode hex="0443"/>
+  <outline>
+    <component base="y"/>
+    <contour>
+      <point x="286" y="544" type="move" name="top.LC"/>
+    </contour>
+  </outline>
+</glyph>

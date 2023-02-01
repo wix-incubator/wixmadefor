@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohornhookabove" format="1">
+  <advance width="872"/>
+  <unicode hex="1EDE"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="hookabovecomb.cap" xOffset="430"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ohorn</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb.round" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="107" y="-173" type="line"/>
+      <point x="96" y="-176"/>
+      <point x="85" y="-177"/>
+      <point x="78" y="-177" type="curve" smooth="yes"/>
+      <point x="44" y="-177"/>
+      <point x="18" y="-157"/>
+      <point x="18" y="-117" type="curve" smooth="yes"/>
+      <point x="18" y="-73"/>
+      <point x="47" y="-17"/>
+      <point x="125" y="49" type="curve"/>
+      <point x="79" y="53" type="line"/>
+      <point x="-8" y="-2"/>
+      <point x="-59" y="-68"/>
+      <point x="-59" y="-136" type="curve" smooth="yes"/>
+      <point x="-59" y="-207"/>
+      <point x="-5" y="-249"/>
+      <point x="66" y="-249" type="curve" smooth="yes"/>
+      <point x="79" y="-249"/>
+      <point x="93" y="-248"/>
+      <point x="107" y="-245" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="-30" type="move" name="_ogonek.LC.round"/>
+    </contour>
+  </outline>
+</glyph>

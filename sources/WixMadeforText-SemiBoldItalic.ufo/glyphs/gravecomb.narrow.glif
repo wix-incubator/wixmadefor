@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.narrow" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-41" y="587" type="line"/>
+      <point x="50" y="587" type="line"/>
+      <point x="3" y="761" type="line"/>
+      <point x="-118" y="761" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="544" type="move" name="_top.LC"/>
+    </contour>
+  </outline>
+</glyph>

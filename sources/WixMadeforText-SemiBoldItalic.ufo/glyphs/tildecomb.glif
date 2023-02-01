@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0303"/>
+  <outline>
+    <contour>
+      <point x="-44" y="733" type="curve" smooth="yes"/>
+      <point x="-96" y="733"/>
+      <point x="-138" y="695"/>
+      <point x="-165" y="628" type="curve"/>
+      <point x="-98" y="591" type="line"/>
+      <point x="-83" y="630"/>
+      <point x="-67" y="650"/>
+      <point x="-49" y="650" type="curve" smooth="yes"/>
+      <point x="-38" y="650"/>
+      <point x="-31" y="646"/>
+      <point x="-9" y="625" type="curve" smooth="yes"/>
+      <point x="21" y="597"/>
+      <point x="47" y="585"/>
+      <point x="77" y="585" type="curve" smooth="yes"/>
+      <point x="129" y="585"/>
+      <point x="172" y="623"/>
+      <point x="198" y="690" type="curve"/>
+      <point x="131" y="727" type="line"/>
+      <point x="117" y="688"/>
+      <point x="101" y="668"/>
+      <point x="82" y="668" type="curve" smooth="yes"/>
+      <point x="72" y="668"/>
+      <point x="66" y="672"/>
+      <point x="43" y="692" type="curve" smooth="yes"/>
+      <point x="12" y="720"/>
+      <point x="-13" y="733"/>
+    </contour>
+    <contour>
+      <point x="0" y="544" type="move" name="_top.LC"/>
+    </contour>
+  </outline>
+</glyph>
