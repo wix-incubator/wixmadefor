@@ -1,6 +1,7 @@
 # Wix Madefor
 
-![logo](assets/WixMadefor%20black%20logo.png)
+![logo](assets/WixMadefor%20white%20logo.png#gh-dark-mode-only)
+![logo](assets/WixMadefor%20black%20logo.png#gh-light-mode-only)
 
 ## About
 
