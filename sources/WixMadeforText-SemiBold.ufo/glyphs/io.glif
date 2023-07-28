@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="io" format="1">
-  <advance width="580"/>
-  <unicode hex="0451"/>
-  <outline>
-    <component base="e"/>
-    <component base="dieresiscomb" xOffset="294"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>ie</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>ie</string>
-    </dict>
-  </lib>
+<glyph name="io" format="2">
+	<unicode hex="0451"/>
+	<advance width="580"/>
+	<outline>
+		<component base="e"/>
+		<component base="dieresiscomb" xOffset="294"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>ie</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>ie</string>
+		</dict>
+	</lib>
 </glyph>

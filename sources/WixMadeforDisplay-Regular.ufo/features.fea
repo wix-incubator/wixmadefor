@@ -40,34 +40,13 @@ lookup CAT_locl_periodcentered {
 } CAT_locl_periodcentered;
 
 ### Start Dutch ij substitution feature lookups ###
-lookup NLD_locl_ij_1 {
-    # Dutch ijacute substitution
-    sub iacute j acutecomb by ijacute;
-    sub Iacute J acutecomb by IJacute;
-} NLD_locl_ij_1;
-
-lookup NLD_locl_ij_2 {
-    sub i' j' by ij;
-    sub I' J' by IJ;
-    sub iacute' j' by ijacute;
-    sub Iacute' J' by IJacute;
-} NLD_locl_ij_2;
-
-lookup NLD_locl_ij_3 {
+lookup NLD_locl_ijacute {
     # Dutch ijacute substitution with alternate input string
     sub ij' acutecomb' by ijacute;
     sub IJ' acutecomb' by IJacute;
-} NLD_locl_ij_3;
-
-lookup NLD_disable_ij {
-    # disable dutch ij etc using reverse substitution in stylistic set
-    sub ij' by i j;
-    sub IJ' by I J;
-    sub ijacute' by iacute j;
-    sub IJacute' by Iacute J;
-} NLD_disable_ij;
-
+} NLD_locl_ijacute;
 ### End Dutch ij substitution feature lookups ###
+
 lookup ROM_locl_cedilla {
     # Preferred forms for Romanian and Moldovan languages
     sub [Scedilla Tcedilla scedilla tcedilla] by [Scommabelow Tcommabelow scommabelow tcommabelow];
@@ -163,9 +142,7 @@ feature locl {
     lookup CAT_locl_periodcentered;
     # Dutch ij and ijacute
     language NLD exclude_dflt;
-    lookup NLD_locl_ij_1;
-    lookup NLD_locl_ij_2;
-    lookup NLD_locl_ij_3;
+    lookup NLD_locl_ijacute;
     # Romanian and Moldovan S and T with comma below
     language MOL exclude_dflt;
     lookup ROM_locl_cedilla;
@@ -179,6 +156,11 @@ feature locl {
     language SRB;
         sub be by be.loclMKDSRB;   
 } locl;
+
+feature ccmp {
+    sub j' acutecomb by dotlessj;
+    sub J acutecomb' by acutecomb.cap;
+} ccmp;
 
 feature frac {
     lookup frac_bar;
@@ -210,17 +192,6 @@ feature numr {
 feature dnom {
     sub @PNUM by @DNOM;
 } dnom;
-
-feature ss01 {
-        featureNames {
-        name "Disable Dutch ij";
-        # descriptive name type 3 for Microsoft
-        name 1 "Disable Dutch ij";
-        # descriptive name type 1 for Mac
-    };
-
-    lookup NLD_disable_ij;
-} ss01;
 
 feature case {
     sub @PUNCTUATION by @CASE_PUNCTUATION;

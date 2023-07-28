@@ -1,44 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Fita" format="1">
-  <advance width="860"/>
-  <unicode hex="0472"/>
-  <outline>
-    <contour>
-      <point x="430" y="-16" type="curve" smooth="yes"/>
-      <point x="648" y="-16"/>
-      <point x="808" y="143"/>
-      <point x="808" y="358" type="curve" smooth="yes"/>
-      <point x="808" y="572"/>
-      <point x="648" y="731"/>
-      <point x="430" y="731" type="curve" smooth="yes"/>
-      <point x="212" y="731"/>
-      <point x="52" y="572"/>
-      <point x="52" y="358" type="curve" smooth="yes"/>
-      <point x="52" y="143"/>
-      <point x="212" y="-16"/>
-    </contour>
-    <contour>
-      <point x="430" y="85" type="curve" smooth="yes"/>
-      <point x="275" y="85"/>
-      <point x="169" y="197"/>
-      <point x="169" y="358" type="curve" smooth="yes"/>
-      <point x="169" y="518"/>
-      <point x="275" y="630"/>
-      <point x="430" y="630" type="curve" smooth="yes"/>
-      <point x="584" y="630"/>
-      <point x="691" y="518"/>
-      <point x="691" y="358" type="curve" smooth="yes"/>
-      <point x="691" y="197"/>
-      <point x="584" y="85"/>
-    </contour>
-    <contour>
-      <point x="117" y="319" type="line"/>
-      <point x="743" y="319" type="line"/>
-      <point x="743" y="418" type="line"/>
-      <point x="117" y="418" type="line"/>
-    </contour>
-    <contour>
-      <point x="430" y="750" type="move" name="top.UC"/>
-    </contour>
-  </outline>
+<glyph name="Fita" format="2">
+	<unicode hex="0472"/>
+	<advance width="860"/>
+	<outline>
+		<contour>
+			<point x="430" y="-16" type="curve" smooth="yes"/>
+			<point x="648" y="-16"/>
+			<point x="808" y="143"/>
+			<point x="808" y="358" type="curve" smooth="yes"/>
+			<point x="808" y="572"/>
+			<point x="648" y="731"/>
+			<point x="430" y="731" type="curve" smooth="yes"/>
+			<point x="212" y="731"/>
+			<point x="52" y="572"/>
+			<point x="52" y="358" type="curve" smooth="yes"/>
+			<point x="52" y="143"/>
+			<point x="212" y="-16"/>
+		</contour>
+		<contour>
+			<point x="430" y="85" type="curve" smooth="yes"/>
+			<point x="275" y="85"/>
+			<point x="169" y="197"/>
+			<point x="169" y="358" type="curve" smooth="yes"/>
+			<point x="169" y="518"/>
+			<point x="275" y="630"/>
+			<point x="430" y="630" type="curve" smooth="yes"/>
+			<point x="584" y="630"/>
+			<point x="691" y="518"/>
+			<point x="691" y="358" type="curve" smooth="yes"/>
+			<point x="691" y="197"/>
+			<point x="584" y="85"/>
+		</contour>
+		<contour>
+			<point x="117" y="319" type="line"/>
+			<point x="743" y="319" type="line"/>
+			<point x="743" y="418" type="line"/>
+			<point x="117" y="418" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top.UC" x="430" y="750"/>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="one.dnom" format="1">
-  <advance width="357"/>
-  <outline>
-    <contour>
-      <point x="184" y="411" type="line"/>
-      <point x="69" y="334" type="line"/>
-      <point x="69" y="246" type="line"/>
-      <point x="166" y="316" type="line"/>
-      <point x="166" y="0" type="line"/>
-      <point x="260" y="0" type="line"/>
-      <point x="260" y="411" type="line"/>
-    </contour>
-  </outline>
+<glyph name="one.dnom" format="2">
+	<advance width="357"/>
+	<outline>
+		<contour>
+			<point x="184" y="411" type="line"/>
+			<point x="69" y="334" type="line"/>
+			<point x="69" y="246" type="line"/>
+			<point x="166" y="316" type="line"/>
+			<point x="166" y="0" type="line"/>
+			<point x="260" y="0" type="line"/>
+			<point x="260" y="411" type="line"/>
+		</contour>
+	</outline>
 </glyph>

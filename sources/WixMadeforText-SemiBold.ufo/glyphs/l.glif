@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="l" format="1">
-  <advance width="266"/>
-  <unicode hex="006C"/>
-  <outline>
-    <contour>
-      <point x="191" y="0" type="line"/>
-      <point x="191" y="720" type="line"/>
-      <point x="75" y="720" type="line"/>
-      <point x="75" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="133" y="-50" type="move" name="bottom.LC"/>
-    </contour>
-    <contour>
-      <point x="133" y="766" type="move" name="top.LC"/>
-    </contour>
-    <contour>
-      <point x="305" y="540" type="move" name="top_right"/>
-    </contour>
-  </outline>
+<glyph name="l" format="2">
+	<unicode hex="006C"/>
+	<advance width="266"/>
+	<outline>
+		<contour>
+			<point x="191" y="0" type="line"/>
+			<point x="191" y="720" type="line"/>
+			<point x="75" y="720" type="line"/>
+			<point x="75" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom.LC" x="133" y="-50"/>
+	<anchor name="top.LC" x="133" y="766"/>
+	<anchor name="top_right" x="305" y="540"/>
 </glyph>

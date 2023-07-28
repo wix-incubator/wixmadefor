@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gcommabelow" format="1">
-  <advance width="783"/>
-  <unicode hex="0122"/>
-  <outline>
-    <component base="G"/>
-    <component base="commabelowcomb.cap" xOffset="405"/>
-  </outline>
+<glyph name="Gcommabelow" format="2">
+	<unicode hex="0122"/>
+	<advance width="783"/>
+	<outline>
+		<component base="G"/>
+		<component base="commabelowcomb.cap" xOffset="405"/>
+	</outline>
 </glyph>

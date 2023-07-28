@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ohorngrave" format="1">
-  <advance width="623"/>
-  <unicode hex="1EDD"/>
-  <outline>
-    <component base="ohorn"/>
-    <component base="gravecomb" xOffset="306"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsRight</key>
-      <string>ohorn</string>
-    </dict>
-  </lib>
+<glyph name="ohorngrave" format="2">
+	<unicode hex="1EDD"/>
+	<advance width="623"/>
+	<outline>
+		<component base="ohorn"/>
+		<component base="gravecomb" xOffset="306"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>ohorn</string>
+		</dict>
+	</lib>
 </glyph>

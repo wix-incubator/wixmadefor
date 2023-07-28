@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ncommabelow" format="1">
-  <advance width="589"/>
-  <unicode hex="0146"/>
-  <outline>
-    <component base="n"/>
-    <component base="commabelowcomb" xOffset="298"/>
-  </outline>
+<glyph name="ncommabelow" format="2">
+	<unicode hex="0146"/>
+	<advance width="589"/>
+	<outline>
+		<component base="n"/>
+		<component base="commabelowcomb" xOffset="298"/>
+	</outline>
 </glyph>

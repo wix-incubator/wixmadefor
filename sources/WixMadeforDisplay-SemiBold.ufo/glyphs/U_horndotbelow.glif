@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Uhorndotbelow" format="1">
-  <advance width="781"/>
-  <unicode hex="1EF0"/>
-  <outline>
-    <component base="Uhorn"/>
-    <component base="dotbelowcomb.cap" xOffset="368"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>Uhorn</string>
-    </dict>
-  </lib>
+<glyph name="Uhorndotbelow" format="2">
+	<unicode hex="1EF0"/>
+	<advance width="781"/>
+	<outline>
+		<component base="Uhorn"/>
+		<component base="dotbelowcomb.cap" xOffset="368"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>Uhorn</string>
+		</dict>
+	</lib>
 </glyph>

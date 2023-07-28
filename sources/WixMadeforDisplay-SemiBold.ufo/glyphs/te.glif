@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="te" format="1">
-  <advance width="507"/>
-  <unicode hex="0442"/>
-  <outline>
-    <contour>
-      <point x="198" y="0" type="line"/>
-      <point x="310" y="0" type="line"/>
-      <point x="310" y="462" type="line"/>
-      <point x="198" y="462" type="line"/>
-    </contour>
-    <contour>
-      <point x="23" y="408" type="line"/>
-      <point x="484" y="408" type="line"/>
-      <point x="484" y="499" type="line"/>
-      <point x="23" y="499" type="line"/>
-    </contour>
-  </outline>
+<glyph name="te" format="2">
+	<unicode hex="0442"/>
+	<advance width="507"/>
+	<outline>
+		<contour>
+			<point x="198" y="0" type="line"/>
+			<point x="310" y="0" type="line"/>
+			<point x="310" y="462" type="line"/>
+			<point x="198" y="462" type="line"/>
+		</contour>
+		<contour>
+			<point x="23" y="408" type="line"/>
+			<point x="484" y="408" type="line"/>
+			<point x="484" y="499" type="line"/>
+			<point x="23" y="499" type="line"/>
+		</contour>
+	</outline>
 </glyph>

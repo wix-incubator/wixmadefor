@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Abreveacute" format="1">
-  <advance width="733"/>
-  <unicode hex="1EAE"/>
-  <outline>
-    <component base="A"/>
-    <component base="breveacutecomb.cap" xOffset="366"/>
-  </outline>
+<glyph name="Abreveacute" format="2">
+	<unicode hex="1EAE"/>
+	<advance width="733"/>
+	<outline>
+		<component base="A"/>
+		<component base="breveacutecomb.cap" xOffset="366"/>
+	</outline>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grave" format="1">
-  <advance width="589"/>
-  <unicode hex="0060"/>
-  <outline>
-    <component base="gravecomb" xOffset="343"/>
-  </outline>
+<glyph name="grave" format="2">
+	<unicode hex="0060"/>
+	<advance width="589"/>
+	<outline>
+		<component base="gravecomb" xOffset="343"/>
+	</outline>
 </glyph>

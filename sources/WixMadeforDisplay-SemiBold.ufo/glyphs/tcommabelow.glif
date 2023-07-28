@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tcommabelow" format="1">
-  <advance width="410"/>
-  <unicode hex="021B"/>
-  <outline>
-    <component base="t"/>
-    <component base="commabelowcomb" xOffset="262"/>
-  </outline>
+<glyph name="tcommabelow" format="2">
+	<unicode hex="021B"/>
+	<advance width="410"/>
+	<outline>
+		<component base="t"/>
+		<component base="commabelowcomb" xOffset="262"/>
+	</outline>
 </glyph>

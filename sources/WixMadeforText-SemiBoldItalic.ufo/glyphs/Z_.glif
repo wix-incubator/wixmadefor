@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Z" format="1">
-  <advance width="595"/>
-  <unicode hex="005A"/>
-  <outline>
-    <contour>
-      <point x="-10" y="0" type="line"/>
-      <point x="496" y="0" type="line"/>
-      <point x="517" y="103" type="line"/>
-      <point x="158" y="103" type="line"/>
-      <point x="613" y="612" type="line"/>
-      <point x="635" y="715" type="line"/>
-      <point x="146" y="715" type="line"/>
-      <point x="123" y="612" type="line"/>
-      <point x="468" y="612" type="line"/>
-      <point x="13" y="103" type="line"/>
-    </contour>
-    <contour>
-      <point x="391" y="750" type="move" name="top.UC"/>
-    </contour>
-  </outline>
+<glyph name="Z" format="2">
+	<unicode hex="005A"/>
+	<advance width="595"/>
+	<outline>
+		<contour>
+			<point x="-10" y="0" type="line"/>
+			<point x="496" y="0" type="line"/>
+			<point x="517" y="103" type="line"/>
+			<point x="158" y="103" type="line"/>
+			<point x="613" y="612" type="line"/>
+			<point x="635" y="715" type="line"/>
+			<point x="146" y="715" type="line"/>
+			<point x="123" y="612" type="line"/>
+			<point x="468" y="612" type="line"/>
+			<point x="13" y="103" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top.UC" x="391" y="750"/>
 </glyph>

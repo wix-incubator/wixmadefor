@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Sha" format="1">
-  <advance width="1079"/>
-  <unicode hex="0428"/>
-  <outline>
-    <contour>
-      <point x="94" y="0" type="line"/>
-      <point x="986" y="0" type="line"/>
-      <point x="986" y="715" type="line"/>
-      <point x="867" y="715" type="line"/>
-      <point x="867" y="59" type="line"/>
-      <point x="904" y="103" type="line"/>
-      <point x="550" y="103" type="line"/>
-      <point x="599" y="59" type="line"/>
-      <point x="599" y="715" type="line"/>
-      <point x="480" y="715" type="line"/>
-      <point x="480" y="59" type="line"/>
-      <point x="530" y="103" type="line"/>
-      <point x="176" y="103" type="line"/>
-      <point x="213" y="59" type="line"/>
-      <point x="213" y="715" type="line"/>
-      <point x="94" y="715" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>En</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>En</string>
-    </dict>
-  </lib>
+<glyph name="Sha" format="2">
+	<unicode hex="0428"/>
+	<advance width="1079"/>
+	<outline>
+		<contour>
+			<point x="94" y="0" type="line"/>
+			<point x="986" y="0" type="line"/>
+			<point x="986" y="715" type="line"/>
+			<point x="867" y="715" type="line"/>
+			<point x="867" y="59" type="line"/>
+			<point x="904" y="103" type="line"/>
+			<point x="550" y="103" type="line"/>
+			<point x="599" y="59" type="line"/>
+			<point x="599" y="715" type="line"/>
+			<point x="480" y="715" type="line"/>
+			<point x="480" y="59" type="line"/>
+			<point x="530" y="103" type="line"/>
+			<point x="176" y="103" type="line"/>
+			<point x="213" y="59" type="line"/>
+			<point x="213" y="715" type="line"/>
+			<point x="94" y="715" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>En</string>
+		</dict>
+	</lib>
 </glyph>

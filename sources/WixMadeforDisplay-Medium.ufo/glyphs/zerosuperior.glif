@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zerosuperior" format="1">
-  <advance width="438"/>
-  <unicode hex="2070"/>
-  <outline>
-    <component base="zero.dnom" yOffset="404"/>
-  </outline>
+<glyph name="zerosuperior" format="2">
+	<unicode hex="2070"/>
+	<advance width="438"/>
+	<outline>
+		<component base="zero.dnom" yOffset="404"/>
+	</outline>
 </glyph>

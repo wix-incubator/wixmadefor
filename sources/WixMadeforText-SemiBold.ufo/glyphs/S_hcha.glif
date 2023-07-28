@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Shcha" format="1">
-  <advance width="1114"/>
-  <unicode hex="0429"/>
-  <outline>
-    <contour>
-      <point x="599" y="56" type="line"/>
-      <point x="599" y="715" type="line"/>
-      <point x="480" y="715" type="line"/>
-      <point x="480" y="56" type="line"/>
-    </contour>
-    <contour>
-      <point x="986" y="59" type="line"/>
-      <point x="986" y="715" type="line"/>
-      <point x="867" y="715" type="line"/>
-      <point x="867" y="59" type="line"/>
-    </contour>
-    <contour>
-      <point x="950" y="-174" type="line"/>
-      <point x="1063" y="-174" type="line"/>
-      <point x="1063" y="103" type="line"/>
-      <point x="188" y="103" type="line"/>
-      <point x="213" y="78" type="line"/>
-      <point x="213" y="715" type="line"/>
-      <point x="94" y="715" type="line"/>
-      <point x="94" y="0" type="line"/>
-      <point x="975" y="0" type="line"/>
-      <point x="950" y="25" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>En</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>De</string>
-    </dict>
-  </lib>
+<glyph name="Shcha" format="2">
+	<unicode hex="0429"/>
+	<advance width="1114"/>
+	<outline>
+		<contour>
+			<point x="599" y="56" type="line"/>
+			<point x="599" y="715" type="line"/>
+			<point x="480" y="715" type="line"/>
+			<point x="480" y="56" type="line"/>
+		</contour>
+		<contour>
+			<point x="986" y="59" type="line"/>
+			<point x="986" y="715" type="line"/>
+			<point x="867" y="715" type="line"/>
+			<point x="867" y="59" type="line"/>
+		</contour>
+		<contour>
+			<point x="950" y="-174" type="line"/>
+			<point x="1063" y="-174" type="line"/>
+			<point x="1063" y="103" type="line"/>
+			<point x="188" y="103" type="line"/>
+			<point x="213" y="78" type="line"/>
+			<point x="213" y="715" type="line"/>
+			<point x="94" y="715" type="line"/>
+			<point x="94" y="0" type="line"/>
+			<point x="975" y="0" type="line"/>
+			<point x="950" y="25" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>De</string>
+		</dict>
+	</lib>
 </glyph>

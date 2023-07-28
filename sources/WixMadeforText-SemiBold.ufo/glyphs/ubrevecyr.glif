@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ubrevecyr" format="1">
-  <advance width="568"/>
-  <unicode hex="045E"/>
-  <outline>
-    <component base="y"/>
-    <component base="brevecomb.cyrl" xOffset="286"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>ucyr</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>ucyr</string>
-    </dict>
-  </lib>
+<glyph name="ubrevecyr" format="2">
+	<unicode hex="045E"/>
+	<advance width="568"/>
+	<outline>
+		<component base="y"/>
+		<component base="brevecomb.cyrl" xOffset="286"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>ucyr</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>ucyr</string>
+		</dict>
+	</lib>
 </glyph>

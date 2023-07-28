@@ -612,6 +612,8 @@
 		<string>che.glif</string>
 		<key>che.loclBGR</key>
 		<string>che.loclB_G_R_.glif</string>
+		<key>checkmark</key>
+		<string>checkmark.glif</string>
 		<key>circumflex</key>
 		<string>circumflex.glif</string>
 		<key>circumflexacutecomb</key>
@@ -1188,6 +1190,10 @@
 		<string>rcaron.glif</string>
 		<key>registered</key>
 		<string>registered.glif</string>
+		<key>rightTipDownArrow</key>
+		<string>rightT_ipD_ownA_rrow.glif</string>
+		<key>rightTipUpArrow</key>
+		<string>rightT_ipU_pA_rrow.glif</string>
 		<key>ring</key>
 		<string>ring.glif</string>
 		<key>ringcomb</key>
@@ -1360,6 +1366,10 @@
 		<string>underscore.glif</string>
 		<key>uogonek</key>
 		<string>uogonek.glif</string>
+		<key>upTipLeftArrow</key>
+		<string>upT_ipL_eftA_rrow.glif</string>
+		<key>upTipRightArrow</key>
+		<string>upT_ipR_ightA_rrow.glif</string>
 		<key>uring</key>
 		<string>uring.glif</string>
 		<key>utilde</key>

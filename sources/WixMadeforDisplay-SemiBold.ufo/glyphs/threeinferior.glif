@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="threeinferior" format="1">
-  <advance width="402"/>
-  <unicode hex="2083"/>
-  <outline>
-    <component base="three.dnom" yOffset="-100"/>
-  </outline>
+<glyph name="threeinferior" format="2">
+	<unicode hex="2083"/>
+	<advance width="402"/>
+	<outline>
+		<component base="three.dnom" yOffset="-100"/>
+	</outline>
 </glyph>

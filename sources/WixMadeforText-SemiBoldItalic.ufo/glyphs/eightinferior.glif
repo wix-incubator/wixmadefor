@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eightinferior" format="1">
-  <advance width="388"/>
-  <unicode hex="2088"/>
-  <outline>
-    <component base="eight.dnom" xOffset="-21" yOffset="-100"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.12,1,0,0.35</string>
-    </dict>
-  </lib>
+<glyph name="eightinferior" format="2">
+	<unicode hex="2088"/>
+	<advance width="388"/>
+	<outline>
+		<component base="eight.dnom" xOffset="-21" yOffset="-100"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.12,1,0,0.35</string>
+		</dict>
+	</lib>
 </glyph>

@@ -7,7 +7,7 @@
 		<key>capHeight</key>
 		<integer>715</integer>
 		<key>copyright</key>
-		<string>Copyright 2021 The Wix Madefor Project Authors (https://github.com/wix/wixmadefor/)</string>
+		<string>Copyright 2021, 2023 The Wix Madefor Project Authors (https://github.com/wix/wixmadefor/)</string>
 		<key>descender</key>
 		<integer>-194</integer>
 		<key>familyName</key>
@@ -132,6 +132,7 @@
 			<integer>0</integer>
 			<integer>1</integer>
 			<integer>4</integer>
+			<integer>7</integer>
 		</array>
 		<key>openTypeOS2FamilyClass</key>
 		<array>
@@ -200,6 +201,7 @@
 			<integer>37</integer>
 			<integer>38</integer>
 			<integer>45</integer>
+			<integer>47</integer>
 			<integer>67</integer>
 		</array>
 		<key>openTypeOS2VendorID</key>
@@ -227,9 +229,9 @@
 		<key>unitsPerEm</key>
 		<integer>1000</integer>
 		<key>versionMajor</key>
-		<integer>3</integer>
+		<integer>1</integer>
 		<key>versionMinor</key>
-		<integer>0</integer>
+		<integer>300</integer>
 		<key>xHeight</key>
 		<integer>492</integer>
 	</dict>

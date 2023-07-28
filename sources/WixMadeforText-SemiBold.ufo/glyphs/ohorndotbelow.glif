@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ohorndotbelow" format="1">
-  <advance width="623"/>
-  <unicode hex="1EE3"/>
-  <outline>
-    <component base="ohorn"/>
-    <component base="dotbelowcomb" xOffset="306"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsRight</key>
-      <string>ohorn</string>
-    </dict>
-  </lib>
+<glyph name="ohorndotbelow" format="2">
+	<unicode hex="1EE3"/>
+	<advance width="623"/>
+	<outline>
+		<component base="ohorn"/>
+		<component base="dotbelowcomb" xOffset="306"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>ohorn</string>
+		</dict>
+	</lib>
 </glyph>

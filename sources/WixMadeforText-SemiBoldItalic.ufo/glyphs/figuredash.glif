@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="figuredash" format="1">
-  <advance width="500"/>
-  <unicode hex="2012"/>
-  <outline>
-    <component base="endash" xOffset="17" yOffset="82"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.12,1,0,0.35</string>
-    </dict>
-  </lib>
+<glyph name="figuredash" format="2">
+	<unicode hex="2012"/>
+	<advance width="500"/>
+	<outline>
+		<component base="endash" xOffset="17" yOffset="82"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.12,1,0,0.35</string>
+		</dict>
+	</lib>
 </glyph>
