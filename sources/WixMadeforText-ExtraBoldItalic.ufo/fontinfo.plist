@@ -7,7 +7,7 @@
 		<key>capHeight</key>
 		<integer>715</integer>
 		<key>copyright</key>
-		<string>Copyright 2021, 2023 The Wix Madefor Project Authors (https://github.com/wix/wixmadefor/)</string>
+		<string>Copyright 2021 The Wix Madefor Project Authors (https://github.com/wix/wixmadefor/)</string>
 		<key>descender</key>
 		<integer>-194</integer>
 		<key>familyName</key>
@@ -229,9 +229,9 @@
 		<key>unitsPerEm</key>
 		<integer>1000</integer>
 		<key>versionMajor</key>
-		<integer>1</integer>
+		<integer>3</integer>
 		<key>versionMinor</key>
-		<integer>300</integer>
+		<integer>100</integer>
 		<key>xHeight</key>
 		<integer>510</integer>
 	</dict>
