@@ -18,7 +18,7 @@ build: build.stamp
 
 venv: venv/touchfile
 
-build.stamp: venv sources/config.yaml sources/config_text.yaml sources/config_display.yaml $(SOURCES)
+build.stamp: venv sources/config.yaml sources/config_text.yaml sources/config_display.yaml $(SOURCES) generate-ttx-hinting.stamp
 	. venv/bin/activate; rm -rf fonts/; \
 	gftools builder sources/config.yaml; \
 	gftools builder sources/config_text.yaml; \
@@ -57,3 +57,11 @@ update-ufr:
 
 update:
 	pip install --upgrade $(dependency); pip freeze > requirements.txt
+
+# Added to Wix project to generate hinting source files
+generate-ttx-hinting: generate-ttx-hinting.stamp
+
+generate-ttx-hinting.stamp: venv
+	. venv/bin/activate; for source in sources/*.ufo; do \
+		python3 scripts/extract-vtt-data.py $$source ; \
+	done && touch generate-ttx-hinting.stamp

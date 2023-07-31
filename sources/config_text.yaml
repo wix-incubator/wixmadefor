@@ -21,21 +21,21 @@ outputDir:
   '../fonts/Text'
 vttSources:
   WixMadeforText-Bold.ttf:
-    vtt_data/WixMadeforText-Bold.ttx
+    WixMadeforText-Bold_VTT_Hinting.ttx
   WixMadeforText-BoldItalic.ttf:
-    vtt_data/WixMadeforText-BoldItalic.ttx
+    WixMadeforText-BoldItalic_VTT_Hinting.ttx
   WixMadeforText-Italic.ttf:
-    vtt_data/WixMadeforText-Italic.ttx
+    WixMadeforText-Italic_VTT_Hinting.ttx
   WixMadeforText-Medium.ttf:
-    vtt_data/WixMadeforText-Medium.ttx
+    WixMadeforText-Medium_VTT_Hinting.ttx
   WixMadeforText-MediumItalic.ttf:
-    vtt_data/WixMadeforText-MediumItalic.ttx
+    WixMadeforText-MediumItalic_VTT_Hinting.ttx
   WixMadeforText-Regular.ttf:
-    vtt_data/WixMadeforText-Regular.ttx
+    WixMadeforText-Regular_VTT_Hinting.ttx
   WixMadeforText-ExtraBold.ttf:
-    vtt_data/WixMadeforText-ExtraBold.ttx
+    WixMadeforText-ExtraBold_VTT_Hinting.ttx
   WixMadeforText-ExtraBoldItalic.ttf:
-    vtt_data/WixMadeforText-ExtraBoldItalic.ttx
+    WixMadeforText-ExtraBoldItalic_VTT_Hinting.ttx
 googleFonts:
   true
 category:

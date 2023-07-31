@@ -16,11 +16,11 @@ outputDir:
   '../fonts/Display'
 vttSources:
   WixMadeforDisplay-Bold.ttf:
-    vtt_data/WixMadeforDisplay-Bold.ttx
+    WixMadeforDisplay-Bold_VTT_Hinting.ttx
   WixMadeforDisplay-Regular.ttf:
-    vtt_data/WixMadeforDisplay-Regular.ttx
+    WixMadeforDisplay-Regular_VTT_Hinting.ttx
   WixMadeforDisplay-ExtraBold.ttf:
-    vtt_data/WixMadeforDisplay-ExtraBold.ttx
+    WixMadeforDisplay-ExtraBold_VTT_Hinting.ttx
 googleFonts:
   true
 category:
