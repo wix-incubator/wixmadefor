@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gheup" format="1">
-  <advance width="459"/>
-  <unicode hex="0491"/>
-  <outline>
-    <contour>
-      <point x="76" y="0" type="line"/>
-      <point x="169" y="0" type="line"/>
-      <point x="169" y="480" type="line"/>
-      <point x="110" y="418" type="line"/>
-      <point x="430" y="418" type="line"/>
-      <point x="430" y="618" type="line"/>
-      <point x="343" y="618" type="line"/>
-      <point x="343" y="456" type="line"/>
-      <point x="382" y="496" type="line"/>
-      <point x="76" y="496" type="line"/>
-    </contour>
-  </outline>
+<glyph name="gheup" format="2">
+	<unicode hex="0491"/>
+	<advance width="459"/>
+	<outline>
+		<contour>
+			<point x="76" y="0" type="line"/>
+			<point x="169" y="0" type="line"/>
+			<point x="169" y="480" type="line"/>
+			<point x="110" y="418" type="line"/>
+			<point x="430" y="418" type="line"/>
+			<point x="430" y="618" type="line"/>
+			<point x="343" y="618" type="line"/>
+			<point x="343" y="456" type="line"/>
+			<point x="382" y="496" type="line"/>
+			<point x="76" y="496" type="line"/>
+		</contour>
+	</outline>
 </glyph>

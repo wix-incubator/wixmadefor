@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gheup" format="1">
-  <advance width="442"/>
-  <unicode hex="0491"/>
-  <outline>
-    <contour>
-      <point x="75" y="0" type="line"/>
-      <point x="191" y="0" type="line"/>
-      <point x="191" y="483" type="line"/>
-      <point x="110" y="405" type="line"/>
-      <point x="422" y="405" type="line"/>
-      <point x="422" y="627" type="line"/>
-      <point x="313" y="627" type="line"/>
-      <point x="313" y="457" type="line"/>
-      <point x="353" y="500" type="line"/>
-      <point x="75" y="500" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>en</string>
-    </dict>
-  </lib>
+<glyph name="gheup" format="2">
+	<unicode hex="0491"/>
+	<advance width="442"/>
+	<outline>
+		<contour>
+			<point x="75" y="0" type="line"/>
+			<point x="191" y="0" type="line"/>
+			<point x="191" y="483" type="line"/>
+			<point x="110" y="405" type="line"/>
+			<point x="422" y="405" type="line"/>
+			<point x="422" y="627" type="line"/>
+			<point x="313" y="627" type="line"/>
+			<point x="313" y="457" type="line"/>
+			<point x="353" y="500" type="line"/>
+			<point x="75" y="500" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>en</string>
+		</dict>
+	</lib>
 </glyph>

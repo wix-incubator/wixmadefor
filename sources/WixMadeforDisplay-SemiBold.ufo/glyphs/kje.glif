@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kje" format="1">
-  <advance width="570"/>
-  <unicode hex="045C"/>
-  <outline>
-    <component base="ka"/>
-    <component base="acutecomb" xOffset="297"/>
-  </outline>
+<glyph name="kje" format="2">
+	<unicode hex="045C"/>
+	<advance width="570"/>
+	<outline>
+		<component base="ka"/>
+		<component base="acutecomb" xOffset="297"/>
+	</outline>
 </glyph>

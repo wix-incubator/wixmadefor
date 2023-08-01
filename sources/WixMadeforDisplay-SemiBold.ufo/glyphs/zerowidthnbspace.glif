@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zerowidthnbspace" format="1">
-  <advance width="0"/>
-  <unicode hex="FEFF"/>
-  <outline>
-  </outline>
+<glyph name="zerowidthnbspace" format="2">
+	<unicode hex="FEFF"/>
 </glyph>

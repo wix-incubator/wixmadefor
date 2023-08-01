@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Er" format="1">
-  <advance width="649"/>
-  <unicode hex="0420"/>
-  <outline>
-    <component base="P"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>En</string>
-    </dict>
-  </lib>
+<glyph name="Er" format="2">
+	<unicode hex="0420"/>
+	<advance width="649"/>
+	<outline>
+		<component base="P"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yi" format="1">
-  <advance width="266"/>
-  <unicode hex="0457"/>
-  <outline>
-    <component base="dotlessi"/>
-    <component base="dieresiscomb.narrow" xOffset="133"/>
-  </outline>
+<glyph name="yi" format="2">
+	<unicode hex="0457"/>
+	<advance width="266"/>
+	<outline>
+		<component base="dotlessi"/>
+		<component base="dieresiscomb.narrow" xOffset="133"/>
+	</outline>
 </glyph>

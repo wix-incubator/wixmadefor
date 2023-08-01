@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Edotbelow" format="1">
-  <advance width="613"/>
-  <unicode hex="1EB8"/>
-  <outline>
-    <component base="E"/>
-    <component base="dotbelowcomb.cap" xOffset="322"/>
-  </outline>
+<glyph name="Edotbelow" format="2">
+	<unicode hex="1EB8"/>
+	<advance width="613"/>
+	<outline>
+		<component base="E"/>
+		<component base="dotbelowcomb.cap" xOffset="322"/>
+	</outline>
 </glyph>

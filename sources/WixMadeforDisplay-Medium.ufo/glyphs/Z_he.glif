@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Zhe" format="1">
-  <advance width="1028"/>
-  <unicode hex="0416"/>
-  <outline>
-    <contour>
-      <point x="886" y="0" type="line"/>
-      <point x="1012" y="0" type="line"/>
-      <point x="667" y="370" type="line"/>
-      <point x="991" y="715" type="line"/>
-      <point x="872" y="715" type="line"/>
-      <point x="552" y="371" type="line"/>
-      <point x="538" y="371" type="line"/>
-    </contour>
-    <contour>
-      <point x="16" y="0" type="line"/>
-      <point x="142" y="0" type="line"/>
-      <point x="490" y="371" type="line"/>
-      <point x="476" y="371" type="line"/>
-      <point x="156" y="715" type="line"/>
-      <point x="37" y="715" type="line"/>
-      <point x="361" y="370" type="line"/>
-    </contour>
-    <contour>
-      <point x="466" y="0" type="line"/>
-      <point x="562" y="0" type="line"/>
-      <point x="562" y="715" type="line"/>
-      <point x="466" y="715" type="line"/>
-    </contour>
-  </outline>
+<glyph name="Zhe" format="2">
+	<unicode hex="0416"/>
+	<advance width="1028"/>
+	<outline>
+		<contour>
+			<point x="886" y="0" type="line"/>
+			<point x="1012" y="0" type="line"/>
+			<point x="667" y="370" type="line"/>
+			<point x="991" y="715" type="line"/>
+			<point x="872" y="715" type="line"/>
+			<point x="552" y="371" type="line"/>
+			<point x="538" y="371" type="line"/>
+		</contour>
+		<contour>
+			<point x="16" y="0" type="line"/>
+			<point x="142" y="0" type="line"/>
+			<point x="490" y="371" type="line"/>
+			<point x="476" y="371" type="line"/>
+			<point x="156" y="715" type="line"/>
+			<point x="37" y="715" type="line"/>
+			<point x="361" y="370" type="line"/>
+		</contour>
+		<contour>
+			<point x="466" y="0" type="line"/>
+			<point x="562" y="0" type="line"/>
+			<point x="562" y="715" type="line"/>
+			<point x="466" y="715" type="line"/>
+		</contour>
+	</outline>
 </glyph>

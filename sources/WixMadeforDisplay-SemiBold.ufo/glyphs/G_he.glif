@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ghe" format="1">
-  <advance width="564"/>
-  <unicode hex="0413"/>
-  <outline>
-    <contour>
-      <point x="89" y="0" type="line"/>
-      <point x="204" y="0" type="line"/>
-      <point x="204" y="688" type="line"/>
-      <point x="142" y="616" type="line"/>
-      <point x="552" y="616" type="line"/>
-      <point x="552" y="715" type="line"/>
-      <point x="89" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="325" y="750" type="move" name="top.UC"/>
-    </contour>
-  </outline>
+<glyph name="Ghe" format="2">
+	<unicode hex="0413"/>
+	<advance width="564"/>
+	<outline>
+		<contour>
+			<point x="89" y="0" type="line"/>
+			<point x="204" y="0" type="line"/>
+			<point x="204" y="688" type="line"/>
+			<point x="142" y="616" type="line"/>
+			<point x="552" y="616" type="line"/>
+			<point x="552" y="715" type="line"/>
+			<point x="89" y="715" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top.UC" x="325" y="750"/>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nbhyphen.case" format="1">
-  <advance width="335"/>
-  <outline>
-    <component base="hyphen" yOffset="73"/>
-  </outline>
+<glyph name="nbhyphen.case" format="2">
+	<advance width="335"/>
+	<outline>
+		<component base="hyphen" yOffset="73"/>
+	</outline>
 </glyph>

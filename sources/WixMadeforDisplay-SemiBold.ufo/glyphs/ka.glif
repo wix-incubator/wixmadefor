@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ka" format="1">
-  <advance width="570"/>
-  <unicode hex="043A"/>
-  <outline>
-    <contour>
-      <point x="412" y="0" type="line"/>
-      <point x="558" y="0" type="line"/>
-      <point x="261" y="297" type="line"/>
-      <point x="274" y="227" type="line"/>
-      <point x="535" y="499" type="line"/>
-      <point x="397" y="499" type="line"/>
-      <point x="167" y="259" type="line"/>
-      <point x="156" y="259" type="line"/>
-    </contour>
-    <contour>
-      <point x="73" y="0" type="line"/>
-      <point x="185" y="0" type="line"/>
-      <point x="185" y="499" type="line"/>
-      <point x="73" y="499" type="line"/>
-    </contour>
-    <contour>
-      <point x="297" y="544" type="move" name="top.LC"/>
-    </contour>
-  </outline>
+<glyph name="ka" format="2">
+	<unicode hex="043A"/>
+	<advance width="570"/>
+	<outline>
+		<contour>
+			<point x="412" y="0" type="line"/>
+			<point x="558" y="0" type="line"/>
+			<point x="261" y="297" type="line"/>
+			<point x="274" y="227" type="line"/>
+			<point x="535" y="499" type="line"/>
+			<point x="397" y="499" type="line"/>
+			<point x="167" y="259" type="line"/>
+			<point x="156" y="259" type="line"/>
+		</contour>
+		<contour>
+			<point x="73" y="0" type="line"/>
+			<point x="185" y="0" type="line"/>
+			<point x="185" y="499" type="line"/>
+			<point x="73" y="499" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top.LC" x="297" y="544"/>
 </glyph>

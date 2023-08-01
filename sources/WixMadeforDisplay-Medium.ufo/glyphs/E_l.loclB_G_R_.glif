@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="El.loclBGR" format="1">
-  <advance width="739"/>
-  <outline>
-    <contour>
-      <point x="34" y="0" type="line"/>
-      <point x="134" y="0" type="line"/>
-      <point x="368" y="604" type="line"/>
-      <point x="602" y="0" type="line"/>
-      <point x="706" y="0" type="line"/>
-      <point x="422" y="715" type="line"/>
-      <point x="317" y="715" type="line"/>
-    </contour>
-    <contour>
-      <point x="369" y="750" type="move" name="top.UC"/>
-    </contour>
-  </outline>
+<glyph name="El.loclBGR" format="2">
+	<advance width="739"/>
+	<outline>
+		<contour>
+			<point x="34" y="0" type="line"/>
+			<point x="134" y="0" type="line"/>
+			<point x="368" y="604" type="line"/>
+			<point x="602" y="0" type="line"/>
+			<point x="706" y="0" type="line"/>
+			<point x="422" y="715" type="line"/>
+			<point x="317" y="715" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top.UC" x="369" y="750"/>
 </glyph>

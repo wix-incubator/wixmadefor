@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="thirdemspace" format="1">
-  <advance width="333"/>
-  <unicode hex="2004"/>
-  <outline>
-  </outline>
+<glyph name="thirdemspace" format="2">
+	<unicode hex="2004"/>
+	<advance width="333"/>
 </glyph>

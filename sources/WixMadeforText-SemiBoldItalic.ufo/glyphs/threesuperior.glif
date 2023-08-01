@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="threesuperior" format="1">
-  <advance width="371"/>
-  <unicode hex="00B3"/>
-  <outline>
-    <component base="three.dnom" xOffset="84" yOffset="404"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.12,1,0,0.35</string>
-    </dict>
-  </lib>
+<glyph name="threesuperior" format="2">
+	<unicode hex="00B3"/>
+	<advance width="371"/>
+	<outline>
+		<component base="three.dnom" xOffset="84" yOffset="404"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.12,1,0,0.35</string>
+		</dict>
+	</lib>
 </glyph>

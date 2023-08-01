@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotesingle" format="1">
-  <advance width="261"/>
-  <unicode hex="0027"/>
-  <outline>
-    <contour>
-      <point x="152" y="461" type="line"/>
-      <point x="172" y="553"/>
-      <point x="187" y="650"/>
-      <point x="187" y="684" type="curve" smooth="yes"/>
-      <point x="187" y="720"/>
-      <point x="161" y="744"/>
-      <point x="131" y="744" type="curve" smooth="yes"/>
-      <point x="100" y="744"/>
-      <point x="74" y="720"/>
-      <point x="74" y="684" type="curve" smooth="yes"/>
-      <point x="74" y="650"/>
-      <point x="89" y="553"/>
-      <point x="109" y="461" type="curve"/>
-    </contour>
-  </outline>
+<glyph name="quotesingle" format="2">
+	<unicode hex="0027"/>
+	<advance width="261"/>
+	<outline>
+		<contour>
+			<point x="152" y="461" type="line"/>
+			<point x="172" y="553"/>
+			<point x="187" y="650"/>
+			<point x="187" y="684" type="curve" smooth="yes"/>
+			<point x="187" y="720"/>
+			<point x="161" y="744"/>
+			<point x="131" y="744" type="curve" smooth="yes"/>
+			<point x="100" y="744"/>
+			<point x="74" y="720"/>
+			<point x="74" y="684" type="curve" smooth="yes"/>
+			<point x="74" y="650"/>
+			<point x="89" y="553"/>
+			<point x="109" y="461" type="curve"/>
+		</contour>
+	</outline>
 </glyph>

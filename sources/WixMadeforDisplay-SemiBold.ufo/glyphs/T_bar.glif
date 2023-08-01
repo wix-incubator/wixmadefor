@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Tbar" format="1">
-  <advance width="640"/>
-  <unicode hex="0166"/>
-  <outline>
-    <contour>
-      <point x="377" y="0" type="line"/>
-      <point x="377" y="626" type="line"/>
-      <point x="262" y="626" type="line"/>
-      <point x="262" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="606" y="616" type="line"/>
-      <point x="606" y="715" type="line"/>
-      <point x="34" y="715" type="line"/>
-      <point x="34" y="616" type="line"/>
-    </contour>
-    <contour>
-      <point x="536" y="314" type="line"/>
-      <point x="536" y="412" type="line"/>
-      <point x="104" y="412" type="line"/>
-      <point x="104" y="314" type="line"/>
-    </contour>
-  </outline>
+<glyph name="Tbar" format="2">
+	<unicode hex="0166"/>
+	<advance width="640"/>
+	<outline>
+		<contour>
+			<point x="377" y="0" type="line"/>
+			<point x="377" y="626" type="line"/>
+			<point x="262" y="626" type="line"/>
+			<point x="262" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="606" y="616" type="line"/>
+			<point x="606" y="715" type="line"/>
+			<point x="34" y="715" type="line"/>
+			<point x="34" y="616" type="line"/>
+		</contour>
+		<contour>
+			<point x="536" y="314" type="line"/>
+			<point x="536" y="412" type="line"/>
+			<point x="104" y="412" type="line"/>
+			<point x="104" y="314" type="line"/>
+		</contour>
+	</outline>
 </glyph>

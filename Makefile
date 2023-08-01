@@ -18,7 +18,7 @@ build: build.stamp
 
 venv: venv/touchfile
 
-build.stamp: venv .init.stamp sources/config.yaml sources/config_text.yaml sources/config_display.yaml $(SOURCES) generate-ttx-hinting.stamp
+build.stamp: venv sources/config.yaml sources/config_text.yaml sources/config_display.yaml $(SOURCES) generate-ttx-hinting.stamp
 	. venv/bin/activate; rm -rf fonts/; \
 	gftools builder sources/config.yaml; \
 	gftools builder sources/config_text.yaml; \
@@ -30,11 +30,9 @@ build.stamp: venv .init.stamp sources/config.yaml sources/config_text.yaml sourc
 	gftools fix-unwanted-tables -t TSI0,TSI1,TSI2,TSI3,TSI5 fonts/variable/*.ttf fonts/otf/*.otf; \
 	rm -rf fonts/Text; rm -rf fonts/Display && touch build.stamp
 
-.init.stamp: venv
-	. venv/bin/activate; python3 scripts/first-run.py
-
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv
+	. venv/bin/activate; pip install -U setuptools wheel
 	. venv/bin/activate; pip install -Ur requirements.txt
 	touch venv/touchfile
 

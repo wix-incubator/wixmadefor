@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uhorntilde" format="1">
-  <advance width="656"/>
-  <unicode hex="1EEF"/>
-  <outline>
-    <component base="uhorn"/>
-    <component base="tildecomb" xOffset="293"/>
-  </outline>
+<glyph name="uhorntilde" format="2">
+	<unicode hex="1EEF"/>
+	<advance width="656"/>
+	<outline>
+		<component base="uhorn"/>
+		<component base="tildecomb" xOffset="293"/>
+	</outline>
 </glyph>

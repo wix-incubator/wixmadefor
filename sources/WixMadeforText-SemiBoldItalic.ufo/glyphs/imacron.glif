@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="imacron" format="1">
-  <advance width="255"/>
-  <unicode hex="012B"/>
-  <outline>
-    <component base="dotlessi"/>
-    <component base="macroncomb.narrow" xOffset="193"/>
-  </outline>
+<glyph name="imacron" format="2">
+	<unicode hex="012B"/>
+	<advance width="255"/>
+	<outline>
+		<component base="dotlessi"/>
+		<component base="macroncomb.narrow" xOffset="193"/>
+	</outline>
 </glyph>

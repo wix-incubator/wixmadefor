@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iegrave" format="1">
-  <advance width="620"/>
-  <unicode hex="0400"/>
-  <outline>
-    <component base="E" xOffset="12"/>
-    <component base="gravecomb.cap" xOffset="333"/>
-  </outline>
+<glyph name="Iegrave" format="2">
+	<unicode hex="0400"/>
+	<advance width="620"/>
+	<outline>
+		<component base="E" xOffset="12"/>
+		<component base="gravecomb.cap" xOffset="333"/>
+	</outline>
 </glyph>

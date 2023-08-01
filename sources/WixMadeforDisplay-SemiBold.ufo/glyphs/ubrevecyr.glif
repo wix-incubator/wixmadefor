@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ubrevecyr" format="1">
-  <advance width="572"/>
-  <unicode hex="045E"/>
-  <outline>
-    <component base="y"/>
-    <component base="brevecomb.cyrl" xOffset="287"/>
-  </outline>
+<glyph name="ubrevecyr" format="2">
+	<unicode hex="045E"/>
+	<advance width="572"/>
+	<outline>
+		<component base="y"/>
+		<component base="brevecomb.cyrl" xOffset="287"/>
+	</outline>
 </glyph>

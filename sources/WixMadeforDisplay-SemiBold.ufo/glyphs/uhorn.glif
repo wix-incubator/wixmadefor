@@ -1,55 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uhorn" format="1">
-  <advance width="656"/>
-  <unicode hex="01B0"/>
-  <outline>
-    <contour>
-      <point x="426" y="211" type="line"/>
-      <point x="418" y="132"/>
-      <point x="354" y="78"/>
-      <point x="280" y="78" type="curve" smooth="yes"/>
-      <point x="210" y="78"/>
-      <point x="168" y="120"/>
-      <point x="168" y="201" type="curve" smooth="yes"/>
-      <point x="168" y="499" type="line"/>
-      <point x="56" y="499" type="line"/>
-      <point x="56" y="190" type="line" smooth="yes"/>
-      <point x="56" y="56"/>
-      <point x="132" y="-16"/>
-      <point x="250" y="-16" type="curve" smooth="yes"/>
-      <point x="371" y="-16"/>
-      <point x="454" y="69"/>
-      <point x="449" y="192" type="curve"/>
-    </contour>
-    <contour>
-      <point x="582" y="618" type="line"/>
-      <point x="582" y="574" type="line" smooth="yes"/>
-      <point x="582" y="523"/>
-      <point x="558" y="499"/>
-      <point x="501" y="499" type="curve" smooth="yes"/>
-      <point x="418" y="499" type="line"/>
-      <point x="418" y="124" type="line"/>
-      <point x="419" y="96" type="line"/>
-      <point x="419" y="0" type="line"/>
-      <point x="530" y="0" type="line"/>
-      <point x="530" y="470" type="line"/>
-      <point x="490" y="423" type="line"/>
-      <point x="619" y="423"/>
-      <point x="677" y="472"/>
-      <point x="677" y="579" type="curve" smooth="yes"/>
-      <point x="677" y="618" type="line"/>
-    </contour>
-    <contour>
-      <point x="293" y="-50" type="move" name="bottom.LC"/>
-    </contour>
-    <contour>
-      <point x="293" y="544" type="move" name="top.LC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>u</string>
-    </dict>
-  </lib>
+<glyph name="uhorn" format="2">
+	<unicode hex="01B0"/>
+	<advance width="656"/>
+	<outline>
+		<contour>
+			<point x="426" y="211" type="line"/>
+			<point x="418" y="132"/>
+			<point x="354" y="78"/>
+			<point x="280" y="78" type="curve" smooth="yes"/>
+			<point x="210" y="78"/>
+			<point x="168" y="120"/>
+			<point x="168" y="201" type="curve" smooth="yes"/>
+			<point x="168" y="499" type="line"/>
+			<point x="56" y="499" type="line"/>
+			<point x="56" y="190" type="line" smooth="yes"/>
+			<point x="56" y="56"/>
+			<point x="132" y="-16"/>
+			<point x="250" y="-16" type="curve" smooth="yes"/>
+			<point x="371" y="-16"/>
+			<point x="454" y="69"/>
+			<point x="449" y="192" type="curve"/>
+		</contour>
+		<contour>
+			<point x="582" y="618" type="line"/>
+			<point x="582" y="574" type="line" smooth="yes"/>
+			<point x="582" y="523"/>
+			<point x="558" y="499"/>
+			<point x="501" y="499" type="curve" smooth="yes"/>
+			<point x="418" y="499" type="line"/>
+			<point x="418" y="124" type="line"/>
+			<point x="419" y="96" type="line"/>
+			<point x="419" y="0" type="line"/>
+			<point x="530" y="0" type="line"/>
+			<point x="530" y="470" type="line"/>
+			<point x="490" y="423" type="line"/>
+			<point x="619" y="423"/>
+			<point x="677" y="472"/>
+			<point x="677" y="579" type="curve" smooth="yes"/>
+			<point x="677" y="618" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom.LC" x="293" y="-50"/>
+	<anchor name="top.LC" x="293" y="544"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>u</string>
+		</dict>
+	</lib>
 </glyph>

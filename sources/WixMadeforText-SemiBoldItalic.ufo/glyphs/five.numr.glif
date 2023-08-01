@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="five.numr" format="1">
-  <advance width="368"/>
-  <outline>
-    <component base="five.dnom" xOffset="63" yOffset="304"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.12,1,0,0.35</string>
-    </dict>
-  </lib>
+<glyph name="five.numr" format="2">
+	<advance width="368"/>
+	<outline>
+		<component base="five.dnom" xOffset="63" yOffset="304"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.12,1,0,0.35</string>
+		</dict>
+	</lib>
 </glyph>

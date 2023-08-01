@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Igravecyr" format="1">
-  <advance width="757"/>
-  <unicode hex="040D"/>
-  <outline>
-    <component base="Icyr"/>
-    <component base="gravecomb.cap" xOffset="382"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>En</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>En</string>
-    </dict>
-  </lib>
+<glyph name="Igravecyr" format="2">
+	<unicode hex="040D"/>
+	<advance width="757"/>
+	<outline>
+		<component base="Icyr"/>
+		<component base="gravecomb.cap" xOffset="382"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>En</string>
+		</dict>
+	</lib>
 </glyph>

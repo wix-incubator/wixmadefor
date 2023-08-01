@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Pe" format="1">
-  <advance width="750"/>
-  <unicode hex="041F"/>
-  <outline>
-    <contour>
-      <point x="94" y="0" type="line"/>
-      <point x="213" y="0" type="line"/>
-      <point x="213" y="695" type="line"/>
-      <point x="146" y="611" type="line"/>
-      <point x="600" y="611" type="line"/>
-      <point x="538" y="695" type="line"/>
-      <point x="538" y="0" type="line"/>
-      <point x="657" y="0" type="line"/>
-      <point x="657" y="715" type="line"/>
-      <point x="94" y="715" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>En</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>En</string>
-    </dict>
-  </lib>
+<glyph name="Pe" format="2">
+	<unicode hex="041F"/>
+	<advance width="750"/>
+	<outline>
+		<contour>
+			<point x="94" y="0" type="line"/>
+			<point x="213" y="0" type="line"/>
+			<point x="213" y="695" type="line"/>
+			<point x="146" y="611" type="line"/>
+			<point x="600" y="611" type="line"/>
+			<point x="538" y="695" type="line"/>
+			<point x="538" y="0" type="line"/>
+			<point x="657" y="0" type="line"/>
+			<point x="657" y="715" type="line"/>
+			<point x="94" y="715" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>En</string>
+		</dict>
+	</lib>
 </glyph>

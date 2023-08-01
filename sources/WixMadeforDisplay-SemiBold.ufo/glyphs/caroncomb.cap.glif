@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caroncomb.cap" format="1">
-  <advance width="0"/>
-  <outline>
-    <contour>
-      <point x="-190" y="943" type="line"/>
-      <point x="-57" y="799" type="line"/>
-      <point x="57" y="799" type="line"/>
-      <point x="190" y="943" type="line"/>
-      <point x="83" y="943" type="line"/>
-      <point x="-50" y="815" type="line"/>
-      <point x="52" y="815" type="line"/>
-      <point x="-82" y="943" type="line"/>
-    </contour>
-    <contour>
-      <point x="0" y="750" type="move" name="_top.UC"/>
-    </contour>
-  </outline>
+<glyph name="caroncomb.cap" format="2">
+	<outline>
+		<contour>
+			<point x="-190" y="943" type="line"/>
+			<point x="-57" y="799" type="line"/>
+			<point x="57" y="799" type="line"/>
+			<point x="190" y="943" type="line"/>
+			<point x="83" y="943" type="line"/>
+			<point x="-50" y="815" type="line"/>
+			<point x="52" y="815" type="line"/>
+			<point x="-82" y="943" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top.UC" x="0" y="750"/>
 </glyph>

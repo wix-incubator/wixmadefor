@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gje" format="1">
-  <advance width="461"/>
-  <unicode hex="0453"/>
-  <outline>
-    <component base="ghe"/>
-    <component base="acutecomb" xOffset="254"/>
-  </outline>
+<glyph name="gje" format="2">
+	<unicode hex="0453"/>
+	<advance width="461"/>
+	<outline>
+		<component base="ghe"/>
+		<component base="acutecomb" xOffset="254"/>
+	</outline>
 </glyph>

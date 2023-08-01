@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Pe" format="1">
-  <advance width="772"/>
-  <unicode hex="041F"/>
-  <outline>
-    <contour>
-      <point x="89" y="0" type="line"/>
-      <point x="204" y="0" type="line"/>
-      <point x="204" y="688" type="line"/>
-      <point x="142" y="616" type="line"/>
-      <point x="626" y="616" type="line"/>
-      <point x="568" y="688" type="line"/>
-      <point x="568" y="0" type="line"/>
-      <point x="683" y="0" type="line"/>
-      <point x="683" y="715" type="line"/>
-      <point x="89" y="715" type="line"/>
-    </contour>
-  </outline>
+<glyph name="Pe" format="2">
+	<unicode hex="041F"/>
+	<advance width="772"/>
+	<outline>
+		<contour>
+			<point x="89" y="0" type="line"/>
+			<point x="204" y="0" type="line"/>
+			<point x="204" y="688" type="line"/>
+			<point x="142" y="616" type="line"/>
+			<point x="626" y="616" type="line"/>
+			<point x="568" y="688" type="line"/>
+			<point x="568" y="0" type="line"/>
+			<point x="683" y="0" type="line"/>
+			<point x="683" y="715" type="line"/>
+			<point x="89" y="715" type="line"/>
+		</contour>
+	</outline>
 </glyph>

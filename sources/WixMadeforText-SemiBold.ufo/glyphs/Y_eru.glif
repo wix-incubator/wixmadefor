@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Yeru" format="1">
-  <advance width="913"/>
-  <unicode hex="042B"/>
-  <outline>
-    <component base="Soft"/>
-    <component base="I" xOffset="607"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>En</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>En</string>
-    </dict>
-  </lib>
+<glyph name="Yeru" format="2">
+	<unicode hex="042B"/>
+	<advance width="913"/>
+	<outline>
+		<component base="Soft"/>
+		<component base="I" xOffset="607"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>En</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>En</string>
+		</dict>
+	</lib>
 </glyph>

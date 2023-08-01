@@ -160,6 +160,7 @@
 			<integer>37</integer>
 			<integer>38</integer>
 			<integer>45</integer>
+			<integer>47</integer>
 			<integer>67</integer>
 		</array>
 		<key>openTypeOS2VendorID</key>
@@ -189,7 +190,7 @@
 		<key>versionMajor</key>
 		<integer>3</integer>
 		<key>versionMinor</key>
-		<integer>0</integer>
+		<integer>100</integer>
 		<key>xHeight</key>
 		<integer>492</integer>
 	</dict>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iegrave" format="1">
-  <advance width="580"/>
-  <unicode hex="0450"/>
-  <outline>
-    <component base="e"/>
-    <component base="gravecomb" xOffset="294"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>ie</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>ie</string>
-    </dict>
-  </lib>
+<glyph name="iegrave" format="2">
+	<unicode hex="0450"/>
+	<advance width="580"/>
+	<outline>
+		<component base="e"/>
+		<component base="gravecomb" xOffset="294"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>ie</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>ie</string>
+		</dict>
+	</lib>
 </glyph>

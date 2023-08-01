@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="icyr" format="1">
-  <advance width="601"/>
-  <unicode hex="0438"/>
-  <outline>
-    <contour>
-      <point x="75" y="0" type="line"/>
-      <point x="177" y="0" type="line"/>
-      <point x="421" y="341" type="line"/>
-      <point x="414" y="347" type="line"/>
-      <point x="414" y="0" type="line"/>
-      <point x="526" y="0" type="line"/>
-      <point x="526" y="500" type="line"/>
-      <point x="423" y="500" type="line"/>
-      <point x="179" y="159" type="line"/>
-      <point x="186" y="153" type="line"/>
-      <point x="186" y="500" type="line"/>
-      <point x="75" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="307" y="544" type="move" name="top.LC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>en</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>en</string>
-    </dict>
-  </lib>
+<glyph name="icyr" format="2">
+	<unicode hex="0438"/>
+	<advance width="601"/>
+	<outline>
+		<contour>
+			<point x="75" y="0" type="line"/>
+			<point x="177" y="0" type="line"/>
+			<point x="421" y="341" type="line"/>
+			<point x="414" y="347" type="line"/>
+			<point x="414" y="0" type="line"/>
+			<point x="526" y="0" type="line"/>
+			<point x="526" y="500" type="line"/>
+			<point x="423" y="500" type="line"/>
+			<point x="179" y="159" type="line"/>
+			<point x="186" y="153" type="line"/>
+			<point x="186" y="500" type="line"/>
+			<point x="75" y="500" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top.LC" x="307" y="544"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>en</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>en</string>
+		</dict>
+	</lib>
 </glyph>
